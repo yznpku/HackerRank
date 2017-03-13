@@ -1,8 +1,8 @@
 HackerRank Solutions in Python3
 ======
-Algorithms
+Algorithms(1/395)
 ------
-Data Structures
+Data Structures(0/113)
 ------
-Mathematics
+Mathematics(0/249)
 ------
