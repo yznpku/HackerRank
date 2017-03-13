@@ -1,0 +1,3 @@
+\.directory
+solution/**/verify-solution.py
+solution/**/fetch-challenge.py
