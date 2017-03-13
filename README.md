@@ -25,7 +25,7 @@ Algorithms
 ### Warmup
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](blob/solution/practice/algorithms/warmup/solve-me-first/solution.py)
+1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](solution/practice/algorithms/warmup/solve-me-first/solution.py)
 2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | WIP
 3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | WIP
 4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | WIP
