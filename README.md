@@ -1,7 +1,7 @@
 HackerRank Solutions in Python3
 ======
 
-This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. I'm trying to keep the code as consice and efficient as possible. It might not be perfect though, due to the limitation of my ability and skill. Feel free to make suggestions if you spot something that can be improved.
+This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. I'm trying to keep the code as concise and efficient as possible. It might not be perfect though, due to the limitation of my ability and skill. Feel free to make suggestions if you spot something that can be improved.
 
 * [Algorithms](#algorithms) (1/395)
 * [Data Structures](#data-structures) (0/113)
