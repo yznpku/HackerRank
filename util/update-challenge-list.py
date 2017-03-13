@@ -14,68 +14,66 @@ import os.path
 import scrapy
 import scrapy.crawler
 
+tracks = []
+
 class HackerSpider(scrapy.Spider):
   name = 'list-challenge'
   
   def start_requests(self):
-    tracks = [
+    tracks_list = [
       { 'title': 'Algorithms', 'name': 'algorithms' },
       { 'title': 'Data Structures', 'name': 'data-structures' },
       { 'title': 'Mathematics', 'name': 'mathematics' },
       ]
-    for i, track in enumerate(tracks):
-      d = {
-        'track-id': i,
-        'track-title': track['title'],
-        'track-name': track['name'],
-        }
+    for i, track in enumerate(tracks_list):
+      tracks.append({
+        'title': track['title'],
+        'name': track['name'],
+        'chapters': [],
+        })
       url = 'https://www.hackerrank.com/rest/contests/master/tracks/' + track['name'] + '/chapters'
-      yield scrapy.Request(url=url, callback=functools.partial(self.parse_chapters, d=d))
+      yield scrapy.Request(url=url, callback=functools.partial(self.parse_chapters, d={
+        'track-id': i,
+        }))
   
   def parse_chapters(self, response, d):
     json_object = json.loads(response.text)
     for i, chapter in enumerate(json_object['models']):
-      next_d = d.copy()
-      next_d['chapter-id'] = i
-      next_d['chapter-title'] = chapter['name']
-      next_d['chapter-name'] = chapter['slug']
-      next_d['count'] = chapter['challenges_count']
-      next_d['current'] = 0
-      url = 'https://www.hackerrank.com/rest/contests/master/categories/' + d['track-name'] + '%7C' + chapter['slug'] + '/challenges?offset=0&limit=10'
-      yield scrapy.Request(url=url, callback=functools.partial(self.parse_page, d=next_d))
+      tracks[d['track-id']]['chapters'].append({
+        'title': chapter['name'],
+        'name': chapter['slug'],
+        'challenges': [None] * chapter['challenges_count'],
+        })
+      for offset in range(0, chapter['challenges_count'], 10):
+        url = 'https://www.hackerrank.com/rest/contests/master/categories/' \
+              + tracks[d['track-id']]['name'] + '%7C' + chapter['slug'] \
+              + '/challenges?offset=' + str(offset) + '&limit=10'
+        yield scrapy.Request(url=url, callback=functools.partial(self.parse_page, d={
+          'track-id': d['track-id'],
+          'chapter-id': i,
+          'offset': offset,
+          }))
       
   def parse_page(self, response, d):
     json_object = json.loads(response.text)
-    currentPageStart = d['current']
     for i, challenge in enumerate(json_object['models']):
-      out = {
-        'domain': 'practice',
-        'track-id': d['track-id'],
-        'track-title': d['track-title'],
-        'track-name': d['track-name'],
-        'chapter-id': d['chapter-id'],
-        'chapter-title': d['chapter-title'],
-        'chapter-name': d['chapter-name'],
-        'id': currentPageStart + i,
+      tracks[d['track-id']]['chapters'][d['chapter-id']]['challenges'][d['offset'] + i] = {
         'title': challenge['name'],
         'name': challenge['slug'],
         }
-      result.append(out)
-    if d['current'] + 10 < d['count']:
-      next_d = d.copy()
-      next_d['current'] += 10
-      url = 'https://www.hackerrank.com/rest/contests/master/categories/algorithms%7C' + d['chapter-name'] + '/challenges?offset=' + str(next_d['current']) + '&limit=10'
-      yield scrapy.Request(url=url, callback=functools.partial(self.parse_page, d=next_d))
         
 if __name__ == '__main__':
-  result = []
+  
   process = scrapy.crawler.CrawlerProcess({
     'USER_AGENT': 'Mozilla/5.0 (X11; Linux x86_64; rv:48.0) Gecko/20100101 Firefox/48.0'
     })
   process.crawl(HackerSpider)
   process.start()
-  result.sort(key=lambda x: x['id'])
-  result.sort(key=lambda x: x['chapter-id'])
-  result.sort(key=lambda x: x['track-id'])
+  #challenges.sort(key=lambda x: x['id'])
+  #challenges.sort(key=lambda x: x['chapter-id'])
+  #challenges.sort(key=lambda x: x['track-id'])
   with open(os.path.realpath(os.path.dirname(__file__) + '/../challenges.json'), 'w') as f:
-    f.write(json.dumps(result, indent=4, separators=(',', ': ')))
+    result = {
+      'tracks': tracks
+      }
+    f.write(json.dumps(result, indent=2, separators=(',', ': ')))

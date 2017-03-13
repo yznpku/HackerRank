@@ -12,15 +12,13 @@ import os
 import os.path
 import json
 
-
 with open(os.path.dirname(__file__) + '/../challenges.json', 'r') as f:
-  challenges = json.loads(f.read())
-  print(len(challenges))
-  for challenge in challenges:
-    path_to_challenge = '/../solution/' + challenge['domain'] + '/'
-    if challenge['domain'] == 'practice':
-      path_to_challenge += challenge['track-name'] + '/' + challenge['chapter-name'] + '/' + challenge['name']
-      try:
-        os.makedirs(os.path.dirname(__file__) + path_to_challenge)
-      except FileExistsError:
-        pass
+  json_root = json.loads(f.read())
+  for track in json_root['tracks']:
+    for chapter in track['chapters']:
+      for challenge in chapter['challenges']:
+        path_to_challenge = '/../solution/practice/' + track['name'] + '/' + chapter['name'] + '/' + challenge['name']
+        try:
+          os.makedirs(os.path.dirname(__file__) + path_to_challenge)
+        except FileExistsError:
+          pass
