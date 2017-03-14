@@ -6,7 +6,7 @@ This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions w
 Index
 ======
 
-* [Algorithms](#algorithms) (18/395)
+* [Algorithms](#algorithms) (20/395)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/249)
 
@@ -14,8 +14,8 @@ Algorithms
 ------
 
 * [Warmup](#warmup) (9/9)
-* [Implementation](#implementation) (7/57)
-* [Strings](#strings) (0/42)
+* [Implementation](#implementation) (8/57)
+* [Strings](#strings) (1/42)
 * [Sorting](#sorting) (0/18)
 * [Search](#search) (2/21)
 * [Graph Theory](#graph-theory) (0/56)
@@ -97,7 +97,7 @@ Algorithms
 52 | [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) | WIP
 53 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | WIP
 54 | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | WIP
-55 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | WIP
+55 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | [Solution & Comment](solution/practice/algorithms/implementation/larrys-array/solution.py)
 56 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | WIP
 57 | [Matrix Layer Rotation ](https://www.hackerrank.com/challenges/matrix-rotation-algo) | WIP
 
@@ -114,7 +114,7 @@ Algorithms
 8 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | WIP
 9 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | WIP
 10 | [Alternating Characters ](https://www.hackerrank.com/challenges/alternating-characters) | WIP
-11 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | WIP
+11 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution & Comment](solution/practice/algorithms/strings/beautiful-binary-string/solution.py)
 12 | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | WIP
 13 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) | WIP
 14 | [Anagram](https://www.hackerrank.com/challenges/anagram) | WIP
