@@ -68,6 +68,10 @@
               "title": "Divisible Sum Pairs"
             },
             {
+              "name": "migratory-birds",
+              "title": "Migratory Birds"
+            },
+            {
               "name": "bon-appetit",
               "title": "Bon App\u00e9tit"
             },
@@ -282,6 +286,10 @@
         {
           "challenges": [
             {
+              "name": "hackerrank-in-a-string",
+              "title": "HackerRank in a String!"
+            },
+            {
               "name": "reduced-string",
               "title": "Super Reduced String"
             },
@@ -328,6 +336,10 @@
             {
               "name": "the-love-letter-mystery",
               "title": "The Love-Letter Mystery"
+            },
+            {
+              "name": "determining-dna-health",
+              "title": "Determining DNA Health"
             },
             {
               "name": "palindrome-index",
@@ -550,6 +562,10 @@
               "title": "Missing Numbers"
             },
             {
+              "name": "knightl-on-chessboard",
+              "title": "KnightL on a Chessboard"
+            },
+            {
               "name": "pairs",
               "title": "Pairs"
             },
@@ -568,6 +584,10 @@
             {
               "name": "short-palindrome",
               "title": "Short Palindrome"
+            },
+            {
+              "name": "maximizing-mission-points",
+              "title": "Maximizing Mission Points"
             },
             {
               "name": "count-luck",
@@ -854,6 +874,14 @@
         {
           "challenges": [
             {
+              "name": "minimum-absolute-difference-in-an-array",
+              "title": "Minimum Absolute Difference in an Array"
+            },
+            {
+              "name": "marcs-cakewalk",
+              "title": "Marc's Cakewalk"
+            },
+            {
               "name": "grid-challenge",
               "title": "Grid Challenge"
             },
@@ -1112,6 +1140,10 @@
               "title": "Far Vertices"
             },
             {
+              "name": "counting-road-networks",
+              "title": "Counting Road Networks"
+            },
+            {
               "name": "superman-celebrates-diwali",
               "title": "Superman Celebrates Diwali "
             },
@@ -1313,6 +1345,10 @@
         },
         {
           "challenges": [
+            {
+              "name": "lena-sort",
+              "title": "Lena Sort"
+            },
             {
               "name": "flipping-the-matrix",
               "title": "Flipping the Matrix"
@@ -2338,6 +2374,10 @@
             {
               "name": "mehta-and-his-laziness",
               "title": "Mehta and his Laziness"
+            },
+            {
+              "name": "minimal-distance-to-pi",
+              "title": "Minimal Distance to Pi"
             },
             {
               "name": "help-mike",
