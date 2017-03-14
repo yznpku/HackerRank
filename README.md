@@ -3,7 +3,7 @@ HackerRank Solutions in Python3
 
 This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. I'm trying to keep the code as concise and efficient as possible. It might not be perfect though, due to the limitation of my ability and skill. Feel free to make suggestions if you spot something that can be improved.
 
-* [Algorithms](#algorithms) (1/395)
+* [Algorithms](#algorithms) (3/395)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/249)
 
@@ -14,7 +14,7 @@ Algorithms
 * [Implementation](#implementation) (0/57)
 * [Strings](#strings) (0/42)
 * [Sorting](#sorting) (0/18)
-* [Search](#search) (0/21)
+* [Search](#search) (2/21)
 * [Graph Theory](#graph-theory) (0/56)
 * [Greedy](#greedy) (0/20)
 * [Dynamic Programming](#dynamic-programming) (0/92)
@@ -169,8 +169,8 @@ Algorithms
 ### Search
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters) | WIP
-2 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | WIP
+1 | [Hackerland Radio Transmitters](https://www.hackerrank.com/challenges/hackerland-radio-transmitters) | [Solution & Comment](solution/practice/algorithms/search/hackerland-radio-transmitters/solution.py)
+2 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution & Comment](solution/practice/algorithms/search/icecream-parlor/solution.py)
 3 | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro) | WIP
 4 | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers) | WIP
 5 | [Pairs](https://www.hackerrank.com/challenges/pairs) | WIP
