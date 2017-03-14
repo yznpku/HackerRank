@@ -1,4 +1,12 @@
 #!/usr/bin/python3
+#
+# This script will use challenge.json to generate README.md
+# for the repository. It will compare the challenge list
+# with all solutions present in the repository to calculate
+# progress and fill up links.
+#
+# To get an up-to-date version of challenges.json, run
+# 'update-challenge-list.py'.
 
 import json
 import os.path
@@ -33,9 +41,10 @@ with open(os.path.dirname(__file__) + '/../challenges.json', 'r') as file_challe
   # write to README.md
   fout.write('HackerRank Solutions in Python3\n======\n\n')
   fout.write('This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. '
-             'I\'m trying to keep the code as concise and efficient as possible. '
-             'It might not be perfect though, due to the limitation of my ability and skill. '
-             'Feel free to make suggestions if you spot something that can be improved.\n\n')
+             'The goal of this series is to keep the code as concise and efficient as possible. '
+             'It might not be perfect due to the limitation of my ability and skill, so '
+             'feel free to make suggestions if you spot something that can be improved.\n\n')
+  fout.write('Index\n======\n\n')
   for track in json_root['tracks']:
     fout.write('* [%s](#%s) (%d/%d)\n' % (track['title'], anchor_from_title(track['title']), track['finish-count'], track['count']))
   fout.write('\n')

@@ -1,17 +1,20 @@
 HackerRank Solutions in Python3
 ======
 
-This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. I'm trying to keep the code as concise and efficient as possible. It might not be perfect though, due to the limitation of my ability and skill. Feel free to make suggestions if you spot something that can be improved.
+This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. The goal of this series is to keep the code as concise and efficient as possible. It might not be perfect due to the limitation of my ability and skill, so feel free to make suggestions if you spot something that can be improved.
 
-* [Algorithms](#algorithms) (3/395)
+Index
+======
+
+* [Algorithms](#algorithms) (18/395)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/249)
 
 Algorithms
 ------
 
-* [Warmup](#warmup) (1/9)
-* [Implementation](#implementation) (0/57)
+* [Warmup](#warmup) (9/9)
+* [Implementation](#implementation) (7/57)
 * [Strings](#strings) (0/42)
 * [Sorting](#sorting) (0/18)
 * [Search](#search) (2/21)
@@ -28,25 +31,25 @@ Algorithms
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [Solve Me First](https://www.hackerrank.com/challenges/solve-me-first) | [Solution & Comment](solution/practice/algorithms/warmup/solve-me-first/solution.py)
-2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | WIP
-3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | WIP
-4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | WIP
-5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | WIP
-6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | WIP
-7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | WIP
-8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | WIP
-9 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | WIP
+2 | [Simple Array Sum](https://www.hackerrank.com/challenges/simple-array-sum) | [Solution & Comment](solution/practice/algorithms/warmup/simple-array-sum/solution.py)
+3 | [Compare the Triplets](https://www.hackerrank.com/challenges/compare-the-triplets) | [Solution & Comment](solution/practice/algorithms/warmup/compare-the-triplets/solution.py)
+4 | [A Very Big Sum](https://www.hackerrank.com/challenges/a-very-big-sum) | [Solution & Comment](solution/practice/algorithms/warmup/a-very-big-sum/solution.py)
+5 | [Diagonal Difference](https://www.hackerrank.com/challenges/diagonal-difference) | [Solution & Comment](solution/practice/algorithms/warmup/diagonal-difference/solution.py)
+6 | [Plus Minus](https://www.hackerrank.com/challenges/plus-minus) | [Solution & Comment](solution/practice/algorithms/warmup/plus-minus/solution.py)
+7 | [Staircase](https://www.hackerrank.com/challenges/staircase) | [Solution & Comment](solution/practice/algorithms/warmup/staircase/solution.py)
+8 | [Mini-Max Sum](https://www.hackerrank.com/challenges/mini-max-sum) | [Solution & Comment](solution/practice/algorithms/warmup/mini-max-sum/solution.py)
+9 | [Time Conversion](https://www.hackerrank.com/challenges/time-conversion) | [Solution & Comment](solution/practice/algorithms/warmup/time-conversion/solution.py)
 
 ### Implementation
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Grading Students](https://www.hackerrank.com/challenges/grading) | WIP
-2 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | WIP
-3 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | WIP
-4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | WIP
-5 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | WIP
-6 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | WIP
-7 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | WIP
+1 | [Grading Students](https://www.hackerrank.com/challenges/grading) | [Solution & Comment](solution/practice/algorithms/implementation/grading/solution.py)
+2 | [Apple and Orange](https://www.hackerrank.com/challenges/apple-and-orange) | [Solution & Comment](solution/practice/algorithms/implementation/apple-and-orange/solution.py)
+3 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | [Solution & Comment](solution/practice/algorithms/implementation/kangaroo/solution.py)
+4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [Solution & Comment](solution/practice/algorithms/implementation/between-two-sets/solution.py)
+5 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution & Comment](solution/practice/algorithms/implementation/divisible-sum-pairs/solution.py)
+6 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
+7 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
 8 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
 9 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
 10 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP

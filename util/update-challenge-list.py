@@ -68,11 +68,5 @@ if __name__ == '__main__':
     })
   process.crawl(HackerSpider)
   process.start()
-  #challenges.sort(key=lambda x: x['id'])
-  #challenges.sort(key=lambda x: x['chapter-id'])
-  #challenges.sort(key=lambda x: x['track-id'])
   with open(os.path.realpath(os.path.dirname(__file__) + '/../challenges.json'), 'w') as f:
-    result = {
-      'tracks': tracks
-      }
-    f.write(json.dumps(result, indent=2, separators=(',', ': ')))
+    f.write(json.dumps({'tracks': tracks}, indent=2, separators=(',', ': ')))
