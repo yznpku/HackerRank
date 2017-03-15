@@ -6,7 +6,7 @@ This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions w
 Index
 ======
 
-* [Algorithms](#algorithms) (21/404)
+* [Algorithms](#algorithms) (25/404)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/250)
 
@@ -18,8 +18,8 @@ Algorithms
 * [Strings](#strings) (2/44)
 * [Sorting](#sorting) (0/18)
 * [Search](#search) (2/23)
-* [Graph Theory](#graph-theory) (0/56)
-* [Greedy](#greedy) (0/22)
+* [Graph Theory](#graph-theory) (2/56)
+* [Greedy](#greedy) (2/22)
 * [Dynamic Programming](#dynamic-programming) (0/93)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
@@ -213,14 +213,14 @@ Algorithms
 9 | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | WIP
 10 | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | WIP
 11 | [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits) | WIP
-12 | [Clique](https://www.hackerrank.com/challenges/clique) | WIP
+12 | [Clique](https://www.hackerrank.com/challenges/clique) | [Solution & Comment](solution/practice/algorithms/graph-theory/clique/solution.py)
 13 | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path) | WIP
 14 | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money) | WIP
 15 | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths) | WIP
 16 | [Jack goes to Rapture ](https://www.hackerrank.com/challenges/jack-goes-to-rapture) | WIP
 17 | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs) | WIP
 18 | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments) | WIP
-19 | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route) | WIP
+19 | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route) | [Solution & Comment](solution/practice/algorithms/graph-theory/jeanies-route/solution.py)
 20 | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | WIP
 21 | [Roads in HackerLand](https://www.hackerrank.com/challenges/johnland) | WIP
 22 | [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity) | WIP
@@ -262,7 +262,7 @@ Algorithms
 ### Greedy
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | WIP
+1 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution & Comment](solution/practice/algorithms/greedy/minimum-absolute-difference-in-an-array/solution.py)
 2 | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | WIP
 3 | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | WIP
 4 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | WIP
@@ -277,7 +277,7 @@ Algorithms
 13 | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders) | WIP
 14 | [Permuting Two Arrays](https://www.hackerrank.com/challenges/two-arrays) | WIP
 15 | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting) | WIP
-16 | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge) | WIP
+16 | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge) | [Solution & Comment](solution/practice/algorithms/greedy/reverse-shuffle-merge/solution.py)
 17 | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons) | WIP
 18 | [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper) | WIP
 19 | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax) | WIP
