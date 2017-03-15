@@ -6,7 +6,7 @@ This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions w
 Index
 ======
 
-* [Algorithms](#algorithms) (25/404)
+* [Algorithms](#algorithms) (27/404)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/250)
 
@@ -19,7 +19,7 @@ Algorithms
 * [Sorting](#sorting) (0/18)
 * [Search](#search) (2/23)
 * [Graph Theory](#graph-theory) (2/56)
-* [Greedy](#greedy) (2/22)
+* [Greedy](#greedy) (4/22)
 * [Dynamic Programming](#dynamic-programming) (0/93)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
@@ -268,7 +268,7 @@ Algorithms
 4 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | WIP
 5 | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | WIP
 6 | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | WIP
-7 | [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | WIP
+7 | [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution & Comment](solution/practice/algorithms/greedy/sherlock-and-the-beast/solution.py)
 8 | [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | WIP
 9 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation) | WIP
 10 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) | WIP
@@ -279,7 +279,7 @@ Algorithms
 15 | [Cutting Boards](https://www.hackerrank.com/challenges/board-cutting) | WIP
 16 | [Reverse Shuffle Merge](https://www.hackerrank.com/challenges/reverse-shuffle-merge) | [Solution & Comment](solution/practice/algorithms/greedy/reverse-shuffle-merge/solution.py)
 17 | [Goodland Electricity](https://www.hackerrank.com/challenges/pylons) | WIP
-18 | [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper) | WIP
+18 | [Chief Hopper](https://www.hackerrank.com/challenges/chief-hopper) | [Solution & Comment](solution/practice/algorithms/greedy/chief-hopper/solution.py)
 19 | [Sherlock and MiniMax](https://www.hackerrank.com/challenges/sherlock-and-minimax) | WIP
 20 | [Accessory Collection](https://www.hackerrank.com/challenges/accessory-collection) | WIP
 21 | [Team Formation](https://www.hackerrank.com/challenges/team-formation) | WIP
