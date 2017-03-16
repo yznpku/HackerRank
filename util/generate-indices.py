@@ -43,7 +43,9 @@ with open(os.path.dirname(__file__) + '/../challenges.json', 'r') as file_challe
   fout.write('This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. '
              'The goal of this series is to keep the code as concise and efficient as possible. '
              'It might not be perfect due to the limitation of my ability and skill, so '
-             'feel free to make suggestions if you spot something that can be improved.\n\n')
+             'feel free to make suggestions if you spot something that can be improved.\n\n'
+             'The index below is auto-generated. See [update-challenge-list.py](util/update-challenge-list.py) '
+             'and [generate-indices.py](util/generate-indices.py).')
   fout.write('Index\n======\n\n')
   for track in json_root['tracks']:
     fout.write('* [%s](#%s) (%d/%d)\n' % (track['title'], anchor_from_title(track['title']), track['finish-count'], track['count']))

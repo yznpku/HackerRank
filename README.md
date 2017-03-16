@@ -3,10 +3,10 @@ HackerRank Solutions in Python3
 
 This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. The goal of this series is to keep the code as concise and efficient as possible. It might not be perfect due to the limitation of my ability and skill, so feel free to make suggestions if you spot something that can be improved.
 
-Index
+The index below is auto-generated. See [update-challenge-list.py](util/update-challenge-list.py) and [generate-indices.py](util/generate-indices.py).Index
 ======
 
-* [Algorithms](#algorithms) (27/404)
+* [Algorithms](#algorithms) (32/404)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/250)
 
@@ -16,7 +16,7 @@ Algorithms
 * [Warmup](#warmup) (9/9)
 * [Implementation](#implementation) (8/58)
 * [Strings](#strings) (2/44)
-* [Sorting](#sorting) (0/18)
+* [Sorting](#sorting) (5/18)
 * [Search](#search) (2/23)
 * [Graph Theory](#graph-theory) (2/56)
 * [Greedy](#greedy) (4/22)
@@ -153,10 +153,10 @@ Algorithms
 ### Sorting
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | WIP
-2 | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | WIP
-3 | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | WIP
-4 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | WIP
+1 | [Intro to Tutorial Challenges](https://www.hackerrank.com/challenges/tutorial-intro) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/tutorial-intro/solution.py)
+2 | [Insertion Sort - Part 1](https://www.hackerrank.com/challenges/insertionsort1) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/insertionsort1/solution.py)
+3 | [Insertion Sort - Part 2](https://www.hackerrank.com/challenges/insertionsort2) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/insertionsort2/solution.py)
+4 | [Correctness and the Loop Invariant](https://www.hackerrank.com/challenges/correctness-invariant) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/correctness-invariant/solution.py)
 5 | [Running Time of Algorithms](https://www.hackerrank.com/challenges/runningtime) | WIP
 6 | [Quicksort 1 - Partition](https://www.hackerrank.com/challenges/quicksort1) | WIP
 7 | [Quicksort 2 - Sorting](https://www.hackerrank.com/challenges/quicksort2) | WIP
@@ -170,7 +170,7 @@ Algorithms
 15 | [Find the Median](https://www.hackerrank.com/challenges/find-the-median) | WIP
 16 | [Insertion Sort Advanced Analysis](https://www.hackerrank.com/challenges/insertion-sort) | WIP
 17 | [Fraudulent Activity Notifications](https://www.hackerrank.com/challenges/fraudulent-activity-notifications) | WIP
-18 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) | WIP
+18 | [Lily's Homework](https://www.hackerrank.com/challenges/lilys-homework) | [Solution & Comment](solution/practice/algorithms/arrays-and-sorting/lilys-homework/solution.py)
 
 ### Search
 \# | Challenge | Solution
