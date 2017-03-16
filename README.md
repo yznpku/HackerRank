@@ -8,7 +8,7 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (32/404)
+* [Algorithms](#algorithms) (36/404)
 * [Data Structures](#data-structures) (0/113)
 * [Mathematics](#mathematics) (0/250)
 
@@ -17,7 +17,7 @@ Algorithms
 
 * [Warmup](#warmup) (9/9)
 * [Implementation](#implementation) (8/58)
-* [Strings](#strings) (2/44)
+* [Strings](#strings) (6/44)
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (2/23)
 * [Graph Theory](#graph-theory) (2/56)
@@ -108,26 +108,26 @@ Algorithms
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | WIP
-2 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | WIP
+2 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Solution & Comment](solution/practice/algorithms/strings/reduced-string/solution.py)
 3 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | WIP
 4 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | WIP
 5 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | WIP
 6 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | WIP
 7 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | WIP
 8 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | WIP
-9 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | WIP
+9 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | [Solution & Comment](solution/practice/algorithms/strings/funny-string/solution.py)
 10 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | WIP
 11 | [Alternating Characters ](https://www.hackerrank.com/challenges/alternating-characters) | WIP
 12 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution & Comment](solution/practice/algorithms/strings/beautiful-binary-string/solution.py)
 13 | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | WIP
 14 | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | WIP
-15 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) | WIP
+15 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) | [Solution & Comment](solution/practice/algorithms/strings/palindrome-index/solution.py)
 16 | [Anagram](https://www.hackerrank.com/challenges/anagram) | WIP
 17 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | WIP
 18 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | WIP
 19 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [Solution & Comment](solution/practice/algorithms/strings/two-strings/solution.py)
 20 | [String Construction ](https://www.hackerrank.com/challenges/string-construction) | WIP
-21 | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | WIP
+21 | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [Solution & Comment](solution/practice/algorithms/strings/sherlock-and-valid-string/solution.py)
 22 | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich) | WIP
 23 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | WIP
 24 | [Common Child](https://www.hackerrank.com/challenges/common-child) | WIP
