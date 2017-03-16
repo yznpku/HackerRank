@@ -3,7 +3,9 @@ HackerRank Solutions in Python3
 
 This is a collection of my [HackerRank](https://www.hackerrank.com/) solutions written in Python3. The goal of this series is to keep the code as concise and efficient as possible. It might not be perfect due to the limitation of my ability and skill, so feel free to make suggestions if you spot something that can be improved.
 
-The index below is auto-generated. See [update-challenge-list.py](util/update-challenge-list.py) and [generate-indices.py](util/generate-indices.py).Index
+The index below is auto-generated. See [update-challenge-list.py](util/update-challenge-list.py) and [generate-indices.py](util/generate-indices.py).
+
+Index
 ======
 
 * [Algorithms](#algorithms) (32/404)
