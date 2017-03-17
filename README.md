@@ -8,21 +8,21 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (41/404)
-* [Data Structures](#data-structures) (0/113)
+* [Algorithms](#algorithms) (44/409)
+* [Data Structures](#data-structures) (0/114)
 * [Mathematics](#mathematics) (0/250)
 
 Algorithms
 ------
 
 * [Warmup](#warmup) (9/9)
-* [Implementation](#implementation) (8/58)
-* [Strings](#strings) (11/44)
+* [Implementation](#implementation) (8/59)
+* [Strings](#strings) (11/45)
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (2/23)
-* [Graph Theory](#graph-theory) (2/56)
+* [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (4/22)
-* [Dynamic Programming](#dynamic-programming) (0/93)
+* [Dynamic Programming](#dynamic-programming) (3/94)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (0/10)
@@ -50,107 +50,109 @@ Algorithms
 3 | [Kangaroo](https://www.hackerrank.com/challenges/kangaroo) | [Solution & Comment](solution/practice/algorithms/implementation/kangaroo/solution.py)
 4 | [Between Two Sets](https://www.hackerrank.com/challenges/between-two-sets) | [Solution & Comment](solution/practice/algorithms/implementation/between-two-sets/solution.py)
 5 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution & Comment](solution/practice/algorithms/implementation/divisible-sum-pairs/solution.py)
-6 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | WIP
-7 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
-8 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
-9 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
-10 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
-11 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
-12 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
-13 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
-14 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
-15 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
-16 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | WIP
-17 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
-18 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
-19 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
-20 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | WIP
-21 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | WIP
-22 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
-23 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | WIP
-24 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | WIP
-25 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
-26 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | WIP
-27 | [Library Fine](https://www.hackerrank.com/challenges/library-fine) | WIP
-28 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | WIP
-29 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | WIP
-30 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | WIP
-31 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | WIP
-32 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) | WIP
-33 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | WIP
-34 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | WIP
-35 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) | WIP
-36 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | WIP
-37 | [Encryption](https://www.hackerrank.com/challenges/encryption) | WIP
-38 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | WIP
-39 | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) | WIP
-40 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) | WIP
-41 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) | WIP
-42 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | WIP
-43 | [Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast) | WIP
-44 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | WIP
-45 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | WIP
-46 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | WIP
-47 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | WIP
-48 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | WIP
-49 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | WIP
-50 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | WIP
-51 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | WIP
-52 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | WIP
-53 | [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) | WIP
-54 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | WIP
-55 | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | WIP
-56 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | [Solution & Comment](solution/practice/algorithms/implementation/larrys-array/solution.py)
-57 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | WIP
-58 | [Matrix Layer Rotation ](https://www.hackerrank.com/challenges/matrix-rotation-algo) | WIP
+6 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | WIP
+7 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | WIP
+8 | [Bon Appétit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
+9 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
+10 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
+11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
+12 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
+13 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
+14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
+15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
+16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
+17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | WIP
+18 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
+19 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
+20 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
+21 | [Circular Array Rotation](https://www.hackerrank.com/challenges/circular-array-rotation) | WIP
+22 | [Sequence Equation](https://www.hackerrank.com/challenges/permutation-equation) | WIP
+23 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
+24 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | WIP
+25 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | WIP
+26 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
+27 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | WIP
+28 | [Library Fine](https://www.hackerrank.com/challenges/library-fine) | WIP
+29 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | WIP
+30 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | WIP
+31 | [Repeated String](https://www.hackerrank.com/challenges/repeated-string) | WIP
+32 | [Jumping on the Clouds](https://www.hackerrank.com/challenges/jumping-on-the-clouds) | WIP
+33 | [Equalize the Array](https://www.hackerrank.com/challenges/equality-in-a-array) | WIP
+34 | [Queen's Attack II](https://www.hackerrank.com/challenges/queens-attack-2) | WIP
+35 | [ACM ICPC Team](https://www.hackerrank.com/challenges/acm-icpc-team) | WIP
+36 | [Taum and B'day](https://www.hackerrank.com/challenges/taum-and-bday) | WIP
+37 | [Organizing Containers of Balls](https://www.hackerrank.com/challenges/organizing-containers-of-balls) | WIP
+38 | [Encryption](https://www.hackerrank.com/challenges/encryption) | WIP
+39 | [Bigger is Greater](https://www.hackerrank.com/challenges/bigger-is-greater) | WIP
+40 | [Modified Kaprekar Numbers](https://www.hackerrank.com/challenges/kaprekar-numbers) | WIP
+41 | [Beautiful Triplets](https://www.hackerrank.com/challenges/beautiful-triplets) | WIP
+42 | [Minimum Distances](https://www.hackerrank.com/challenges/minimum-distances) | WIP
+43 | [The Time in Words](https://www.hackerrank.com/challenges/the-time-in-words) | WIP
+44 | [Chocolate Feast ](https://www.hackerrank.com/challenges/chocolate-feast) | WIP
+45 | [Service Lane](https://www.hackerrank.com/challenges/service-lane) | WIP
+46 | [Lisa's Workbook](https://www.hackerrank.com/challenges/lisa-workbook) | WIP
+47 | [Flatland Space Stations](https://www.hackerrank.com/challenges/flatland-space-stations) | WIP
+48 | [Fair Rations](https://www.hackerrank.com/challenges/fair-rations) | WIP
+49 | [Cavity Map](https://www.hackerrank.com/challenges/cavity-map) | WIP
+50 | [Manasa and Stones](https://www.hackerrank.com/challenges/manasa-and-stones) | WIP
+51 | [The Grid Search](https://www.hackerrank.com/challenges/the-grid-search) | WIP
+52 | [Happy Ladybugs](https://www.hackerrank.com/challenges/happy-ladybugs) | WIP
+53 | [Strange Counter](https://www.hackerrank.com/challenges/strange-code) | WIP
+54 | [Absolute Permutation](https://www.hackerrank.com/challenges/absolute-permutation) | WIP
+55 | [The Bomberman Game](https://www.hackerrank.com/challenges/bomber-man) | WIP
+56 | [Ema's Supercomputer](https://www.hackerrank.com/challenges/two-pluses) | WIP
+57 | [Larry's Array](https://www.hackerrank.com/challenges/larrys-array) | [Solution & Comment](solution/practice/algorithms/implementation/larrys-array/solution.py)
+58 | [Almost Sorted](https://www.hackerrank.com/challenges/almost-sorted) | WIP
+59 | [Matrix Layer Rotation ](https://www.hackerrank.com/challenges/matrix-rotation-algo) | WIP
 
 ### Strings
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution & Comment](solution/practice/algorithms/strings/hackerrank-in-a-string/solution.py)
-2 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Solution & Comment](solution/practice/algorithms/strings/reduced-string/solution.py)
-3 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | WIP
-4 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | [Solution & Comment](solution/practice/algorithms/strings/two-characters/solution.py)
-5 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | WIP
-6 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | WIP
-7 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | WIP
-8 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | WIP
-9 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | [Solution & Comment](solution/practice/algorithms/strings/funny-string/solution.py)
-10 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | WIP
-11 | [Alternating Characters ](https://www.hackerrank.com/challenges/alternating-characters) | WIP
-12 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution & Comment](solution/practice/algorithms/strings/beautiful-binary-string/solution.py)
-13 | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution & Comment](solution/practice/algorithms/strings/the-love-letter-mystery/solution.py)
-14 | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | WIP
-15 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) | [Solution & Comment](solution/practice/algorithms/strings/palindrome-index/solution.py)
-16 | [Anagram](https://www.hackerrank.com/challenges/anagram) | [Solution & Comment](solution/practice/algorithms/strings/anagram/solution.py)
-17 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | [Solution & Comment](solution/practice/algorithms/strings/making-anagrams/solution.py)
-18 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | WIP
-19 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [Solution & Comment](solution/practice/algorithms/strings/two-strings/solution.py)
-20 | [String Construction ](https://www.hackerrank.com/challenges/string-construction) | WIP
-21 | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [Solution & Comment](solution/practice/algorithms/strings/sherlock-and-valid-string/solution.py)
-22 | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich) | WIP
-23 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | WIP
-24 | [Common Child](https://www.hackerrank.com/challenges/common-child) | WIP
-25 | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | WIP
-26 | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string) | WIP
-27 | [Count Strings](https://www.hackerrank.com/challenges/count-strings) | WIP
-28 | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation) | WIP
-29 | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes) | WIP
-30 | [Build a String](https://www.hackerrank.com/challenges/build-a-string) | WIP
-31 | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces) | WIP
-32 | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string) | WIP
-33 | [String Similarity](https://www.hackerrank.com/challenges/string-similarity) | WIP
-34 | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings) | WIP
-35 | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes) | WIP
-36 | [Similar Strings](https://www.hackerrank.com/challenges/similar-strings) | WIP
-37 | [Save Humanity](https://www.hackerrank.com/challenges/save-humanity) | WIP
-38 | [Find Strings](https://www.hackerrank.com/challenges/find-strings) | WIP
-39 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border) | WIP
-40 | [Two Two](https://www.hackerrank.com/challenges/two-two) | WIP
-41 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game) | WIP
-42 | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands) | WIP
-43 | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings) | WIP
-44 | [How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings) | WIP
+1 | [Super Reduced String](https://www.hackerrank.com/challenges/reduced-string) | [Solution & Comment](solution/practice/algorithms/strings/reduced-string/solution.py)
+2 | [CamelCase](https://www.hackerrank.com/challenges/camelcase) | WIP
+3 | [Two Characters](https://www.hackerrank.com/challenges/two-characters) | [Solution & Comment](solution/practice/algorithms/strings/two-characters/solution.py)
+4 | [Caesar Cipher](https://www.hackerrank.com/challenges/caesar-cipher-1) | WIP
+5 | [Mars Exploration](https://www.hackerrank.com/challenges/mars-exploration) | WIP
+6 | [HackerRank in a String!](https://www.hackerrank.com/challenges/hackerrank-in-a-string) | [Solution & Comment](solution/practice/algorithms/strings/hackerrank-in-a-string/solution.py)
+7 | [Pangrams](https://www.hackerrank.com/challenges/pangrams) | WIP
+8 | [Weighted Uniform Strings](https://www.hackerrank.com/challenges/weighted-uniform-string) | WIP
+9 | [Separate the Numbers](https://www.hackerrank.com/challenges/separate-the-numbers) | WIP
+10 | [Funny String](https://www.hackerrank.com/challenges/funny-string) | [Solution & Comment](solution/practice/algorithms/strings/funny-string/solution.py)
+11 | [Gemstones](https://www.hackerrank.com/challenges/gem-stones) | WIP
+12 | [Alternating Characters ](https://www.hackerrank.com/challenges/alternating-characters) | WIP
+13 | [Beautiful Binary String](https://www.hackerrank.com/challenges/beautiful-binary-string) | [Solution & Comment](solution/practice/algorithms/strings/beautiful-binary-string/solution.py)
+14 | [The Love-Letter Mystery](https://www.hackerrank.com/challenges/the-love-letter-mystery) | [Solution & Comment](solution/practice/algorithms/strings/the-love-letter-mystery/solution.py)
+15 | [Determining DNA Health](https://www.hackerrank.com/challenges/determining-dna-health) | WIP
+16 | [Palindrome Index](https://www.hackerrank.com/challenges/palindrome-index) | [Solution & Comment](solution/practice/algorithms/strings/palindrome-index/solution.py)
+17 | [Anagram](https://www.hackerrank.com/challenges/anagram) | [Solution & Comment](solution/practice/algorithms/strings/anagram/solution.py)
+18 | [Making Anagrams](https://www.hackerrank.com/challenges/making-anagrams) | [Solution & Comment](solution/practice/algorithms/strings/making-anagrams/solution.py)
+19 | [Game of Thrones - I](https://www.hackerrank.com/challenges/game-of-thrones) | WIP
+20 | [Two Strings](https://www.hackerrank.com/challenges/two-strings) | [Solution & Comment](solution/practice/algorithms/strings/two-strings/solution.py)
+21 | [String Construction ](https://www.hackerrank.com/challenges/string-construction) | WIP
+22 | [Sherlock and Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string) | [Solution & Comment](solution/practice/algorithms/strings/sherlock-and-valid-string/solution.py)
+23 | [Richie Rich](https://www.hackerrank.com/challenges/richie-rich) | WIP
+24 | [Sherlock and Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams) | WIP
+25 | [Common Child](https://www.hackerrank.com/challenges/common-child) | WIP
+26 | [Bear and Steady Gene](https://www.hackerrank.com/challenges/bear-and-steady-gene) | WIP
+27 | [Morgan and a String](https://www.hackerrank.com/challenges/morgan-and-a-string) | WIP
+28 | [Count Strings](https://www.hackerrank.com/challenges/count-strings) | WIP
+29 | [String Function Calculation](https://www.hackerrank.com/challenges/string-function-calculation) | WIP
+30 | [Build a Palindrome](https://www.hackerrank.com/challenges/challenging-palindromes) | WIP
+31 | [Build a String](https://www.hackerrank.com/challenges/build-a-string) | WIP
+32 | [Gridland Provinces](https://www.hackerrank.com/challenges/gridland-provinces) | WIP
+33 | [Ashton and String](https://www.hackerrank.com/challenges/ashton-and-string) | WIP
+34 | [String Similarity](https://www.hackerrank.com/challenges/string-similarity) | WIP
+35 | [Super Functional Strings](https://www.hackerrank.com/challenges/super-functional-strings) | WIP
+36 | [Circular Palindromes](https://www.hackerrank.com/challenges/circular-palindromes) | WIP
+37 | [Similar Strings](https://www.hackerrank.com/challenges/similar-strings) | WIP
+38 | [Save Humanity](https://www.hackerrank.com/challenges/save-humanity) | WIP
+39 | [Find Strings](https://www.hackerrank.com/challenges/find-strings) | WIP
+40 | [Palindromic Border](https://www.hackerrank.com/challenges/palindromic-border) | WIP
+41 | [Two Two](https://www.hackerrank.com/challenges/two-two) | WIP
+42 | [Two Strings Game](https://www.hackerrank.com/challenges/two-strings-game) | WIP
+43 | [Letter Islands](https://www.hackerrank.com/challenges/letter-islands) | WIP
+44 | [Pseudo-Isomorphic Substrings](https://www.hackerrank.com/challenges/pseudo-isomorphic-substrings) | WIP
+45 | [How Many Substrings?](https://www.hackerrank.com/challenges/how-many-substrings) | WIP
 
 ### Sorting
 \# | Challenge | Solution
@@ -212,54 +214,56 @@ Algorithms
 6 | [Kruskal (MST): Really Special Subtree](https://www.hackerrank.com/challenges/kruskalmstrsub) | WIP
 7 | [Even Tree](https://www.hackerrank.com/challenges/even-tree) | WIP
 8 | [Snakes and Ladders: The Quickest Way Up](https://www.hackerrank.com/challenges/the-quickest-way-up) | WIP
-9 | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | WIP
-10 | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | WIP
-11 | [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits) | WIP
-12 | [Clique](https://www.hackerrank.com/challenges/clique) | [Solution & Comment](solution/practice/algorithms/graph-theory/clique/solution.py)
-13 | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path) | WIP
-14 | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money) | WIP
-15 | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths) | WIP
-16 | [Jack goes to Rapture ](https://www.hackerrank.com/challenges/jack-goes-to-rapture) | WIP
-17 | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs) | WIP
-18 | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments) | WIP
-19 | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route) | [Solution & Comment](solution/practice/algorithms/graph-theory/jeanies-route/solution.py)
-20 | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | WIP
-21 | [Roads in HackerLand](https://www.hackerrank.com/challenges/johnland) | WIP
-22 | [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity) | WIP
-23 | [Computer Game](https://www.hackerrank.com/challenges/computer-game) | WIP
-24 | [Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer) | WIP
-25 | [Problem solving](https://www.hackerrank.com/challenges/problem-solving) | WIP
-26 | [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling) | WIP
-27 | [Matrix](https://www.hackerrank.com/challenges/matrix) | WIP
-28 | [Recording Episodes](https://www.hackerrank.com/challenges/episode-recording) | WIP
-29 | [Repair Roads](https://www.hackerrank.com/challenges/repair-roads) | WIP
-30 | [Kth Ancestor](https://www.hackerrank.com/challenges/kth-ancestor) | WIP
-31 | [ByteLandian Tours](https://www.hackerrank.com/challenges/bytelandian-tours) | WIP
-32 | [Find the Path](https://www.hackerrank.com/challenges/shortest-path) | WIP
-33 | [Savita And Friends](https://www.hackerrank.com/challenges/savita-and-friends) | WIP
-34 | [Liars](https://www.hackerrank.com/challenges/liars) | WIP
-35 | [Jumping Rooks](https://www.hackerrank.com/challenges/jumping-rooks) | WIP
-36 | [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching) | WIP
-37 | [Tree Flow](https://www.hackerrank.com/challenges/tree-flow) | WIP
-38 | [DAG Queries](https://www.hackerrank.com/challenges/dag-queries) | WIP
-39 | [Favorite sequence](https://www.hackerrank.com/challenges/favourite-sequence) | WIP
-40 | [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging) | WIP
-41 | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries) | WIP
-42 | [Hacker Country](https://www.hackerrank.com/challenges/hacker-country) | WIP
-43 | [HackerX](https://www.hackerrank.com/challenges/missile-defend) | WIP
-44 | [Huarongdao](https://www.hackerrank.com/challenges/huarongdao) | WIP
-45 | [Training the army](https://www.hackerrank.com/challenges/training-the-army) | WIP
-46 | [Jim and his LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party) | WIP
-47 | [Travel in HackerLand](https://www.hackerrank.com/challenges/travel-in-hackerland) | WIP
-48 | [Alex vs Fedor](https://www.hackerrank.com/challenges/alex-vs-fedor) | WIP
-49 | [Vertical Paths](https://www.hackerrank.com/challenges/vertical-paths) | WIP
-50 | [Drive](https://www.hackerrank.com/challenges/drive) | WIP
-51 | [Travelling Salesman in a Grid](https://www.hackerrank.com/challenges/tsp-grid) | WIP
-52 | [Road Network](https://www.hackerrank.com/challenges/road-network) | WIP
-53 | [Going to the Office](https://www.hackerrank.com/challenges/going-office) | WIP
-54 | [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting) | WIP
-55 | [Ticket](https://www.hackerrank.com/challenges/ticket) | WIP
-56 | [DFS Edges](https://www.hackerrank.com/challenges/dfs-edges) | WIP
+9 | [The Story of a Tree](https://www.hackerrank.com/challenges/the-story-of-a-tree) | WIP
+10 | [Dijkstra: Shortest Reach 2](https://www.hackerrank.com/challenges/dijkstrashortreach) | WIP
+11 | [Prim's (MST) : Special Subtree](https://www.hackerrank.com/challenges/primsmstsub) | WIP
+12 | [Toll Cost Digits](https://www.hackerrank.com/challenges/toll-cost-digits) | WIP
+13 | [Clique](https://www.hackerrank.com/challenges/clique) | [Solution & Comment](solution/practice/algorithms/graph-theory/clique/solution.py)
+14 | [Minimum Penalty Path](https://www.hackerrank.com/challenges/beautiful-path) | WIP
+15 | [Demanding Money](https://www.hackerrank.com/challenges/borrowing-money) | WIP
+16 | [Coprime Paths](https://www.hackerrank.com/challenges/coprime-paths) | WIP
+17 | [Minimum MST Graph](https://www.hackerrank.com/challenges/minimum-mst-graph) | WIP
+18 | [Jack goes to Rapture ](https://www.hackerrank.com/challenges/jack-goes-to-rapture) | WIP
+19 | [Crab Graphs](https://www.hackerrank.com/challenges/crab-graphs) | WIP
+20 | [Bead Ornaments](https://www.hackerrank.com/challenges/beadornaments) | WIP
+21 | [Jeanie's Route](https://www.hackerrank.com/challenges/jeanies-route) | [Solution & Comment](solution/practice/algorithms/graph-theory/jeanies-route/solution.py)
+22 | [Floyd : City of Blinding Lights](https://www.hackerrank.com/challenges/floyd-city-of-blinding-lights) | WIP
+23 | [Roads in HackerLand](https://www.hackerrank.com/challenges/johnland) | WIP
+24 | [Kingdom Connectivity](https://www.hackerrank.com/challenges/kingdom-connectivity) | WIP
+25 | [Computer Game](https://www.hackerrank.com/challenges/computer-game) | WIP
+26 | [Rust & Murderer](https://www.hackerrank.com/challenges/rust-murderer) | WIP
+27 | [Problem solving](https://www.hackerrank.com/challenges/problem-solving) | WIP
+28 | [Journey Scheduling](https://www.hackerrank.com/challenges/journey-scheduling) | WIP
+29 | [Matrix](https://www.hackerrank.com/challenges/matrix) | WIP
+30 | [Recording Episodes](https://www.hackerrank.com/challenges/episode-recording) | WIP
+31 | [Repair Roads](https://www.hackerrank.com/challenges/repair-roads) | WIP
+32 | [Kth Ancestor](https://www.hackerrank.com/challenges/kth-ancestor) | WIP
+33 | [ByteLandian Tours](https://www.hackerrank.com/challenges/bytelandian-tours) | WIP
+34 | [Find the Path](https://www.hackerrank.com/challenges/shortest-path) | WIP
+35 | [Savita And Friends](https://www.hackerrank.com/challenges/savita-and-friends) | WIP
+36 | [Liars](https://www.hackerrank.com/challenges/liars) | WIP
+37 | [Jumping Rooks](https://www.hackerrank.com/challenges/jumping-rooks) | WIP
+38 | [Tripartite Matching](https://www.hackerrank.com/challenges/tripartite-matching) | WIP
+39 | [Tree Flow](https://www.hackerrank.com/challenges/tree-flow) | WIP
+40 | [DAG Queries](https://www.hackerrank.com/challenges/dag-queries) | WIP
+41 | [Favorite sequence](https://www.hackerrank.com/challenges/favourite-sequence) | WIP
+42 | [Jogging Cats](https://www.hackerrank.com/challenges/cat-jogging) | WIP
+43 | [Quadrant Queries](https://www.hackerrank.com/challenges/quadrant-queries) | WIP
+44 | [Hacker Country](https://www.hackerrank.com/challenges/hacker-country) | WIP
+45 | [HackerX](https://www.hackerrank.com/challenges/missile-defend) | WIP
+46 | [Huarongdao](https://www.hackerrank.com/challenges/huarongdao) | WIP
+47 | [Training the army](https://www.hackerrank.com/challenges/training-the-army) | WIP
+48 | [Jim and his LAN Party](https://www.hackerrank.com/challenges/jim-and-his-lan-party) | WIP
+49 | [Travel in HackerLand](https://www.hackerrank.com/challenges/travel-in-hackerland) | WIP
+50 | [Alex vs Fedor](https://www.hackerrank.com/challenges/alex-vs-fedor) | WIP
+51 | [Vertical Paths](https://www.hackerrank.com/challenges/vertical-paths) | WIP
+52 | [Drive](https://www.hackerrank.com/challenges/drive) | WIP
+53 | [Travelling Salesman in a Grid](https://www.hackerrank.com/challenges/tsp-grid) | WIP
+54 | [Road Network](https://www.hackerrank.com/challenges/road-network) | WIP
+55 | [Going to the Office](https://www.hackerrank.com/challenges/going-office) | WIP
+56 | [Tree Splitting](https://www.hackerrank.com/challenges/tree-splitting) | WIP
+57 | [Ticket](https://www.hackerrank.com/challenges/ticket) | WIP
+58 | [DFS Edges](https://www.hackerrank.com/challenges/dfs-edges) | WIP
 
 ### Greedy
 \# | Challenge | Solution
@@ -296,93 +300,94 @@ Algorithms
 4 | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | WIP
 5 | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | WIP
 6 | [Candies](https://www.hackerrank.com/challenges/candies) | WIP
-7 | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings) | WIP
-8 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | WIP
-9 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | WIP
+7 | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/sam-and-substrings/solution.py)
+8 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/fibonacci-modified/solution.py)
+9 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/abbr/solution.py)
 10 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) | WIP
 11 | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut) | WIP
 12 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | WIP
 13 | [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) | WIP
-14 | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums) | WIP
-15 | [HackerRank City](https://www.hackerrank.com/challenges/hr-city) | WIP
-16 | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces) | WIP
-17 | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh) | WIP
-18 | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff) | WIP
-19 | [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum) | WIP
-20 | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks) | WIP
-21 | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling) | WIP
-22 | [Alien Languages](https://www.hackerrank.com/challenges/alien-languages) | WIP
-23 | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | WIP
-24 | [Two Robots](https://www.hackerrank.com/challenges/two-robots) | WIP
-25 | [Cut Tree](https://www.hackerrank.com/challenges/cuttree) | WIP
-26 | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations) | WIP
-27 | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences) | WIP
-28 | [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting) | WIP
-29 | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora) | WIP
-30 | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) | WIP
-31 | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs) | WIP
-32 | [Grid Walking](https://www.hackerrank.com/challenges/grid-walking) | WIP
-33 | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack) | WIP
-34 | [Bricks Game](https://www.hackerrank.com/challenges/play-game) | WIP
-35 | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) | WIP
-36 | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table) | WIP
-37 | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) | WIP
-38 | [Play with words](https://www.hackerrank.com/challenges/strplay) | WIP
-39 | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1) | WIP
-40 | [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes) | WIP
-41 | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection) | WIP
-42 | [String Reduction](https://www.hackerrank.com/challenges/string-reduction) | WIP
-43 | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices) | WIP
-44 | [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks) | WIP
-45 | [Superman Celebrates Diwali ](https://www.hackerrank.com/challenges/superman-celebrates-diwali) | WIP
-46 | [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid) | WIP
-47 | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board) | WIP
-48 | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings) | WIP
-49 | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane) | WIP
-50 | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job) | WIP
-51 | [Requirement](https://www.hackerrank.com/challenges/requirement) | WIP
-52 | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero) | WIP
-53 | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path) | WIP
-54 | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance) | WIP
-55 | [Billboards](https://www.hackerrank.com/challenges/billboards) | WIP
-56 | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string) | WIP
-57 | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains) | WIP
-58 | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix) | WIP
-59 | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess) | WIP
-60 | [Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world) | WIP
-61 | [New Year Present](https://www.hackerrank.com/challenges/newyear-present) | WIP
-62 | [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence) | WIP
-63 | [Candles Counting](https://www.hackerrank.com/challenges/candles-2) | WIP
-64 | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings) | WIP
-65 | [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation) | WIP
-66 | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations) | WIP
-67 | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences) | WIP
-68 | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief) | WIP
-69 | [Mining](https://www.hackerrank.com/challenges/mining) | WIP
-70 | [Police Operation](https://www.hackerrank.com/challenges/police-operation) | WIP
-71 | [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela) | WIP
-72 | [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence) | WIP
-73 | [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path) | WIP
-74 | [P-sequences](https://www.hackerrank.com/challenges/p-sequences) | WIP
-75 | [Robot](https://www.hackerrank.com/challenges/robot) | WIP
-76 | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers) | WIP
-77 | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game) | WIP
-78 | [Oil Well](https://www.hackerrank.com/challenges/oil-well) | WIP
-79 | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed) | WIP
-80 | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist) | WIP
-81 | [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning) | WIP
-82 | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos) | WIP
-83 | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards) | WIP
-84 | [Vim War](https://www.hackerrank.com/challenges/vim-war) | WIP
-85 | [Best spot](https://www.hackerrank.com/challenges/best-spot) | WIP
-86 | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers) | WIP
-87 | [Unique Divide And Conquer       ](https://www.hackerrank.com/challenges/unique-divide-and-conquer) | WIP
-88 | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king) | WIP
-89 | [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma) | WIP
-90 | [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis) | WIP
-91 | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1) | WIP
-92 | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks) | WIP
-93 | [Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate) | WIP
+14 | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) | WIP
+15 | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums) | WIP
+16 | [HackerRank City](https://www.hackerrank.com/challenges/hr-city) | WIP
+17 | [Summing Pieces](https://www.hackerrank.com/challenges/summing-pieces) | WIP
+18 | [Mr K marsh](https://www.hackerrank.com/challenges/mr-k-marsh) | WIP
+19 | [Substring Diff](https://www.hackerrank.com/challenges/substring-diff) | WIP
+20 | [Xor and Sum](https://www.hackerrank.com/challenges/xor-and-sum) | WIP
+21 | [Lego Blocks](https://www.hackerrank.com/challenges/lego-blocks) | WIP
+22 | [Brick Tiling](https://www.hackerrank.com/challenges/brick-tiling) | WIP
+23 | [Alien Languages](https://www.hackerrank.com/challenges/alien-languages) | WIP
+24 | [Stock Maximize](https://www.hackerrank.com/challenges/stockmax) | WIP
+25 | [Two Robots](https://www.hackerrank.com/challenges/two-robots) | WIP
+26 | [Cut Tree](https://www.hackerrank.com/challenges/cuttree) | WIP
+27 | [Tara's Beautiful Permutations](https://www.hackerrank.com/challenges/taras-beautiful-permutations) | WIP
+28 | [Wet Shark and Two Subsequences](https://www.hackerrank.com/challenges/wet-shark-and-two-subsequences) | WIP
+29 | [Nikita and the Game](https://www.hackerrank.com/challenges/array-splitting) | WIP
+30 | [Mandragora Forest](https://www.hackerrank.com/challenges/mandragora) | WIP
+31 | [Red John is Back](https://www.hackerrank.com/challenges/red-john-is-back) | WIP
+32 | [LCS Returns](https://www.hackerrank.com/challenges/tutzki-and-lcs) | WIP
+33 | [Grid Walking](https://www.hackerrank.com/challenges/grid-walking) | WIP
+34 | [Knapsack](https://www.hackerrank.com/challenges/unbounded-knapsack) | WIP
+35 | [Bricks Game](https://www.hackerrank.com/challenges/play-game) | WIP
+36 | [The Longest Increasing Subsequence](https://www.hackerrank.com/challenges/longest-increasing-subsequent) | WIP
+37 | [Coin on the Table](https://www.hackerrank.com/challenges/coin-on-the-table) | WIP
+38 | [The Longest Common Subsequence](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) | WIP
+39 | [Play with words](https://www.hackerrank.com/challenges/strplay) | WIP
+40 | [Black and White Tree](https://www.hackerrank.com/challenges/black-n-white-tree-1) | WIP
+41 | [Counting Special Sub-Cubes](https://www.hackerrank.com/challenges/counting-special-sub-cubes) | WIP
+42 | [Interval Selection](https://www.hackerrank.com/challenges/interval-selection) | WIP
+43 | [String Reduction](https://www.hackerrank.com/challenges/string-reduction) | WIP
+44 | [Far Vertices](https://www.hackerrank.com/challenges/far-vertices) | WIP
+45 | [Counting Road Networks](https://www.hackerrank.com/challenges/counting-road-networks) | WIP
+46 | [Superman Celebrates Diwali ](https://www.hackerrank.com/challenges/superman-celebrates-diwali) | WIP
+47 | [Hexagonal Grid](https://www.hackerrank.com/challenges/hexagonal-grid) | WIP
+48 | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board) | WIP
+49 | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings) | WIP
+50 | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane) | WIP
+51 | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job) | WIP
+52 | [Requirement](https://www.hackerrank.com/challenges/requirement) | WIP
+53 | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero) | WIP
+54 | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path) | WIP
+55 | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance) | WIP
+56 | [Billboards](https://www.hackerrank.com/challenges/billboards) | WIP
+57 | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string) | WIP
+58 | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains) | WIP
+59 | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix) | WIP
+60 | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess) | WIP
+61 | [Travel around the world](https://www.hackerrank.com/challenges/travel-around-the-world) | WIP
+62 | [New Year Present](https://www.hackerrank.com/challenges/newyear-present) | WIP
+63 | [Longest Palindromic Subsequence](https://www.hackerrank.com/challenges/longest-palindromic-subsequence) | WIP
+64 | [Candles Counting](https://www.hackerrank.com/challenges/candles-2) | WIP
+65 | [Hyper Strings](https://www.hackerrank.com/challenges/hyper-strings) | WIP
+66 | [Swap Permutation](https://www.hackerrank.com/challenges/swappermutation) | WIP
+67 | [Extremum Permutations](https://www.hackerrank.com/challenges/extremum-permutations) | WIP
+68 | [Square Subsequences](https://www.hackerrank.com/challenges/square-subsequences) | WIP
+69 | [Dorsey Thief](https://www.hackerrank.com/challenges/dorsey-thief) | WIP
+70 | [Mining](https://www.hackerrank.com/challenges/mining) | WIP
+71 | [Police Operation](https://www.hackerrank.com/challenges/police-operation) | WIP
+72 | [Zurikela's Graph](https://www.hackerrank.com/challenges/zurikela) | WIP
+73 | [Modify The Sequence](https://www.hackerrank.com/challenges/modify-the-sequence) | WIP
+74 | [Longest Mod Path](https://www.hackerrank.com/challenges/longest-mod-path) | WIP
+75 | [P-sequences](https://www.hackerrank.com/challenges/p-sequences) | WIP
+76 | [Robot](https://www.hackerrank.com/challenges/robot) | WIP
+77 | [Lucky Numbers](https://www.hackerrank.com/challenges/lucky-numbers) | WIP
+78 | [Unfair Game](https://www.hackerrank.com/challenges/unfair-game) | WIP
+79 | [Oil Well](https://www.hackerrank.com/challenges/oil-well) | WIP
+80 | [Find the Seed](https://www.hackerrank.com/challenges/find-the-seed) | WIP
+81 | [The Blacklist](https://www.hackerrank.com/challenges/the-blacklist) | WIP
+82 | [Tree Pruning](https://www.hackerrank.com/challenges/tree-pruning) | WIP
+83 | [Ones and Twos](https://www.hackerrank.com/challenges/ones-and-twos) | WIP
+84 | [Count Scorecards](https://www.hackerrank.com/challenges/count-scorecards) | WIP
+85 | [Vim War](https://www.hackerrank.com/challenges/vim-war) | WIP
+86 | [Best spot](https://www.hackerrank.com/challenges/best-spot) | WIP
+87 | [Divisible Numbers](https://www.hackerrank.com/challenges/divisible-numbers) | WIP
+88 | [Unique Divide And Conquer       ](https://www.hackerrank.com/challenges/unique-divide-and-conquer) | WIP
+89 | [King and Four Sons](https://www.hackerrank.com/challenges/happy-king) | WIP
+90 | [Dortmund Dilemma](https://www.hackerrank.com/challenges/dortmund-dilemma) | WIP
+91 | [Super Kth LIS](https://www.hackerrank.com/challenges/super-kth-lis) | WIP
+92 | [Counting the Ways](https://www.hackerrank.com/challenges/count-ways-1) | WIP
+93 | [Hard Disk Drives](https://www.hackerrank.com/challenges/hard-drive-disks) | WIP
+94 | [Separate the chocolate](https://www.hackerrank.com/challenges/separate-the-chocolate) | WIP
 
 ### Constructive Algorithms
 \# | Challenge | Solution
@@ -492,7 +497,7 @@ Data Structures
 * [Linked Lists](#linked-lists) (0/15)
 * [Trees](#trees) (0/15)
 * [Balanced Trees](#balanced-trees) (0/3)
-* [Stacks](#stacks) (0/8)
+* [Stacks](#stacks) (0/9)
 * [Queues](#queues) (0/5)
 * [Heap](#heap) (0/4)
 * [Disjoint Set](#disjoint-set) (0/4)
@@ -560,12 +565,13 @@ Data Structures
 :---:|:---:|:---:
 1 | [Maximum Element](https://www.hackerrank.com/challenges/maximum-element) | WIP
 2 | [Balanced Brackets](https://www.hackerrank.com/challenges/balanced-brackets) | WIP
-3 | [Largest Rectangle ](https://www.hackerrank.com/challenges/largest-rectangle) | WIP
-4 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor) | WIP
-5 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | WIP
-6 | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | WIP
-7 | [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | WIP
-8 | [Waiter](https://www.hackerrank.com/challenges/waiter) | WIP
+3 | [Equal Stacks](https://www.hackerrank.com/challenges/equal-stacks) | WIP
+4 | [Game of Two Stacks](https://www.hackerrank.com/challenges/game-of-two-stacks) | WIP
+5 | [Largest Rectangle ](https://www.hackerrank.com/challenges/largest-rectangle) | WIP
+6 | [Simple Text Editor](https://www.hackerrank.com/challenges/simple-text-editor) | WIP
+7 | [Poisonous Plants](https://www.hackerrank.com/challenges/poisonous-plants) | WIP
+8 | [AND xor OR](https://www.hackerrank.com/challenges/and-xor-or) | WIP
+9 | [Waiter](https://www.hackerrank.com/challenges/waiter) | WIP
 
 ### Queues
 \# | Challenge | Solution

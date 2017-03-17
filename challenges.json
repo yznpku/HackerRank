@@ -1,3276 +1,3300 @@
 {
   "tracks": [
     {
-      "name": "algorithms",
       "chapters": [
         {
           "challenges": [
             {
-              "name": "solve-me-first",
-              "title": "Solve Me First"
+              "title": "Solve Me First",
+              "name": "solve-me-first"
             },
             {
-              "name": "simple-array-sum",
-              "title": "Simple Array Sum"
+              "title": "Simple Array Sum",
+              "name": "simple-array-sum"
             },
             {
-              "name": "compare-the-triplets",
-              "title": "Compare the Triplets"
+              "title": "Compare the Triplets",
+              "name": "compare-the-triplets"
             },
             {
-              "name": "a-very-big-sum",
-              "title": "A Very Big Sum"
+              "title": "A Very Big Sum",
+              "name": "a-very-big-sum"
             },
             {
-              "name": "diagonal-difference",
-              "title": "Diagonal Difference"
+              "title": "Diagonal Difference",
+              "name": "diagonal-difference"
             },
             {
-              "name": "plus-minus",
-              "title": "Plus Minus"
+              "title": "Plus Minus",
+              "name": "plus-minus"
             },
             {
-              "name": "staircase",
-              "title": "Staircase"
+              "title": "Staircase",
+              "name": "staircase"
             },
             {
-              "name": "mini-max-sum",
-              "title": "Mini-Max Sum"
+              "title": "Mini-Max Sum",
+              "name": "mini-max-sum"
             },
             {
-              "name": "time-conversion",
-              "title": "Time Conversion"
+              "title": "Time Conversion",
+              "name": "time-conversion"
             }
           ],
-          "name": "warmup",
-          "title": "Warmup"
+          "title": "Warmup",
+          "name": "warmup"
         },
         {
           "challenges": [
             {
-              "name": "grading",
-              "title": "Grading Students"
+              "title": "Grading Students",
+              "name": "grading"
             },
             {
-              "name": "apple-and-orange",
-              "title": "Apple and Orange"
+              "title": "Apple and Orange",
+              "name": "apple-and-orange"
             },
             {
-              "name": "kangaroo",
-              "title": "Kangaroo"
+              "title": "Kangaroo",
+              "name": "kangaroo"
             },
             {
-              "name": "between-two-sets",
-              "title": "Between Two Sets"
+              "title": "Between Two Sets",
+              "name": "between-two-sets"
             },
             {
-              "name": "divisible-sum-pairs",
-              "title": "Divisible Sum Pairs"
+              "title": "Divisible Sum Pairs",
+              "name": "divisible-sum-pairs"
             },
             {
-              "name": "migratory-birds",
-              "title": "Migratory Birds"
+              "title": "Breaking the Records",
+              "name": "breaking-best-and-worst-records"
             },
             {
-              "name": "bon-appetit",
-              "title": "Bon App\u00e9tit"
+              "title": "Migratory Birds",
+              "name": "migratory-birds"
             },
             {
-              "name": "sock-merchant",
-              "title": "Sock Merchant"
+              "title": "Bon App\u00e9tit",
+              "name": "bon-appetit"
             },
             {
-              "name": "drawing-book",
-              "title": "Drawing Book "
+              "title": "Sock Merchant",
+              "name": "sock-merchant"
             },
             {
-              "name": "cats-and-a-mouse",
-              "title": "Cats and a Mouse"
+              "title": "Drawing Book ",
+              "name": "drawing-book"
             },
             {
-              "name": "picking-numbers",
-              "title": "Picking Numbers"
+              "title": "Cats and a Mouse",
+              "name": "cats-and-a-mouse"
             },
             {
-              "name": "climbing-the-leaderboard",
-              "title": "Climbing the Leaderboard"
+              "title": "Picking Numbers",
+              "name": "picking-numbers"
             },
             {
-              "name": "the-hurdle-race",
-              "title": "The Hurdle Race"
+              "title": "Climbing the Leaderboard",
+              "name": "climbing-the-leaderboard"
             },
             {
-              "name": "designer-pdf-viewer",
-              "title": "Designer PDF Viewer"
+              "title": "The Hurdle Race",
+              "name": "the-hurdle-race"
             },
             {
-              "name": "utopian-tree",
-              "title": "Utopian Tree"
+              "title": "Designer PDF Viewer",
+              "name": "designer-pdf-viewer"
             },
             {
-              "name": "angry-professor",
-              "title": "Angry Professor"
+              "title": "Utopian Tree",
+              "name": "utopian-tree"
             },
             {
-              "name": "beautiful-days-at-the-movies",
-              "title": "Beautiful Days at the Movies"
+              "title": "Angry Professor",
+              "name": "angry-professor"
             },
             {
-              "name": "strange-advertising",
-              "title": "Viral Advertising"
+              "title": "Beautiful Days at the Movies",
+              "name": "beautiful-days-at-the-movies"
             },
             {
-              "name": "save-the-prisoner",
-              "title": "Save the Prisoner!"
+              "title": "Viral Advertising",
+              "name": "strange-advertising"
             },
             {
-              "name": "circular-array-rotation",
-              "title": "Circular Array Rotation"
+              "title": "Save the Prisoner!",
+              "name": "save-the-prisoner"
             },
             {
-              "name": "permutation-equation",
-              "title": "Sequence Equation"
+              "title": "Circular Array Rotation",
+              "name": "circular-array-rotation"
             },
             {
-              "name": "jumping-on-the-clouds-revisited",
-              "title": "Jumping on the Clouds: Revisited"
+              "title": "Sequence Equation",
+              "name": "permutation-equation"
             },
             {
-              "name": "find-digits",
-              "title": "Find Digits"
+              "title": "Jumping on the Clouds: Revisited",
+              "name": "jumping-on-the-clouds-revisited"
             },
             {
-              "name": "extra-long-factorials",
-              "title": "Extra Long Factorials"
+              "title": "Find Digits",
+              "name": "find-digits"
             },
             {
-              "name": "append-and-delete",
-              "title": "Append and Delete"
+              "title": "Extra Long Factorials",
+              "name": "extra-long-factorials"
             },
             {
-              "name": "sherlock-and-squares",
-              "title": "Sherlock and Squares"
+              "title": "Append and Delete",
+              "name": "append-and-delete"
             },
             {
-              "name": "library-fine",
-              "title": "Library Fine"
+              "title": "Sherlock and Squares",
+              "name": "sherlock-and-squares"
             },
             {
-              "name": "cut-the-sticks",
-              "title": "Cut the sticks"
+              "title": "Library Fine",
+              "name": "library-fine"
             },
             {
-              "name": "non-divisible-subset",
-              "title": "Non-Divisible Subset"
+              "title": "Cut the sticks",
+              "name": "cut-the-sticks"
             },
             {
-              "name": "repeated-string",
-              "title": "Repeated String"
+              "title": "Non-Divisible Subset",
+              "name": "non-divisible-subset"
             },
             {
-              "name": "jumping-on-the-clouds",
-              "title": "Jumping on the Clouds"
+              "title": "Repeated String",
+              "name": "repeated-string"
             },
             {
-              "name": "equality-in-a-array",
-              "title": "Equalize the Array"
+              "title": "Jumping on the Clouds",
+              "name": "jumping-on-the-clouds"
             },
             {
-              "name": "queens-attack-2",
-              "title": "Queen's Attack II"
+              "title": "Equalize the Array",
+              "name": "equality-in-a-array"
             },
             {
-              "name": "acm-icpc-team",
-              "title": "ACM ICPC Team"
+              "title": "Queen's Attack II",
+              "name": "queens-attack-2"
             },
             {
-              "name": "taum-and-bday",
-              "title": "Taum and B'day"
+              "title": "ACM ICPC Team",
+              "name": "acm-icpc-team"
             },
             {
-              "name": "organizing-containers-of-balls",
-              "title": "Organizing Containers of Balls"
+              "title": "Taum and B'day",
+              "name": "taum-and-bday"
             },
             {
-              "name": "encryption",
-              "title": "Encryption"
+              "title": "Organizing Containers of Balls",
+              "name": "organizing-containers-of-balls"
             },
             {
-              "name": "bigger-is-greater",
-              "title": "Bigger is Greater"
+              "title": "Encryption",
+              "name": "encryption"
             },
             {
-              "name": "kaprekar-numbers",
-              "title": "Modified Kaprekar Numbers"
+              "title": "Bigger is Greater",
+              "name": "bigger-is-greater"
             },
             {
-              "name": "beautiful-triplets",
-              "title": "Beautiful Triplets"
+              "title": "Modified Kaprekar Numbers",
+              "name": "kaprekar-numbers"
             },
             {
-              "name": "minimum-distances",
-              "title": "Minimum Distances"
+              "title": "Beautiful Triplets",
+              "name": "beautiful-triplets"
             },
             {
-              "name": "the-time-in-words",
-              "title": "The Time in Words"
+              "title": "Minimum Distances",
+              "name": "minimum-distances"
             },
             {
-              "name": "chocolate-feast",
-              "title": "Chocolate Feast "
+              "title": "The Time in Words",
+              "name": "the-time-in-words"
             },
             {
-              "name": "service-lane",
-              "title": "Service Lane"
+              "title": "Chocolate Feast ",
+              "name": "chocolate-feast"
             },
             {
-              "name": "lisa-workbook",
-              "title": "Lisa's Workbook"
+              "title": "Service Lane",
+              "name": "service-lane"
             },
             {
-              "name": "flatland-space-stations",
-              "title": "Flatland Space Stations"
+              "title": "Lisa's Workbook",
+              "name": "lisa-workbook"
             },
             {
-              "name": "fair-rations",
-              "title": "Fair Rations"
+              "title": "Flatland Space Stations",
+              "name": "flatland-space-stations"
             },
             {
-              "name": "cavity-map",
-              "title": "Cavity Map"
+              "title": "Fair Rations",
+              "name": "fair-rations"
             },
             {
-              "name": "manasa-and-stones",
-              "title": "Manasa and Stones"
+              "title": "Cavity Map",
+              "name": "cavity-map"
             },
             {
-              "name": "the-grid-search",
-              "title": "The Grid Search"
+              "title": "Manasa and Stones",
+              "name": "manasa-and-stones"
             },
             {
-              "name": "happy-ladybugs",
-              "title": "Happy Ladybugs"
+              "title": "The Grid Search",
+              "name": "the-grid-search"
             },
             {
-              "name": "strange-code",
-              "title": "Strange Counter"
+              "title": "Happy Ladybugs",
+              "name": "happy-ladybugs"
             },
             {
-              "name": "absolute-permutation",
-              "title": "Absolute Permutation"
+              "title": "Strange Counter",
+              "name": "strange-code"
             },
             {
-              "name": "bomber-man",
-              "title": "The Bomberman Game"
+              "title": "Absolute Permutation",
+              "name": "absolute-permutation"
             },
             {
-              "name": "two-pluses",
-              "title": "Ema's Supercomputer"
+              "title": "The Bomberman Game",
+              "name": "bomber-man"
             },
             {
-              "name": "larrys-array",
-              "title": "Larry's Array"
+              "title": "Ema's Supercomputer",
+              "name": "two-pluses"
             },
             {
-              "name": "almost-sorted",
-              "title": "Almost Sorted"
+              "title": "Larry's Array",
+              "name": "larrys-array"
             },
             {
-              "name": "matrix-rotation-algo",
-              "title": "Matrix Layer Rotation "
+              "title": "Almost Sorted",
+              "name": "almost-sorted"
+            },
+            {
+              "title": "Matrix Layer Rotation ",
+              "name": "matrix-rotation-algo"
             }
           ],
-          "name": "implementation",
-          "title": "Implementation"
+          "title": "Implementation",
+          "name": "implementation"
         },
         {
           "challenges": [
             {
-              "name": "hackerrank-in-a-string",
-              "title": "HackerRank in a String!"
+              "title": "Super Reduced String",
+              "name": "reduced-string"
             },
             {
-              "name": "reduced-string",
-              "title": "Super Reduced String"
+              "title": "CamelCase",
+              "name": "camelcase"
             },
             {
-              "name": "camelcase",
-              "title": "CamelCase"
+              "title": "Two Characters",
+              "name": "two-characters"
             },
             {
-              "name": "two-characters",
-              "title": "Two Characters"
+              "title": "Caesar Cipher",
+              "name": "caesar-cipher-1"
             },
             {
-              "name": "pangrams",
-              "title": "Pangrams"
+              "title": "Mars Exploration",
+              "name": "mars-exploration"
             },
             {
-              "name": "caesar-cipher-1",
-              "title": "Caesar Cipher"
+              "title": "HackerRank in a String!",
+              "name": "hackerrank-in-a-string"
             },
             {
-              "name": "weighted-uniform-string",
-              "title": "Weighted Uniform Strings"
+              "title": "Pangrams",
+              "name": "pangrams"
             },
             {
-              "name": "mars-exploration",
-              "title": "Mars Exploration"
+              "title": "Weighted Uniform Strings",
+              "name": "weighted-uniform-string"
             },
             {
-              "name": "funny-string",
-              "title": "Funny String"
+              "title": "Separate the Numbers",
+              "name": "separate-the-numbers"
             },
             {
-              "name": "gem-stones",
-              "title": "Gemstones"
+              "title": "Funny String",
+              "name": "funny-string"
             },
             {
-              "name": "alternating-characters",
-              "title": "Alternating Characters "
+              "title": "Gemstones",
+              "name": "gem-stones"
             },
             {
-              "name": "beautiful-binary-string",
-              "title": "Beautiful Binary String"
+              "title": "Alternating Characters ",
+              "name": "alternating-characters"
             },
             {
-              "name": "the-love-letter-mystery",
-              "title": "The Love-Letter Mystery"
+              "title": "Beautiful Binary String",
+              "name": "beautiful-binary-string"
             },
             {
-              "name": "determining-dna-health",
-              "title": "Determining DNA Health"
+              "title": "The Love-Letter Mystery",
+              "name": "the-love-letter-mystery"
             },
             {
-              "name": "palindrome-index",
-              "title": "Palindrome Index"
+              "title": "Determining DNA Health",
+              "name": "determining-dna-health"
             },
             {
-              "name": "anagram",
-              "title": "Anagram"
+              "title": "Palindrome Index",
+              "name": "palindrome-index"
             },
             {
-              "name": "making-anagrams",
-              "title": "Making Anagrams"
+              "title": "Anagram",
+              "name": "anagram"
             },
             {
-              "name": "game-of-thrones",
-              "title": "Game of Thrones - I"
+              "title": "Making Anagrams",
+              "name": "making-anagrams"
             },
             {
-              "name": "two-strings",
-              "title": "Two Strings"
+              "title": "Game of Thrones - I",
+              "name": "game-of-thrones"
             },
             {
-              "name": "string-construction",
-              "title": "String Construction "
+              "title": "Two Strings",
+              "name": "two-strings"
             },
             {
-              "name": "sherlock-and-valid-string",
-              "title": "Sherlock and Valid String"
+              "title": "String Construction ",
+              "name": "string-construction"
             },
             {
-              "name": "richie-rich",
-              "title": "Richie Rich"
+              "title": "Sherlock and Valid String",
+              "name": "sherlock-and-valid-string"
             },
             {
-              "name": "sherlock-and-anagrams",
-              "title": "Sherlock and Anagrams"
+              "title": "Richie Rich",
+              "name": "richie-rich"
             },
             {
-              "name": "common-child",
-              "title": "Common Child"
+              "title": "Sherlock and Anagrams",
+              "name": "sherlock-and-anagrams"
             },
             {
-              "name": "bear-and-steady-gene",
-              "title": "Bear and Steady Gene"
+              "title": "Common Child",
+              "name": "common-child"
             },
             {
-              "name": "morgan-and-a-string",
-              "title": "Morgan and a String"
+              "title": "Bear and Steady Gene",
+              "name": "bear-and-steady-gene"
             },
             {
-              "name": "count-strings",
-              "title": "Count Strings"
+              "title": "Morgan and a String",
+              "name": "morgan-and-a-string"
             },
             {
-              "name": "string-function-calculation",
-              "title": "String Function Calculation"
+              "title": "Count Strings",
+              "name": "count-strings"
             },
             {
-              "name": "challenging-palindromes",
-              "title": "Build a Palindrome"
+              "title": "String Function Calculation",
+              "name": "string-function-calculation"
             },
             {
-              "name": "build-a-string",
-              "title": "Build a String"
+              "title": "Build a Palindrome",
+              "name": "challenging-palindromes"
             },
             {
-              "name": "gridland-provinces",
-              "title": "Gridland Provinces"
+              "title": "Build a String",
+              "name": "build-a-string"
             },
             {
-              "name": "ashton-and-string",
-              "title": "Ashton and String"
+              "title": "Gridland Provinces",
+              "name": "gridland-provinces"
             },
             {
-              "name": "string-similarity",
-              "title": "String Similarity"
+              "title": "Ashton and String",
+              "name": "ashton-and-string"
             },
             {
-              "name": "super-functional-strings",
-              "title": "Super Functional Strings"
+              "title": "String Similarity",
+              "name": "string-similarity"
             },
             {
-              "name": "circular-palindromes",
-              "title": "Circular Palindromes"
+              "title": "Super Functional Strings",
+              "name": "super-functional-strings"
             },
             {
-              "name": "similar-strings",
-              "title": "Similar Strings"
+              "title": "Circular Palindromes",
+              "name": "circular-palindromes"
             },
             {
-              "name": "save-humanity",
-              "title": "Save Humanity"
+              "title": "Similar Strings",
+              "name": "similar-strings"
             },
             {
-              "name": "find-strings",
-              "title": "Find Strings"
+              "title": "Save Humanity",
+              "name": "save-humanity"
             },
             {
-              "name": "palindromic-border",
-              "title": "Palindromic Border"
+              "title": "Find Strings",
+              "name": "find-strings"
             },
             {
-              "name": "two-two",
-              "title": "Two Two"
+              "title": "Palindromic Border",
+              "name": "palindromic-border"
             },
             {
-              "name": "two-strings-game",
-              "title": "Two Strings Game"
+              "title": "Two Two",
+              "name": "two-two"
             },
             {
-              "name": "letter-islands",
-              "title": "Letter Islands"
+              "title": "Two Strings Game",
+              "name": "two-strings-game"
             },
             {
-              "name": "pseudo-isomorphic-substrings",
-              "title": "Pseudo-Isomorphic Substrings"
+              "title": "Letter Islands",
+              "name": "letter-islands"
             },
             {
-              "name": "how-many-substrings",
-              "title": "How Many Substrings?"
+              "title": "Pseudo-Isomorphic Substrings",
+              "name": "pseudo-isomorphic-substrings"
+            },
+            {
+              "title": "How Many Substrings?",
+              "name": "how-many-substrings"
             }
           ],
-          "name": "strings",
-          "title": "Strings"
+          "title": "Strings",
+          "name": "strings"
         },
         {
           "challenges": [
             {
-              "name": "tutorial-intro",
-              "title": "Intro to Tutorial Challenges"
+              "title": "Intro to Tutorial Challenges",
+              "name": "tutorial-intro"
             },
             {
-              "name": "insertionsort1",
-              "title": "Insertion Sort - Part 1"
+              "title": "Insertion Sort - Part 1",
+              "name": "insertionsort1"
             },
             {
-              "name": "insertionsort2",
-              "title": "Insertion Sort - Part 2"
+              "title": "Insertion Sort - Part 2",
+              "name": "insertionsort2"
             },
             {
-              "name": "correctness-invariant",
-              "title": "Correctness and the Loop Invariant"
+              "title": "Correctness and the Loop Invariant",
+              "name": "correctness-invariant"
             },
             {
-              "name": "runningtime",
-              "title": "Running Time of Algorithms"
+              "title": "Running Time of Algorithms",
+              "name": "runningtime"
             },
             {
-              "name": "quicksort1",
-              "title": "Quicksort 1 - Partition"
+              "title": "Quicksort 1 - Partition",
+              "name": "quicksort1"
             },
             {
-              "name": "quicksort2",
-              "title": "Quicksort 2 - Sorting"
+              "title": "Quicksort 2 - Sorting",
+              "name": "quicksort2"
             },
             {
-              "name": "quicksort3",
-              "title": "Quicksort In-Place"
+              "title": "Quicksort In-Place",
+              "name": "quicksort3"
             },
             {
-              "name": "quicksort4",
-              "title": "Running Time of Quicksort"
+              "title": "Running Time of Quicksort",
+              "name": "quicksort4"
             },
             {
-              "name": "countingsort1",
-              "title": "Counting Sort 1"
+              "title": "Counting Sort 1",
+              "name": "countingsort1"
             },
             {
-              "name": "countingsort2",
-              "title": "Counting Sort 2"
+              "title": "Counting Sort 2",
+              "name": "countingsort2"
             },
             {
-              "name": "countingsort3",
-              "title": "Counting Sort 3"
+              "title": "Counting Sort 3",
+              "name": "countingsort3"
             },
             {
-              "name": "countingsort4",
-              "title": "The Full Counting Sort"
+              "title": "The Full Counting Sort",
+              "name": "countingsort4"
             },
             {
-              "name": "closest-numbers",
-              "title": "Closest Numbers"
+              "title": "Closest Numbers",
+              "name": "closest-numbers"
             },
             {
-              "name": "find-the-median",
-              "title": "Find the Median"
+              "title": "Find the Median",
+              "name": "find-the-median"
             },
             {
-              "name": "insertion-sort",
-              "title": "Insertion Sort Advanced Analysis"
+              "title": "Insertion Sort Advanced Analysis",
+              "name": "insertion-sort"
             },
             {
-              "name": "fraudulent-activity-notifications",
-              "title": "Fraudulent Activity Notifications"
+              "title": "Fraudulent Activity Notifications",
+              "name": "fraudulent-activity-notifications"
             },
             {
-              "name": "lilys-homework",
-              "title": "Lily's Homework"
+              "title": "Lily's Homework",
+              "name": "lilys-homework"
             }
           ],
-          "name": "arrays-and-sorting",
-          "title": "Sorting"
+          "title": "Sorting",
+          "name": "arrays-and-sorting"
         },
         {
           "challenges": [
             {
-              "name": "hackerland-radio-transmitters",
-              "title": "Hackerland Radio Transmitters"
+              "title": "Hackerland Radio Transmitters",
+              "name": "hackerland-radio-transmitters"
             },
             {
-              "name": "icecream-parlor",
-              "title": "Ice Cream Parlor"
+              "title": "Ice Cream Parlor",
+              "name": "icecream-parlor"
             },
             {
-              "name": "gridland-metro",
-              "title": "Gridland Metro"
+              "title": "Gridland Metro",
+              "name": "gridland-metro"
             },
             {
-              "name": "missing-numbers",
-              "title": "Missing Numbers"
+              "title": "Missing Numbers",
+              "name": "missing-numbers"
             },
             {
-              "name": "knightl-on-chessboard",
-              "title": "KnightL on a Chessboard"
+              "title": "KnightL on a Chessboard",
+              "name": "knightl-on-chessboard"
             },
             {
-              "name": "pairs",
-              "title": "Pairs"
+              "title": "Pairs",
+              "name": "pairs"
             },
             {
-              "name": "sherlock-and-array",
-              "title": "Sherlock and Array"
+              "title": "Sherlock and Array",
+              "name": "sherlock-and-array"
             },
             {
-              "name": "maximum-subarray-sum",
-              "title": "Maximum Subarray Sum"
+              "title": "Maximum Subarray Sum",
+              "name": "maximum-subarray-sum"
             },
             {
-              "name": "connected-cell-in-a-grid",
-              "title": "Connected Cells in a Grid"
+              "title": "Connected Cells in a Grid",
+              "name": "connected-cell-in-a-grid"
             },
             {
-              "name": "short-palindrome",
-              "title": "Short Palindrome"
+              "title": "Short Palindrome",
+              "name": "short-palindrome"
             },
             {
-              "name": "maximizing-mission-points",
-              "title": "Maximizing Mission Points"
+              "title": "Maximizing Mission Points",
+              "name": "maximizing-mission-points"
             },
             {
-              "name": "count-luck",
-              "title": "Count Luck"
+              "title": "Count Luck",
+              "name": "count-luck"
             },
             {
-              "name": "cut-the-tree",
-              "title": "Cut the Tree"
+              "title": "Cut the Tree",
+              "name": "cut-the-tree"
             },
             {
-              "name": "making-candies",
-              "title": "Making Candies"
+              "title": "Making Candies",
+              "name": "making-candies"
             },
             {
-              "name": "gena",
-              "title": "Gena Playing Hanoi"
+              "title": "Gena Playing Hanoi",
+              "name": "gena"
             },
             {
-              "name": "xor-quadruples",
-              "title": "Beautiful Quadruples"
+              "title": "Beautiful Quadruples",
+              "name": "xor-quadruples"
             },
             {
-              "name": "bike-racers",
-              "title": "Bike Racers"
+              "title": "Bike Racers",
+              "name": "bike-racers"
             },
             {
-              "name": "task-scheduling",
-              "title": "Task Scheduling "
+              "title": "Task Scheduling ",
+              "name": "task-scheduling"
             },
             {
-              "name": "similarpair",
-              "title": "Similar Pair"
+              "title": "Similar Pair",
+              "name": "similarpair"
             },
             {
-              "name": "playing-with-numbers",
-              "title": "Absolute Element Sums"
+              "title": "Absolute Element Sums",
+              "name": "playing-with-numbers"
             },
             {
-              "name": "sorted-subsegments",
-              "title": "Sorted Subsegments"
+              "title": "Sorted Subsegments",
+              "name": "sorted-subsegments"
             },
             {
-              "name": "distant-pairs",
-              "title": "Distant Pairs"
+              "title": "Distant Pairs",
+              "name": "distant-pairs"
             },
             {
-              "name": "king-richards-knights",
-              "title": "King Richard's Knights"
+              "title": "King Richard's Knights",
+              "name": "king-richards-knights"
             }
           ],
-          "name": "search",
-          "title": "Search"
+          "title": "Search",
+          "name": "search"
         },
         {
           "challenges": [
             {
-              "name": "torque-and-development",
-              "title": "Roads and Libraries"
+              "title": "Roads and Libraries",
+              "name": "torque-and-development"
             },
             {
-              "name": "journey-to-the-moon",
-              "title": "Journey to the Moon"
+              "title": "Journey to the Moon",
+              "name": "journey-to-the-moon"
             },
             {
-              "name": "synchronous-shopping",
-              "title": "Synchronous Shopping"
+              "title": "Synchronous Shopping",
+              "name": "synchronous-shopping"
             },
             {
-              "name": "subset-component",
-              "title": "Subset Component"
+              "title": "Subset Component",
+              "name": "subset-component"
             },
             {
-              "name": "bfsshortreach",
-              "title": "Breadth First Search: Shortest Reach"
+              "title": "Breadth First Search: Shortest Reach",
+              "name": "bfsshortreach"
             },
             {
-              "name": "kruskalmstrsub",
-              "title": "Kruskal (MST): Really Special Subtree"
+              "title": "Kruskal (MST): Really Special Subtree",
+              "name": "kruskalmstrsub"
             },
             {
-              "name": "even-tree",
-              "title": "Even Tree"
+              "title": "Even Tree",
+              "name": "even-tree"
             },
             {
-              "name": "the-quickest-way-up",
-              "title": "Snakes and Ladders: The Quickest Way Up"
+              "title": "Snakes and Ladders: The Quickest Way Up",
+              "name": "the-quickest-way-up"
             },
             {
-              "name": "dijkstrashortreach",
-              "title": "Dijkstra: Shortest Reach 2"
+              "title": "The Story of a Tree",
+              "name": "the-story-of-a-tree"
             },
             {
-              "name": "primsmstsub",
-              "title": "Prim's (MST) : Special Subtree"
+              "title": "Dijkstra: Shortest Reach 2",
+              "name": "dijkstrashortreach"
             },
             {
-              "name": "toll-cost-digits",
-              "title": "Toll Cost Digits"
+              "title": "Prim's (MST) : Special Subtree",
+              "name": "primsmstsub"
             },
             {
-              "name": "clique",
-              "title": "Clique"
+              "title": "Toll Cost Digits",
+              "name": "toll-cost-digits"
             },
             {
-              "name": "beautiful-path",
-              "title": "Minimum Penalty Path"
+              "title": "Clique",
+              "name": "clique"
             },
             {
-              "name": "borrowing-money",
-              "title": "Demanding Money"
+              "title": "Minimum Penalty Path",
+              "name": "beautiful-path"
             },
             {
-              "name": "coprime-paths",
-              "title": "Coprime Paths"
+              "title": "Demanding Money",
+              "name": "borrowing-money"
             },
             {
-              "name": "jack-goes-to-rapture",
-              "title": "Jack goes to Rapture "
+              "title": "Coprime Paths",
+              "name": "coprime-paths"
             },
             {
-              "name": "crab-graphs",
-              "title": "Crab Graphs"
+              "title": "Minimum MST Graph",
+              "name": "minimum-mst-graph"
             },
             {
-              "name": "beadornaments",
-              "title": "Bead Ornaments"
+              "title": "Jack goes to Rapture ",
+              "name": "jack-goes-to-rapture"
             },
             {
-              "name": "jeanies-route",
-              "title": "Jeanie's Route"
+              "title": "Crab Graphs",
+              "name": "crab-graphs"
             },
             {
-              "name": "floyd-city-of-blinding-lights",
-              "title": "Floyd : City of Blinding Lights"
+              "title": "Bead Ornaments",
+              "name": "beadornaments"
             },
             {
-              "name": "johnland",
-              "title": "Roads in HackerLand"
+              "title": "Jeanie's Route",
+              "name": "jeanies-route"
             },
             {
-              "name": "kingdom-connectivity",
-              "title": "Kingdom Connectivity"
+              "title": "Floyd : City of Blinding Lights",
+              "name": "floyd-city-of-blinding-lights"
             },
             {
-              "name": "computer-game",
-              "title": "Computer Game"
+              "title": "Roads in HackerLand",
+              "name": "johnland"
             },
             {
-              "name": "rust-murderer",
-              "title": "Rust & Murderer"
+              "title": "Kingdom Connectivity",
+              "name": "kingdom-connectivity"
             },
             {
-              "name": "problem-solving",
-              "title": "Problem solving"
+              "title": "Computer Game",
+              "name": "computer-game"
             },
             {
-              "name": "journey-scheduling",
-              "title": "Journey Scheduling"
+              "title": "Rust & Murderer",
+              "name": "rust-murderer"
             },
             {
-              "name": "matrix",
-              "title": "Matrix"
+              "title": "Problem solving",
+              "name": "problem-solving"
             },
             {
-              "name": "episode-recording",
-              "title": "Recording Episodes"
+              "title": "Journey Scheduling",
+              "name": "journey-scheduling"
             },
             {
-              "name": "repair-roads",
-              "title": "Repair Roads"
+              "title": "Matrix",
+              "name": "matrix"
             },
             {
-              "name": "kth-ancestor",
-              "title": "Kth Ancestor"
+              "title": "Recording Episodes",
+              "name": "episode-recording"
             },
             {
-              "name": "bytelandian-tours",
-              "title": "ByteLandian Tours"
+              "title": "Repair Roads",
+              "name": "repair-roads"
             },
             {
-              "name": "shortest-path",
-              "title": "Find the Path"
+              "title": "Kth Ancestor",
+              "name": "kth-ancestor"
             },
             {
-              "name": "savita-and-friends",
-              "title": "Savita And Friends"
+              "title": "ByteLandian Tours",
+              "name": "bytelandian-tours"
             },
             {
-              "name": "liars",
-              "title": "Liars"
+              "title": "Find the Path",
+              "name": "shortest-path"
             },
             {
-              "name": "jumping-rooks",
-              "title": "Jumping Rooks"
+              "title": "Savita And Friends",
+              "name": "savita-and-friends"
             },
             {
-              "name": "tripartite-matching",
-              "title": "Tripartite Matching"
+              "title": "Liars",
+              "name": "liars"
             },
             {
-              "name": "tree-flow",
-              "title": "Tree Flow"
+              "title": "Jumping Rooks",
+              "name": "jumping-rooks"
             },
             {
-              "name": "dag-queries",
-              "title": "DAG Queries"
+              "title": "Tripartite Matching",
+              "name": "tripartite-matching"
             },
             {
-              "name": "favourite-sequence",
-              "title": "Favorite sequence"
+              "title": "Tree Flow",
+              "name": "tree-flow"
             },
             {
-              "name": "cat-jogging",
-              "title": "Jogging Cats"
+              "title": "DAG Queries",
+              "name": "dag-queries"
             },
             {
-              "name": "quadrant-queries",
-              "title": "Quadrant Queries"
+              "title": "Favorite sequence",
+              "name": "favourite-sequence"
             },
             {
-              "name": "hacker-country",
-              "title": "Hacker Country"
+              "title": "Jogging Cats",
+              "name": "cat-jogging"
             },
             {
-              "name": "missile-defend",
-              "title": "HackerX"
+              "title": "Quadrant Queries",
+              "name": "quadrant-queries"
             },
             {
-              "name": "huarongdao",
-              "title": "Huarongdao"
+              "title": "Hacker Country",
+              "name": "hacker-country"
             },
             {
-              "name": "training-the-army",
-              "title": "Training the army"
+              "title": "HackerX",
+              "name": "missile-defend"
             },
             {
-              "name": "jim-and-his-lan-party",
-              "title": "Jim and his LAN Party"
+              "title": "Huarongdao",
+              "name": "huarongdao"
             },
             {
-              "name": "travel-in-hackerland",
-              "title": "Travel in HackerLand"
+              "title": "Training the army",
+              "name": "training-the-army"
             },
             {
-              "name": "alex-vs-fedor",
-              "title": "Alex vs Fedor"
+              "title": "Jim and his LAN Party",
+              "name": "jim-and-his-lan-party"
             },
             {
-              "name": "vertical-paths",
-              "title": "Vertical Paths"
+              "title": "Travel in HackerLand",
+              "name": "travel-in-hackerland"
             },
             {
-              "name": "drive",
-              "title": "Drive"
+              "title": "Alex vs Fedor",
+              "name": "alex-vs-fedor"
             },
             {
-              "name": "tsp-grid",
-              "title": "Travelling Salesman in a Grid"
+              "title": "Vertical Paths",
+              "name": "vertical-paths"
             },
             {
-              "name": "road-network",
-              "title": "Road Network"
+              "title": "Drive",
+              "name": "drive"
             },
             {
-              "name": "going-office",
-              "title": "Going to the Office"
+              "title": "Travelling Salesman in a Grid",
+              "name": "tsp-grid"
             },
             {
-              "name": "tree-splitting",
-              "title": "Tree Splitting"
+              "title": "Road Network",
+              "name": "road-network"
             },
             {
-              "name": "ticket",
-              "title": "Ticket"
+              "title": "Going to the Office",
+              "name": "going-office"
             },
             {
-              "name": "dfs-edges",
-              "title": "DFS Edges"
+              "title": "Tree Splitting",
+              "name": "tree-splitting"
+            },
+            {
+              "title": "Ticket",
+              "name": "ticket"
+            },
+            {
+              "title": "DFS Edges",
+              "name": "dfs-edges"
             }
           ],
-          "name": "graph-theory",
-          "title": "Graph Theory"
+          "title": "Graph Theory",
+          "name": "graph-theory"
         },
         {
           "challenges": [
             {
-              "name": "minimum-absolute-difference-in-an-array",
-              "title": "Minimum Absolute Difference in an Array"
+              "title": "Minimum Absolute Difference in an Array",
+              "name": "minimum-absolute-difference-in-an-array"
             },
             {
-              "name": "marcs-cakewalk",
-              "title": "Marc's Cakewalk"
+              "title": "Marc's Cakewalk",
+              "name": "marcs-cakewalk"
             },
             {
-              "name": "grid-challenge",
-              "title": "Grid Challenge"
+              "title": "Grid Challenge",
+              "name": "grid-challenge"
             },
             {
-              "name": "luck-balance",
-              "title": "Luck Balance"
+              "title": "Luck Balance",
+              "name": "luck-balance"
             },
             {
-              "name": "maximum-perimeter-triangle",
-              "title": "Maximum Perimeter Triangle"
+              "title": "Maximum Perimeter Triangle",
+              "name": "maximum-perimeter-triangle"
             },
             {
-              "name": "beautiful-pairs",
-              "title": "Beautiful Pairs"
+              "title": "Beautiful Pairs",
+              "name": "beautiful-pairs"
             },
             {
-              "name": "sherlock-and-the-beast",
-              "title": "Sherlock and The Beast"
+              "title": "Sherlock and The Beast",
+              "name": "sherlock-and-the-beast"
             },
             {
-              "name": "priyanka-and-toys",
-              "title": "Priyanka and Toys"
+              "title": "Priyanka and Toys",
+              "name": "priyanka-and-toys"
             },
             {
-              "name": "largest-permutation",
-              "title": "Largest Permutation"
+              "title": "Largest Permutation",
+              "name": "largest-permutation"
             },
             {
-              "name": "mark-and-toys",
-              "title": "Mark and Toys"
+              "title": "Mark and Toys",
+              "name": "mark-and-toys"
             },
             {
-              "name": "greedy-florist",
-              "title": "Greedy Florist"
+              "title": "Greedy Florist",
+              "name": "greedy-florist"
             },
             {
-              "name": "angry-children",
-              "title": "Max Min"
+              "title": "Max Min",
+              "name": "angry-children"
             },
             {
-              "name": "jim-and-the-orders",
-              "title": "Jim and the Orders"
+              "title": "Jim and the Orders",
+              "name": "jim-and-the-orders"
             },
             {
-              "name": "two-arrays",
-              "title": "Permuting Two Arrays"
+              "title": "Permuting Two Arrays",
+              "name": "two-arrays"
             },
             {
-              "name": "board-cutting",
-              "title": "Cutting Boards"
+              "title": "Cutting Boards",
+              "name": "board-cutting"
             },
             {
-              "name": "reverse-shuffle-merge",
-              "title": "Reverse Shuffle Merge"
+              "title": "Reverse Shuffle Merge",
+              "name": "reverse-shuffle-merge"
             },
             {
-              "name": "pylons",
-              "title": "Goodland Electricity"
+              "title": "Goodland Electricity",
+              "name": "pylons"
             },
             {
-              "name": "chief-hopper",
-              "title": "Chief Hopper"
+              "title": "Chief Hopper",
+              "name": "chief-hopper"
             },
             {
-              "name": "sherlock-and-minimax",
-              "title": "Sherlock and MiniMax"
+              "title": "Sherlock and MiniMax",
+              "name": "sherlock-and-minimax"
             },
             {
-              "name": "accessory-collection",
-              "title": "Accessory Collection"
+              "title": "Accessory Collection",
+              "name": "accessory-collection"
             },
             {
-              "name": "team-formation",
-              "title": "Team Formation"
+              "title": "Team Formation",
+              "name": "team-formation"
             },
             {
-              "name": "fighting-pits",
-              "title": "Fighting Pits"
+              "title": "Fighting Pits",
+              "name": "fighting-pits"
             }
           ],
-          "name": "greedy",
-          "title": "Greedy"
+          "title": "Greedy",
+          "name": "greedy"
         },
         {
           "challenges": [
             {
-              "name": "coin-change",
-              "title": "The Coin Change Problem"
+              "title": "The Coin Change Problem",
+              "name": "coin-change"
             },
             {
-              "name": "equal",
-              "title": "Equal"
+              "title": "Equal",
+              "name": "equal"
             },
             {
-              "name": "sherlock-and-cost",
-              "title": "Sherlock and Cost"
+              "title": "Sherlock and Cost",
+              "name": "sherlock-and-cost"
             },
             {
-              "name": "kingdom-division",
-              "title": "Kingdom Division"
+              "title": "Kingdom Division",
+              "name": "kingdom-division"
             },
             {
-              "name": "vertical-sticks",
-              "title": "Vertical Sticks"
+              "title": "Vertical Sticks",
+              "name": "vertical-sticks"
             },
             {
-              "name": "candies",
-              "title": "Candies"
+              "title": "Candies",
+              "name": "candies"
             },
             {
-              "name": "sam-and-substrings",
-              "title": "Sam and sub-strings"
+              "title": "Sam and sub-strings",
+              "name": "sam-and-substrings"
             },
             {
-              "name": "fibonacci-modified",
-              "title": "Fibonacci Modified"
+              "title": "Fibonacci Modified",
+              "name": "fibonacci-modified"
             },
             {
-              "name": "abbr",
-              "title": "Abbreviation"
+              "title": "Abbreviation",
+              "name": "abbr"
             },
             {
-              "name": "decibinary-numbers",
-              "title": "Decibinary Numbers"
+              "title": "Decibinary Numbers",
+              "name": "decibinary-numbers"
             },
             {
-              "name": "fair-cut",
-              "title": "Fair Cut"
+              "title": "Fair Cut",
+              "name": "fair-cut"
             },
             {
-              "name": "maxsubarray",
-              "title": "The Maximum Subarray"
+              "title": "The Maximum Subarray",
+              "name": "maxsubarray"
             },
             {
-              "name": "angry-children-2",
-              "title": "Angry Children 2"
+              "title": "Angry Children 2",
+              "name": "angry-children-2"
             },
             {
-              "name": "prime-digit-sums",
-              "title": "Prime Digit Sums"
+              "title": "Sherlock's Array Merging Algorithm",
+              "name": "sherlocks-array-merging-algorithm"
             },
             {
-              "name": "hr-city",
-              "title": "HackerRank City"
+              "title": "Prime Digit Sums",
+              "name": "prime-digit-sums"
             },
             {
-              "name": "summing-pieces",
-              "title": "Summing Pieces"
+              "title": "HackerRank City",
+              "name": "hr-city"
             },
             {
-              "name": "mr-k-marsh",
-              "title": "Mr K marsh"
+              "title": "Summing Pieces",
+              "name": "summing-pieces"
             },
             {
-              "name": "substring-diff",
-              "title": "Substring Diff"
+              "title": "Mr K marsh",
+              "name": "mr-k-marsh"
             },
             {
-              "name": "xor-and-sum",
-              "title": "Xor and Sum"
+              "title": "Substring Diff",
+              "name": "substring-diff"
             },
             {
-              "name": "lego-blocks",
-              "title": "Lego Blocks"
+              "title": "Xor and Sum",
+              "name": "xor-and-sum"
             },
             {
-              "name": "brick-tiling",
-              "title": "Brick Tiling"
+              "title": "Lego Blocks",
+              "name": "lego-blocks"
             },
             {
-              "name": "alien-languages",
-              "title": "Alien Languages"
+              "title": "Brick Tiling",
+              "name": "brick-tiling"
             },
             {
-              "name": "stockmax",
-              "title": "Stock Maximize"
+              "title": "Alien Languages",
+              "name": "alien-languages"
             },
             {
-              "name": "two-robots",
-              "title": "Two Robots"
+              "title": "Stock Maximize",
+              "name": "stockmax"
             },
             {
-              "name": "cuttree",
-              "title": "Cut Tree"
+              "title": "Two Robots",
+              "name": "two-robots"
             },
             {
-              "name": "taras-beautiful-permutations",
-              "title": "Tara's Beautiful Permutations"
+              "title": "Cut Tree",
+              "name": "cuttree"
             },
             {
-              "name": "wet-shark-and-two-subsequences",
-              "title": "Wet Shark and Two Subsequences"
+              "title": "Tara's Beautiful Permutations",
+              "name": "taras-beautiful-permutations"
             },
             {
-              "name": "array-splitting",
-              "title": "Nikita and the Game"
+              "title": "Wet Shark and Two Subsequences",
+              "name": "wet-shark-and-two-subsequences"
             },
             {
-              "name": "mandragora",
-              "title": "Mandragora Forest"
+              "title": "Nikita and the Game",
+              "name": "array-splitting"
             },
             {
-              "name": "red-john-is-back",
-              "title": "Red John is Back"
+              "title": "Mandragora Forest",
+              "name": "mandragora"
             },
             {
-              "name": "tutzki-and-lcs",
-              "title": "LCS Returns"
+              "title": "Red John is Back",
+              "name": "red-john-is-back"
             },
             {
-              "name": "grid-walking",
-              "title": "Grid Walking"
+              "title": "LCS Returns",
+              "name": "tutzki-and-lcs"
             },
             {
-              "name": "unbounded-knapsack",
-              "title": "Knapsack"
+              "title": "Grid Walking",
+              "name": "grid-walking"
             },
             {
-              "name": "play-game",
-              "title": "Bricks Game"
+              "title": "Knapsack",
+              "name": "unbounded-knapsack"
             },
             {
-              "name": "longest-increasing-subsequent",
-              "title": "The Longest Increasing Subsequence"
+              "title": "Bricks Game",
+              "name": "play-game"
             },
             {
-              "name": "coin-on-the-table",
-              "title": "Coin on the Table"
+              "title": "The Longest Increasing Subsequence",
+              "name": "longest-increasing-subsequent"
             },
             {
-              "name": "dynamic-programming-classics-the-longest-common-subsequence",
-              "title": "The Longest Common Subsequence"
+              "title": "Coin on the Table",
+              "name": "coin-on-the-table"
             },
             {
-              "name": "strplay",
-              "title": "Play with words"
+              "title": "The Longest Common Subsequence",
+              "name": "dynamic-programming-classics-the-longest-common-subsequence"
             },
             {
-              "name": "black-n-white-tree-1",
-              "title": "Black and White Tree"
+              "title": "Play with words",
+              "name": "strplay"
             },
             {
-              "name": "counting-special-sub-cubes",
-              "title": "Counting Special Sub-Cubes"
+              "title": "Black and White Tree",
+              "name": "black-n-white-tree-1"
             },
             {
-              "name": "interval-selection",
-              "title": "Interval Selection"
+              "title": "Counting Special Sub-Cubes",
+              "name": "counting-special-sub-cubes"
             },
             {
-              "name": "string-reduction",
-              "title": "String Reduction"
+              "title": "Interval Selection",
+              "name": "interval-selection"
             },
             {
-              "name": "far-vertices",
-              "title": "Far Vertices"
+              "title": "String Reduction",
+              "name": "string-reduction"
             },
             {
-              "name": "counting-road-networks",
-              "title": "Counting Road Networks"
+              "title": "Far Vertices",
+              "name": "far-vertices"
             },
             {
-              "name": "superman-celebrates-diwali",
-              "title": "Superman Celebrates Diwali "
+              "title": "Counting Road Networks",
+              "name": "counting-road-networks"
             },
             {
-              "name": "hexagonal-grid",
-              "title": "Hexagonal Grid"
+              "title": "Superman Celebrates Diwali ",
+              "name": "superman-celebrates-diwali"
             },
             {
-              "name": "queens-on-board",
-              "title": "Queens on Board"
+              "title": "Hexagonal Grid",
+              "name": "hexagonal-grid"
             },
             {
-              "name": "shashank-and-palindromic-strings",
-              "title": "Shashank and the Palindromic Strings"
+              "title": "Queens on Board",
+              "name": "queens-on-board"
             },
             {
-              "name": "points-in-a-plane",
-              "title": "Points in a Plane"
+              "title": "Shashank and the Palindromic Strings",
+              "name": "shashank-and-palindromic-strings"
             },
             {
-              "name": "the-indian-job",
-              "title": "The Indian Job"
+              "title": "Points in a Plane",
+              "name": "points-in-a-plane"
             },
             {
-              "name": "requirement",
-              "title": "Requirement"
+              "title": "The Indian Job",
+              "name": "the-indian-job"
             },
             {
-              "name": "a-super-hero",
-              "title": "A Super Hero"
+              "title": "Requirement",
+              "name": "requirement"
             },
             {
-              "name": "clues-on-a-binary-path",
-              "title": "Clues on a Binary Path"
+              "title": "A Super Hero",
+              "name": "a-super-hero"
             },
             {
-              "name": "road-maintenance",
-              "title": "Road Maintenance"
+              "title": "Clues on a Binary Path",
+              "name": "clues-on-a-binary-path"
             },
             {
-              "name": "billboards",
-              "title": "Billboards"
+              "title": "Road Maintenance",
+              "name": "road-maintenance"
             },
             {
-              "name": "beautiful-string",
-              "title": "Beautiful Strings"
+              "title": "Billboards",
+              "name": "billboards"
             },
             {
-              "name": "covering-the-stains",
-              "title": "Covering the stains"
+              "title": "Beautiful Strings",
+              "name": "beautiful-string"
             },
             {
-              "name": "gcd-matrix",
-              "title": "GCD Matrix"
+              "title": "Covering the stains",
+              "name": "covering-the-stains"
             },
             {
-              "name": "fairy-chess",
-              "title": "Fairy Chess"
+              "title": "GCD Matrix",
+              "name": "gcd-matrix"
             },
             {
-              "name": "travel-around-the-world",
-              "title": "Travel around the world"
+              "title": "Fairy Chess",
+              "name": "fairy-chess"
             },
             {
-              "name": "newyear-present",
-              "title": "New Year Present"
+              "title": "Travel around the world",
+              "name": "travel-around-the-world"
             },
             {
-              "name": "longest-palindromic-subsequence",
-              "title": "Longest Palindromic Subsequence"
+              "title": "New Year Present",
+              "name": "newyear-present"
             },
             {
-              "name": "candles-2",
-              "title": "Candles Counting"
+              "title": "Longest Palindromic Subsequence",
+              "name": "longest-palindromic-subsequence"
             },
             {
-              "name": "hyper-strings",
-              "title": "Hyper Strings"
+              "title": "Candles Counting",
+              "name": "candles-2"
             },
             {
-              "name": "swappermutation",
-              "title": "Swap Permutation"
+              "title": "Hyper Strings",
+              "name": "hyper-strings"
             },
             {
-              "name": "extremum-permutations",
-              "title": "Extremum Permutations"
+              "title": "Swap Permutation",
+              "name": "swappermutation"
             },
             {
-              "name": "square-subsequences",
-              "title": "Square Subsequences"
+              "title": "Extremum Permutations",
+              "name": "extremum-permutations"
             },
             {
-              "name": "dorsey-thief",
-              "title": "Dorsey Thief"
+              "title": "Square Subsequences",
+              "name": "square-subsequences"
             },
             {
-              "name": "mining",
-              "title": "Mining"
+              "title": "Dorsey Thief",
+              "name": "dorsey-thief"
             },
             {
-              "name": "police-operation",
-              "title": "Police Operation"
+              "title": "Mining",
+              "name": "mining"
             },
             {
-              "name": "zurikela",
-              "title": "Zurikela's Graph"
+              "title": "Police Operation",
+              "name": "police-operation"
             },
             {
-              "name": "modify-the-sequence",
-              "title": "Modify The Sequence"
+              "title": "Zurikela's Graph",
+              "name": "zurikela"
             },
             {
-              "name": "longest-mod-path",
-              "title": "Longest Mod Path"
+              "title": "Modify The Sequence",
+              "name": "modify-the-sequence"
             },
             {
-              "name": "p-sequences",
-              "title": "P-sequences"
+              "title": "Longest Mod Path",
+              "name": "longest-mod-path"
             },
             {
-              "name": "robot",
-              "title": "Robot"
+              "title": "P-sequences",
+              "name": "p-sequences"
             },
             {
-              "name": "lucky-numbers",
-              "title": "Lucky Numbers"
+              "title": "Robot",
+              "name": "robot"
             },
             {
-              "name": "unfair-game",
-              "title": "Unfair Game"
+              "title": "Lucky Numbers",
+              "name": "lucky-numbers"
             },
             {
-              "name": "oil-well",
-              "title": "Oil Well"
+              "title": "Unfair Game",
+              "name": "unfair-game"
             },
             {
-              "name": "find-the-seed",
-              "title": "Find the Seed"
+              "title": "Oil Well",
+              "name": "oil-well"
             },
             {
-              "name": "the-blacklist",
-              "title": "The Blacklist"
+              "title": "Find the Seed",
+              "name": "find-the-seed"
             },
             {
-              "name": "tree-pruning",
-              "title": "Tree Pruning"
+              "title": "The Blacklist",
+              "name": "the-blacklist"
             },
             {
-              "name": "ones-and-twos",
-              "title": "Ones and Twos"
+              "title": "Tree Pruning",
+              "name": "tree-pruning"
             },
             {
-              "name": "count-scorecards",
-              "title": "Count Scorecards"
+              "title": "Ones and Twos",
+              "name": "ones-and-twos"
             },
             {
-              "name": "vim-war",
-              "title": "Vim War"
+              "title": "Count Scorecards",
+              "name": "count-scorecards"
             },
             {
-              "name": "best-spot",
-              "title": "Best spot"
+              "title": "Vim War",
+              "name": "vim-war"
             },
             {
-              "name": "divisible-numbers",
-              "title": "Divisible Numbers"
+              "title": "Best spot",
+              "name": "best-spot"
             },
             {
-              "name": "unique-divide-and-conquer",
-              "title": "Unique Divide And Conquer       "
+              "title": "Divisible Numbers",
+              "name": "divisible-numbers"
             },
             {
-              "name": "happy-king",
-              "title": "King and Four Sons"
+              "title": "Unique Divide And Conquer       ",
+              "name": "unique-divide-and-conquer"
             },
             {
-              "name": "dortmund-dilemma",
-              "title": "Dortmund Dilemma"
+              "title": "King and Four Sons",
+              "name": "happy-king"
             },
             {
-              "name": "super-kth-lis",
-              "title": "Super Kth LIS"
+              "title": "Dortmund Dilemma",
+              "name": "dortmund-dilemma"
             },
             {
-              "name": "count-ways-1",
-              "title": "Counting the Ways"
+              "title": "Super Kth LIS",
+              "name": "super-kth-lis"
             },
             {
-              "name": "hard-drive-disks",
-              "title": "Hard Disk Drives"
+              "title": "Counting the Ways",
+              "name": "count-ways-1"
             },
             {
-              "name": "separate-the-chocolate",
-              "title": "Separate the chocolate"
+              "title": "Hard Disk Drives",
+              "name": "hard-drive-disks"
+            },
+            {
+              "title": "Separate the chocolate",
+              "name": "separate-the-chocolate"
             }
           ],
-          "name": "dynamic-programming",
-          "title": "Dynamic Programming"
+          "title": "Dynamic Programming",
+          "name": "dynamic-programming"
         },
         {
           "challenges": [
             {
-              "name": "lena-sort",
-              "title": "Lena Sort"
+              "title": "Lena Sort",
+              "name": "lena-sort"
             },
             {
-              "name": "flipping-the-matrix",
-              "title": "Flipping the Matrix"
+              "title": "Flipping the Matrix",
+              "name": "flipping-the-matrix"
             },
             {
-              "name": "an-interesting-game-1",
-              "title": "Gaming Array"
+              "title": "Gaming Array",
+              "name": "an-interesting-game-1"
             },
             {
-              "name": "new-year-chaos",
-              "title": "New Year Chaos"
+              "title": "New Year Chaos",
+              "name": "new-year-chaos"
             },
             {
-              "name": "bonetrousle",
-              "title": "Bonetrousle"
+              "title": "Bonetrousle",
+              "name": "bonetrousle"
             },
             {
-              "name": "kmp-problem",
-              "title": "Yet Another KMP Problem"
+              "title": "Yet Another KMP Problem",
+              "name": "kmp-problem"
             },
             {
-              "name": "beautiful-3-set",
-              "title": "Beautiful 3 Set"
+              "title": "Beautiful 3 Set",
+              "name": "beautiful-3-set"
             },
             {
-              "name": "inverse-rmq",
-              "title": "Inverse RMQ"
+              "title": "Inverse RMQ",
+              "name": "inverse-rmq"
             },
             {
-              "name": "two-subarrays",
-              "title": "Two Subarrays"
+              "title": "Two Subarrays",
+              "name": "two-subarrays"
             },
             {
-              "name": "lovely-triplets",
-              "title": "Lovely Triplets"
+              "title": "Lovely Triplets",
+              "name": "lovely-triplets"
             },
             {
-              "name": "array-construction",
-              "title": "Array Construction"
+              "title": "Array Construction",
+              "name": "array-construction"
             }
           ],
-          "name": "constructive-algorithms",
-          "title": "Constructive Algorithms"
+          "title": "Constructive Algorithms",
+          "name": "constructive-algorithms"
         },
         {
           "challenges": [
             {
-              "name": "lonely-integer",
-              "title": "Lonely Integer"
+              "title": "Lonely Integer",
+              "name": "lonely-integer"
             },
             {
-              "name": "maximizing-xor",
-              "title": "Maximizing XOR"
+              "title": "Maximizing XOR",
+              "name": "maximizing-xor"
             },
             {
-              "name": "counter-game",
-              "title": "Counter game"
+              "title": "Counter game",
+              "name": "counter-game"
             },
             {
-              "name": "xor-se",
-              "title": "Xor-sequence"
+              "title": "Xor-sequence",
+              "name": "xor-se"
             },
             {
-              "name": "sum-vs-xor",
-              "title": "Sum vs XOR"
+              "title": "Sum vs XOR",
+              "name": "sum-vs-xor"
             },
             {
-              "name": "flipping-bits",
-              "title": "Flipping bits"
+              "title": "Flipping bits",
+              "name": "flipping-bits"
             },
             {
-              "name": "yet-another-minimax-problem",
-              "title": "Yet Another Minimax Problem"
+              "title": "Yet Another Minimax Problem",
+              "name": "yet-another-minimax-problem"
             },
             {
-              "name": "sansa-and-xor",
-              "title": "Sansa and XOR"
+              "title": "Sansa and XOR",
+              "name": "sansa-and-xor"
             },
             {
-              "name": "and-product",
-              "title": "AND Product"
+              "title": "AND Product",
+              "name": "and-product"
             },
             {
-              "name": "xoring-ninja",
-              "title": "Xoring Ninja"
+              "title": "Xoring Ninja",
+              "name": "xoring-ninja"
             },
             {
-              "name": "cipher",
-              "title": "Cipher"
+              "title": "Cipher",
+              "name": "cipher"
             },
             {
-              "name": "xor-matrix",
-              "title": "XOR Matrix"
+              "title": "XOR Matrix",
+              "name": "xor-matrix"
             },
             {
-              "name": "whats-next",
-              "title": "What's Next?"
+              "title": "What's Next?",
+              "name": "whats-next"
             },
             {
-              "name": "string-transmission",
-              "title": "String Transmission"
+              "title": "String Transmission",
+              "name": "string-transmission"
             },
             {
-              "name": "aorb",
-              "title": "A or B"
+              "title": "A or B",
+              "name": "aorb"
             },
             {
-              "name": "manipulative-numbers",
-              "title": "Manipulative Numbers"
+              "title": "Manipulative Numbers",
+              "name": "manipulative-numbers"
             },
             {
-              "name": "stonegame",
-              "title": "Stone game"
+              "title": "Stone game",
+              "name": "stonegame"
             },
             {
-              "name": "2s-complement",
-              "title": "2's complement"
+              "title": "2's complement",
+              "name": "2s-complement"
             },
             {
-              "name": "changing-bits",
-              "title": "Changing Bits"
+              "title": "Changing Bits",
+              "name": "changing-bits"
             },
             {
-              "name": "xor-key",
-              "title": "XOR key"
+              "title": "XOR key",
+              "name": "xor-key"
             },
             {
-              "name": "maximizing-the-function",
-              "title": "Maximizing the Function "
+              "title": "Maximizing the Function ",
+              "name": "maximizing-the-function"
             },
             {
-              "name": "xor-subsequence",
-              "title": "XOR Subsequences"
+              "title": "XOR Subsequences",
+              "name": "xor-subsequence"
             },
             {
-              "name": "iterate-it",
-              "title": "Iterate It"
+              "title": "Iterate It",
+              "name": "iterate-it"
             },
             {
-              "name": "hamming-distance",
-              "title": "Hamming Distance"
+              "title": "Hamming Distance",
+              "name": "hamming-distance"
             },
             {
-              "name": "pmix",
-              "title": "Mixing proteins"
+              "title": "Mixing proteins",
+              "name": "pmix"
             }
           ],
-          "name": "bit-manipulation",
-          "title": "Bit Manipulation"
+          "title": "Bit Manipulation",
+          "name": "bit-manipulation"
         },
         {
           "challenges": [
             {
-              "name": "the-power-sum",
-              "title": "The Power Sum"
+              "title": "The Power Sum",
+              "name": "the-power-sum"
             },
             {
-              "name": "crossword-puzzle",
-              "title": "Crossword Puzzle"
+              "title": "Crossword Puzzle",
+              "name": "crossword-puzzle"
             },
             {
-              "name": "recursive-digit-sum",
-              "title": "Recursive Digit Sum"
+              "title": "Recursive Digit Sum",
+              "name": "recursive-digit-sum"
             },
             {
-              "name": "simplified-chess-engine",
-              "title": "Simplified Chess Engine"
+              "title": "Simplified Chess Engine",
+              "name": "simplified-chess-engine"
             },
             {
-              "name": "password-cracker",
-              "title": "Password Cracker"
+              "title": "Password Cracker",
+              "name": "password-cracker"
             },
             {
-              "name": "arithmetic-expressions",
-              "title": "Arithmetic Expressions"
+              "title": "Arithmetic Expressions",
+              "name": "arithmetic-expressions"
             },
             {
-              "name": "k-factorization",
-              "title": "K Factorization"
+              "title": "K Factorization",
+              "name": "k-factorization"
             },
             {
-              "name": "bowling-pins",
-              "title": "Bowling Pins"
+              "title": "Bowling Pins",
+              "name": "bowling-pins"
             },
             {
-              "name": "simplified-chess-engine-ii",
-              "title": "Simplified Chess Engine II"
+              "title": "Simplified Chess Engine II",
+              "name": "simplified-chess-engine-ii"
             },
             {
-              "name": "repeat-k-sums",
-              "title": "Repetitive K-Sums"
+              "title": "Repetitive K-Sums",
+              "name": "repeat-k-sums"
             }
           ],
-          "name": "recursion",
-          "title": "Recursion"
+          "title": "Recursion",
+          "name": "recursion"
         },
         {
           "challenges": [
             {
-              "name": "game-of-stones-1",
-              "title": "Game of Stones"
+              "title": "Game of Stones",
+              "name": "game-of-stones-1"
             },
             {
-              "name": "tower-breakers-1",
-              "title": "Tower Breakers "
+              "title": "Tower Breakers ",
+              "name": "tower-breakers-1"
             },
             {
-              "name": "a-chessboard-game-1",
-              "title": "A Chessboard Game"
+              "title": "A Chessboard Game",
+              "name": "a-chessboard-game-1"
             },
             {
-              "name": "nim-game-1",
-              "title": "Introduction to Nim Game"
+              "title": "Introduction to Nim Game",
+              "name": "nim-game-1"
             },
             {
-              "name": "misere-nim-1",
-              "title": "Mis\u00e8re Nim"
+              "title": "Mis\u00e8re Nim",
+              "name": "misere-nim-1"
             },
             {
-              "name": "nimble-game-1",
-              "title": "Nimble Game"
+              "title": "Nimble Game",
+              "name": "nimble-game-1"
             },
             {
-              "name": "alice-and-bobs-silly-game",
-              "title": "Alice and Bob's Silly Game"
+              "title": "Alice and Bob's Silly Game",
+              "name": "alice-and-bobs-silly-game"
             },
             {
-              "name": "poker-nim-1",
-              "title": "Poker Nim"
+              "title": "Poker Nim",
+              "name": "poker-nim-1"
             },
             {
-              "name": "tower-breakers-revisited-1",
-              "title": "Tower Breakers, Revisited!"
+              "title": "Tower Breakers, Revisited!",
+              "name": "tower-breakers-revisited-1"
             },
             {
-              "name": "tower-breakers-again-1",
-              "title": "Tower Breakers, Again!"
+              "title": "Tower Breakers, Again!",
+              "name": "tower-breakers-again-1"
             },
             {
-              "name": "zero-move-nim",
-              "title": "Zero-Move Nim"
+              "title": "Zero-Move Nim",
+              "name": "zero-move-nim"
             },
             {
-              "name": "chessboard-game-again-1",
-              "title": "Chessboard Game, Again!"
+              "title": "Chessboard Game, Again!",
+              "name": "chessboard-game-again-1"
             },
             {
-              "name": "digits-square-board-1",
-              "title": "Digits Square Board"
+              "title": "Digits Square Board",
+              "name": "digits-square-board-1"
             },
             {
-              "name": "fun-game-1",
-              "title": "Fun Game"
+              "title": "Fun Game",
+              "name": "fun-game-1"
             },
             {
-              "name": "stone-division",
-              "title": "Stone Division"
+              "title": "Stone Division",
+              "name": "stone-division"
             },
             {
-              "name": "chocolate-in-box",
-              "title": "Chocolate in Box"
+              "title": "Chocolate in Box",
+              "name": "chocolate-in-box"
             },
             {
-              "name": "kitty-and-katty",
-              "title": "Kitty and Katty"
+              "title": "Kitty and Katty",
+              "name": "kitty-and-katty"
             },
             {
-              "name": "powers-game-1",
-              "title": "Powers Game"
+              "title": "Powers Game",
+              "name": "powers-game-1"
             },
             {
-              "name": "deforestation-1",
-              "title": "Deforestation"
+              "title": "Deforestation",
+              "name": "deforestation-1"
             },
             {
-              "name": "bob-and-ben",
-              "title": "Bob and Ben"
+              "title": "Bob and Ben",
+              "name": "bob-and-ben"
             },
             {
-              "name": "tower-breakers-the-final-battle-1",
-              "title": "Tower Breakers - The Final Battle"
+              "title": "Tower Breakers - The Final Battle",
+              "name": "tower-breakers-the-final-battle-1"
             },
             {
-              "name": "simple-game",
-              "title": "Simple Game"
+              "title": "Simple Game",
+              "name": "simple-game"
             },
             {
-              "name": "permutation-game",
-              "title": "Permutation game"
+              "title": "Permutation game",
+              "name": "permutation-game"
             },
             {
-              "name": "move-the-coins",
-              "title": "Move the Coins"
+              "title": "Move the Coins",
+              "name": "move-the-coins"
             },
             {
-              "name": "benders-play",
-              "title": "Play on benders"
+              "title": "Play on benders",
+              "name": "benders-play"
             },
             {
-              "name": "newyear-game",
-              "title": "New Year Game"
+              "title": "New Year Game",
+              "name": "newyear-game"
             },
             {
-              "name": "stone-piles",
-              "title": "Stone Piles"
+              "title": "Stone Piles",
+              "name": "stone-piles"
             },
             {
-              "name": "chocolate-game",
-              "title": "Chocolate Game"
+              "title": "Chocolate Game",
+              "name": "chocolate-game"
             },
             {
-              "name": "manasa-and-prime-game",
-              "title": "Manasa and Prime game "
+              "title": "Manasa and Prime game ",
+              "name": "manasa-and-prime-game"
             },
             {
-              "name": "vertical-rooks",
-              "title": "Vertical Rooks"
+              "title": "Vertical Rooks",
+              "name": "vertical-rooks"
             },
             {
-              "name": "half",
-              "title": "A stones game"
+              "title": "A stones game",
+              "name": "half"
             }
           ],
-          "name": "game-theory",
-          "title": "Game Theory"
+          "title": "Game Theory",
+          "name": "game-theory"
         },
         {
           "challenges": [
             {
-              "name": "walking-the-approximate-longest-path",
-              "title": "Walking the Approximate Longest Path"
+              "title": "Walking the Approximate Longest Path",
+              "name": "walking-the-approximate-longest-path"
             },
             {
-              "name": "sams-puzzle",
-              "title": "Sam's Puzzle (Approximate)"
+              "title": "Sam's Puzzle (Approximate)",
+              "name": "sams-puzzle"
             },
             {
-              "name": "spies-revised",
-              "title": "Spies, Revised"
+              "title": "Spies, Revised",
+              "name": "spies-revised"
             },
             {
-              "name": "tbsp",
-              "title": "TBS Problem"
+              "title": "TBS Problem",
+              "name": "tbsp"
             }
           ],
-          "name": "np-complete-problems",
-          "title": "NP Complete"
+          "title": "NP Complete",
+          "name": "np-complete-problems"
         }
       ],
-      "title": "Algorithms"
+      "title": "Algorithms",
+      "name": "algorithms"
     },
     {
-      "name": "data-structures",
       "chapters": [
         {
           "challenges": [
             {
-              "name": "arrays-ds",
-              "title": "Arrays - DS"
+              "title": "Arrays - DS",
+              "name": "arrays-ds"
             },
             {
-              "name": "2d-array",
-              "title": "2D Array - DS"
+              "title": "2D Array - DS",
+              "name": "2d-array"
             },
             {
-              "name": "dynamic-array",
-              "title": "Dynamic Array"
+              "title": "Dynamic Array",
+              "name": "dynamic-array"
             },
             {
-              "name": "array-left-rotation",
-              "title": "Left Rotation"
+              "title": "Left Rotation",
+              "name": "array-left-rotation"
             },
             {
-              "name": "sparse-arrays",
-              "title": "Sparse Arrays"
+              "title": "Sparse Arrays",
+              "name": "sparse-arrays"
             },
             {
-              "name": "crush",
-              "title": "Algorithmic Crush"
+              "title": "Algorithmic Crush",
+              "name": "crush"
             }
           ],
-          "name": "arrays",
-          "title": "Arrays"
+          "title": "Arrays",
+          "name": "arrays"
         },
         {
           "challenges": [
             {
-              "name": "print-the-elements-of-a-linked-list",
-              "title": "Print the Elements of a Linked List"
+              "title": "Print the Elements of a Linked List",
+              "name": "print-the-elements-of-a-linked-list"
             },
             {
-              "name": "insert-a-node-at-the-tail-of-a-linked-list",
-              "title": "Insert a Node at the Tail of a Linked List"
+              "title": "Insert a Node at the Tail of a Linked List",
+              "name": "insert-a-node-at-the-tail-of-a-linked-list"
             },
             {
-              "name": "insert-a-node-at-the-head-of-a-linked-list",
-              "title": "Insert a node at the head of a linked list"
+              "title": "Insert a node at the head of a linked list",
+              "name": "insert-a-node-at-the-head-of-a-linked-list"
             },
             {
-              "name": "insert-a-node-at-a-specific-position-in-a-linked-list",
-              "title": "Insert a node at a specific position in a linked list"
+              "title": "Insert a node at a specific position in a linked list",
+              "name": "insert-a-node-at-a-specific-position-in-a-linked-list"
             },
             {
-              "name": "delete-a-node-from-a-linked-list",
-              "title": "Delete a Node"
+              "title": "Delete a Node",
+              "name": "delete-a-node-from-a-linked-list"
             },
             {
-              "name": "print-the-elements-of-a-linked-list-in-reverse",
-              "title": "Print in Reverse"
+              "title": "Print in Reverse",
+              "name": "print-the-elements-of-a-linked-list-in-reverse"
             },
             {
-              "name": "reverse-a-linked-list",
-              "title": "Reverse a linked list"
+              "title": "Reverse a linked list",
+              "name": "reverse-a-linked-list"
             },
             {
-              "name": "compare-two-linked-lists",
-              "title": "Compare two linked lists"
+              "title": "Compare two linked lists",
+              "name": "compare-two-linked-lists"
             },
             {
-              "name": "merge-two-sorted-linked-lists",
-              "title": "Merge two sorted linked lists"
+              "title": "Merge two sorted linked lists",
+              "name": "merge-two-sorted-linked-lists"
             },
             {
-              "name": "get-the-value-of-the-node-at-a-specific-position-from-the-tail",
-              "title": "Get Node Value"
+              "title": "Get Node Value",
+              "name": "get-the-value-of-the-node-at-a-specific-position-from-the-tail"
             },
             {
-              "name": "delete-duplicate-value-nodes-from-a-sorted-linked-list",
-              "title": "Delete duplicate-value nodes from a sorted linked list"
+              "title": "Delete duplicate-value nodes from a sorted linked list",
+              "name": "delete-duplicate-value-nodes-from-a-sorted-linked-list"
             },
             {
-              "name": "detect-whether-a-linked-list-contains-a-cycle",
-              "title": "Cycle Detection"
+              "title": "Cycle Detection",
+              "name": "detect-whether-a-linked-list-contains-a-cycle"
             },
             {
-              "name": "find-the-merge-point-of-two-joined-linked-lists",
-              "title": "Find Merge Point of Two Lists"
+              "title": "Find Merge Point of Two Lists",
+              "name": "find-the-merge-point-of-two-joined-linked-lists"
             },
             {
-              "name": "insert-a-node-into-a-sorted-doubly-linked-list",
-              "title": "Inserting a Node Into a Sorted Doubly Linked List"
+              "title": "Inserting a Node Into a Sorted Doubly Linked List",
+              "name": "insert-a-node-into-a-sorted-doubly-linked-list"
             },
             {
-              "name": "reverse-a-doubly-linked-list",
-              "title": "Reverse a doubly linked list"
+              "title": "Reverse a doubly linked list",
+              "name": "reverse-a-doubly-linked-list"
             }
           ],
-          "name": "linked-lists",
-          "title": "Linked Lists"
+          "title": "Linked Lists",
+          "name": "linked-lists"
         },
         {
           "challenges": [
             {
-              "name": "tree-preorder-traversal",
-              "title": "Tree: Preorder Traversal"
+              "title": "Tree: Preorder Traversal",
+              "name": "tree-preorder-traversal"
             },
             {
-              "name": "tree-postorder-traversal",
-              "title": "Tree: Postorder Traversal"
+              "title": "Tree: Postorder Traversal",
+              "name": "tree-postorder-traversal"
             },
             {
-              "name": "tree-inorder-traversal",
-              "title": "Tree: Inorder Traversal"
+              "title": "Tree: Inorder Traversal",
+              "name": "tree-inorder-traversal"
             },
             {
-              "name": "tree-height-of-a-binary-tree",
-              "title": "Tree: Height of a Binary Tree"
+              "title": "Tree: Height of a Binary Tree",
+              "name": "tree-height-of-a-binary-tree"
             },
             {
-              "name": "tree-top-view",
-              "title": "Tree : Top View"
+              "title": "Tree : Top View",
+              "name": "tree-top-view"
             },
             {
-              "name": "tree-level-order-traversal",
-              "title": "Tree: Level Order Traversal"
+              "title": "Tree: Level Order Traversal",
+              "name": "tree-level-order-traversal"
             },
             {
-              "name": "binary-search-tree-insertion",
-              "title": "Binary Search Tree : Insertion"
+              "title": "Binary Search Tree : Insertion",
+              "name": "binary-search-tree-insertion"
             },
             {
-              "name": "tree-huffman-decoding",
-              "title": "Tree: Huffman Decoding "
+              "title": "Tree: Huffman Decoding ",
+              "name": "tree-huffman-decoding"
             },
             {
-              "name": "binary-search-tree-lowest-common-ancestor",
-              "title": "Binary Search Tree : Lowest Common Ancestor"
+              "title": "Binary Search Tree : Lowest Common Ancestor",
+              "name": "binary-search-tree-lowest-common-ancestor"
             },
             {
-              "name": "swap-nodes-algo",
-              "title": "Swap Nodes [Algo]"
+              "title": "Swap Nodes [Algo]",
+              "name": "swap-nodes-algo"
             },
             {
-              "name": "kittys-calculations-on-a-tree",
-              "title": "Kitty's Calculations on a Tree"
+              "title": "Kitty's Calculations on a Tree",
+              "name": "kittys-calculations-on-a-tree"
             },
             {
-              "name": "is-binary-search-tree",
-              "title": "Is This a Binary Search Tree?"
+              "title": "Is This a Binary Search Tree?",
+              "name": "is-binary-search-tree"
             },
             {
-              "name": "square-ten-tree",
-              "title": "Square-Ten Tree"
+              "title": "Square-Ten Tree",
+              "name": "square-ten-tree"
             },
             {
-              "name": "balanced-forest",
-              "title": "Balanced Forest"
+              "title": "Balanced Forest",
+              "name": "balanced-forest"
             },
             {
-              "name": "tree-coordinates",
-              "title": "Tree Coordinates"
+              "title": "Tree Coordinates",
+              "name": "tree-coordinates"
             }
           ],
-          "name": "trees",
-          "title": "Trees"
+          "title": "Trees",
+          "name": "trees"
         },
         {
           "challenges": [
             {
-              "name": "self-balancing-tree",
-              "title": "Self Balancing Tree"
+              "title": "Self Balancing Tree",
+              "name": "self-balancing-tree"
             },
             {
-              "name": "array-and-simple-queries",
-              "title": "Array and simple queries"
+              "title": "Array and simple queries",
+              "name": "array-and-simple-queries"
             },
             {
-              "name": "median",
-              "title": "Median Updates"
+              "title": "Median Updates",
+              "name": "median"
             }
           ],
-          "name": "balanced-trees",
-          "title": "Balanced Trees"
+          "title": "Balanced Trees",
+          "name": "balanced-trees"
         },
         {
           "challenges": [
             {
-              "name": "maximum-element",
-              "title": "Maximum Element"
+              "title": "Maximum Element",
+              "name": "maximum-element"
             },
             {
-              "name": "balanced-brackets",
-              "title": "Balanced Brackets"
+              "title": "Balanced Brackets",
+              "name": "balanced-brackets"
             },
             {
-              "name": "largest-rectangle",
-              "title": "Largest Rectangle "
+              "title": "Equal Stacks",
+              "name": "equal-stacks"
             },
             {
-              "name": "simple-text-editor",
-              "title": "Simple Text Editor"
+              "title": "Game of Two Stacks",
+              "name": "game-of-two-stacks"
             },
             {
-              "name": "equal-stacks",
-              "title": "Equal Stacks"
+              "title": "Largest Rectangle ",
+              "name": "largest-rectangle"
             },
             {
-              "name": "poisonous-plants",
-              "title": "Poisonous Plants"
+              "title": "Simple Text Editor",
+              "name": "simple-text-editor"
             },
             {
-              "name": "and-xor-or",
-              "title": "AND xor OR"
+              "title": "Poisonous Plants",
+              "name": "poisonous-plants"
             },
             {
-              "name": "waiter",
-              "title": "Waiter"
+              "title": "AND xor OR",
+              "name": "and-xor-or"
+            },
+            {
+              "title": "Waiter",
+              "name": "waiter"
             }
           ],
-          "name": "stacks",
-          "title": "Stacks"
+          "title": "Stacks",
+          "name": "stacks"
         },
         {
           "challenges": [
             {
-              "name": "queue-using-two-stacks",
-              "title": "Queue using Two Stacks"
+              "title": "Queue using Two Stacks",
+              "name": "queue-using-two-stacks"
             },
             {
-              "name": "castle-on-the-grid",
-              "title": "Castle on the Grid"
+              "title": "Castle on the Grid",
+              "name": "castle-on-the-grid"
             },
             {
-              "name": "down-to-zero-ii",
-              "title": "Down to Zero II"
+              "title": "Down to Zero II",
+              "name": "down-to-zero-ii"
             },
             {
-              "name": "truck-tour",
-              "title": "Truck Tour"
+              "title": "Truck Tour",
+              "name": "truck-tour"
             },
             {
-              "name": "queries-with-fixed-length",
-              "title": "Queries with Fixed Length"
+              "title": "Queries with Fixed Length",
+              "name": "queries-with-fixed-length"
             }
           ],
-          "name": "queues",
-          "title": "Queues"
+          "title": "Queues",
+          "name": "queues"
         },
         {
           "challenges": [
             {
-              "name": "qheap1",
-              "title": "QHEAP1"
+              "title": "QHEAP1",
+              "name": "qheap1"
             },
             {
-              "name": "jesse-and-cookies",
-              "title": "Jesse and Cookies"
+              "title": "Jesse and Cookies",
+              "name": "jesse-and-cookies"
             },
             {
-              "name": "find-the-running-median",
-              "title": "Find the Running Median"
+              "title": "Find the Running Median",
+              "name": "find-the-running-median"
             },
             {
-              "name": "minimum-average-waiting-time",
-              "title": "Minimum Average Waiting Time"
+              "title": "Minimum Average Waiting Time",
+              "name": "minimum-average-waiting-time"
             }
           ],
-          "name": "heap",
-          "title": "Heap"
+          "title": "Heap",
+          "name": "heap"
         },
         {
           "challenges": [
             {
-              "name": "merging-communities",
-              "title": "Merging Communities "
+              "title": "Merging Communities ",
+              "name": "merging-communities"
             },
             {
-              "name": "components-in-graph",
-              "title": "Components in a graph"
+              "title": "Components in a graph",
+              "name": "components-in-graph"
             },
             {
-              "name": "kundu-and-tree",
-              "title": "Kundu and Tree"
+              "title": "Kundu and Tree",
+              "name": "kundu-and-tree"
             },
             {
-              "name": "maximum-cost-queries",
-              "title": "Super Maximum Cost Queries"
+              "title": "Super Maximum Cost Queries",
+              "name": "maximum-cost-queries"
             }
           ],
-          "name": "disjoint-set",
-          "title": "Disjoint Set"
+          "title": "Disjoint Set",
+          "name": "disjoint-set"
         },
         {
           "challenges": [
             {
-              "name": "how-well-do-you-know-trees",
-              "title": " Data Structures MCQ 1"
+              "title": " Data Structures MCQ 1",
+              "name": "how-well-do-you-know-trees"
             },
             {
-              "name": "are-you-an-expert-on-data-structures",
-              "title": " Data Structures MCQ 2"
+              "title": " Data Structures MCQ 2",
+              "name": "are-you-an-expert-on-data-structures"
             },
             {
-              "name": "are-you-an-expert-on-data-structures-1",
-              "title": " Data Structures MCQ 3"
+              "title": " Data Structures MCQ 3",
+              "name": "are-you-an-expert-on-data-structures-1"
             }
           ],
-          "name": "multiple-choice",
-          "title": "Multiple Choice"
+          "title": "Multiple Choice",
+          "name": "multiple-choice"
         },
         {
           "challenges": [
             {
-              "name": "contacts",
-              "title": "Contacts"
+              "title": "Contacts",
+              "name": "contacts"
             },
             {
-              "name": "no-prefix-set",
-              "title": "No Prefix Set"
+              "title": "No Prefix Set",
+              "name": "no-prefix-set"
             }
           ],
-          "name": "trie",
-          "title": "Trie"
+          "title": "Trie",
+          "name": "trie"
         },
         {
           "challenges": [
             {
-              "name": "kindergarten-adventures",
-              "title": "Kindergarten Adventures"
+              "title": "Kindergarten Adventures",
+              "name": "kindergarten-adventures"
             },
             {
-              "name": "cube-summation",
-              "title": "Cube Summation"
+              "title": "Cube Summation",
+              "name": "cube-summation"
             },
             {
-              "name": "x-and-his-shots",
-              "title": "Mr. X and His Shots"
+              "title": "Mr. X and His Shots",
+              "name": "x-and-his-shots"
             },
             {
-              "name": "direct-connections",
-              "title": "Direct Connections"
+              "title": "Direct Connections",
+              "name": "direct-connections"
             },
             {
-              "name": "subsequence-weighting",
-              "title": "Subsequence Weighting"
+              "title": "Subsequence Weighting",
+              "name": "subsequence-weighting"
             },
             {
-              "name": "jim-and-the-skyscrapers",
-              "title": "Jim and the Skyscrapers"
+              "title": "Jim and the Skyscrapers",
+              "name": "jim-and-the-skyscrapers"
             },
             {
-              "name": "palindromic-subsets",
-              "title": "Palindromic Subsets"
+              "title": "Palindromic Subsets",
+              "name": "palindromic-subsets"
             },
             {
-              "name": "counting-on-a-tree",
-              "title": "Counting On a Tree"
+              "title": "Counting On a Tree",
+              "name": "counting-on-a-tree"
             },
             {
-              "name": "unique-colors",
-              "title": "Unique Colors"
+              "title": "Unique Colors",
+              "name": "unique-colors"
             },
             {
-              "name": "polynomial-division",
-              "title": "Polynomial Division"
+              "title": "Polynomial Division",
+              "name": "polynomial-division"
             },
             {
-              "name": "self-driving-bus",
-              "title": "Self-Driving Bus"
+              "title": "Self-Driving Bus",
+              "name": "self-driving-bus"
             },
             {
-              "name": "fibonacci-numbers-tree",
-              "title": "Fibonacci Numbers Tree"
+              "title": "Fibonacci Numbers Tree",
+              "name": "fibonacci-numbers-tree"
             },
             {
-              "name": "functional-palindromes",
-              "title": "Functional Palindromes"
+              "title": "Functional Palindromes",
+              "name": "functional-palindromes"
             },
             {
-              "name": "lazy-white-falcon",
-              "title": "Lazy White Falcon"
+              "title": "Lazy White Falcon",
+              "name": "lazy-white-falcon"
             },
             {
-              "name": "ticket-to-ride",
-              "title": "Ticket to Ride"
+              "title": "Ticket to Ride",
+              "name": "ticket-to-ride"
             },
             {
-              "name": "heavy-light-white-falcon",
-              "title": "Heavy Light White Falcon"
+              "title": "Heavy Light White Falcon",
+              "name": "heavy-light-white-falcon"
             },
             {
-              "name": "little-alexey-and-sum-of-maximums",
-              "title": "Sum of the Maximums"
+              "title": "Sum of the Maximums",
+              "name": "little-alexey-and-sum-of-maximums"
             },
             {
-              "name": "number-game-on-a-tree",
-              "title": "Number Game on a Tree"
+              "title": "Number Game on a Tree",
+              "name": "number-game-on-a-tree"
             },
             {
-              "name": "heavy-light-2-white-falcon",
-              "title": "Heavy Light 2 White Falcon"
+              "title": "Heavy Light 2 White Falcon",
+              "name": "heavy-light-2-white-falcon"
             },
             {
-              "name": "library-query",
-              "title": "Library Query"
+              "title": "Library Query",
+              "name": "library-query"
             },
             {
-              "name": "starfleet",
-              "title": "Starfleet"
+              "title": "Starfleet",
+              "name": "starfleet"
             },
             {
-              "name": "almost-equal-advanced",
-              "title": "Almost Equal - Advanced"
+              "title": "Almost Equal - Advanced",
+              "name": "almost-equal-advanced"
             },
             {
-              "name": "almost-sorted-interval",
-              "title": "Almost sorted interval"
+              "title": "Almost sorted interval",
+              "name": "almost-sorted-interval"
             },
             {
-              "name": "burger-happiness",
-              "title": "Burger Happiness "
+              "title": "Burger Happiness ",
+              "name": "burger-happiness"
             },
             {
-              "name": "roy-and-alpha-beta-trees",
-              "title": "Roy and alpha-beta trees"
+              "title": "Roy and alpha-beta trees",
+              "name": "roy-and-alpha-beta-trees"
             },
             {
-              "name": "coloring-tree",
-              "title": "Coloring Tree"
+              "title": "Coloring Tree",
+              "name": "coloring-tree"
             },
             {
-              "name": "recalling-early-days-gp-with-trees",
-              "title": "Recalling Early Days GP with Trees"
+              "title": "Recalling Early Days GP with Trees",
+              "name": "recalling-early-days-gp-with-trees"
             },
             {
-              "name": "swaps-and-sum",
-              "title": "Swaps and Sum"
+              "title": "Swaps and Sum",
+              "name": "swaps-and-sum"
             },
             {
-              "name": "arithmetic-progressions",
-              "title": "Arithmetic Progressions"
+              "title": "Arithmetic Progressions",
+              "name": "arithmetic-progressions"
             },
             {
-              "name": "coolguy-and-two-subsequences",
-              "title": "Coolguy and Two Subsequences"
+              "title": "Coolguy and Two Subsequences",
+              "name": "coolguy-and-two-subsequences"
             },
             {
-              "name": "white-falcon-and-tree",
-              "title": "White Falcon And Tree"
+              "title": "White Falcon And Tree",
+              "name": "white-falcon-and-tree"
             },
             {
-              "name": "subtrees-and-paths",
-              "title": "Subtrees And Paths"
+              "title": "Subtrees And Paths",
+              "name": "subtrees-and-paths"
             },
             {
-              "name": "triplets",
-              "title": "Triplets"
+              "title": "Triplets",
+              "name": "triplets"
             },
             {
-              "name": "beautiful-segments",
-              "title": "Beautiful Segments"
+              "title": "Beautiful Segments",
+              "name": "beautiful-segments"
             },
             {
-              "name": "ab0",
-              "title": "Divisibility"
+              "title": "Divisibility",
+              "name": "ab0"
             },
             {
-              "name": "bst-maintenance",
-              "title": "BST maintenance"
+              "title": "BST maintenance",
+              "name": "bst-maintenance"
             },
             {
-              "name": "find-maximum-index-product",
-              "title": "Find Maximum Index Product"
+              "title": "Find Maximum Index Product",
+              "name": "find-maximum-index-product"
             },
             {
-              "name": "taxicab-drivers-problem",
-              "title": "Taxicab Driver's Problem"
+              "title": "Taxicab Driver's Problem",
+              "name": "taxicab-drivers-problem"
             },
             {
-              "name": "jagia-playing-with-numbers",
-              "title": "Jaggu Playing with Balloons"
+              "title": "Jaggu Playing with Balloons",
+              "name": "jagia-playing-with-numbers"
             },
             {
-              "name": "dynamic-summation",
-              "title": "Dynamic Summation"
+              "title": "Dynamic Summation",
+              "name": "dynamic-summation"
             },
             {
-              "name": "weird-queries",
-              "title": "Two Array Problem"
+              "title": "Two Array Problem",
+              "name": "weird-queries"
             },
             {
-              "name": "rooted-tree",
-              "title": "Rooted Tree"
+              "title": "Rooted Tree",
+              "name": "rooted-tree"
             },
             {
-              "name": "helix",
-              "title": "The crazy helix"
+              "title": "The crazy helix",
+              "name": "helix"
             },
             {
-              "name": "net-admin",
-              "title": "Network administration"
+              "title": "Network administration",
+              "name": "net-admin"
             },
             {
-              "name": "easy-addition",
-              "title": "Easy Addition"
+              "title": "Easy Addition",
+              "name": "easy-addition"
             },
             {
-              "name": "find-the-permutation",
-              "title": "Find the permutation"
+              "title": "Find the permutation",
+              "name": "find-the-permutation"
             },
             {
-              "name": "company-retreat",
-              "title": "Company Retreat"
+              "title": "Company Retreat",
+              "name": "company-retreat"
             },
             {
-              "name": "box-operations",
-              "title": "Box Operations"
+              "title": "Box Operations",
+              "name": "box-operations"
             }
           ],
-          "name": "data-structures",
-          "title": "Advanced"
+          "title": "Advanced",
+          "name": "data-structures"
         }
       ],
-      "title": "Data Structures"
+      "title": "Data Structures",
+      "name": "data-structures"
     },
     {
-      "name": "mathematics",
       "chapters": [
         {
           "challenges": [
             {
-              "name": "find-point",
-              "title": "Find the Point"
+              "title": "Find the Point",
+              "name": "find-point"
             },
             {
-              "name": "maximum-draws",
-              "title": "Maximum Draws"
+              "title": "Maximum Draws",
+              "name": "maximum-draws"
             },
             {
-              "name": "handshake",
-              "title": "Handshake"
+              "title": "Handshake",
+              "name": "handshake"
             },
             {
-              "name": "leonardo-and-prime",
-              "title": "Leonardo's Prime Factors"
+              "title": "Leonardo's Prime Factors",
+              "name": "leonardo-and-prime"
             },
             {
-              "name": "connecting-towns",
-              "title": "Connecting Towns"
+              "title": "Connecting Towns",
+              "name": "connecting-towns"
             },
             {
-              "name": "summing-the-n-series",
-              "title": "Summing the N series "
+              "title": "Summing the N series ",
+              "name": "summing-the-n-series"
             },
             {
-              "name": "sherlock-and-moving-tiles",
-              "title": "Sherlock and Moving Tiles"
+              "title": "Sherlock and Moving Tiles",
+              "name": "sherlock-and-moving-tiles"
             },
             {
-              "name": "restaurant",
-              "title": "Restaurant"
+              "title": "Restaurant",
+              "name": "restaurant"
             },
             {
-              "name": "reverse-game",
-              "title": "Reverse Game"
+              "title": "Reverse Game",
+              "name": "reverse-game"
             },
             {
-              "name": "strange-grid",
-              "title": "Strange Grid Again"
+              "title": "Strange Grid Again",
+              "name": "strange-grid"
             },
             {
-              "name": "diwali-lights",
-              "title": "Diwali Lights"
+              "title": "Diwali Lights",
+              "name": "diwali-lights"
             },
             {
-              "name": "sherlock-and-divisors",
-              "title": "Sherlock and Divisors"
+              "title": "Sherlock and Divisors",
+              "name": "sherlock-and-divisors"
             },
             {
-              "name": "sherlock-and-permutations",
-              "title": "Sherlock and Permutations"
+              "title": "Sherlock and Permutations",
+              "name": "sherlock-and-permutations"
             },
             {
-              "name": "even-odd-query",
-              "title": "Even Odd Query"
+              "title": "Even Odd Query",
+              "name": "even-odd-query"
             },
             {
-              "name": "special-multiple",
-              "title": "Special Multiple"
+              "title": "Special Multiple",
+              "name": "special-multiple"
             },
             {
-              "name": "matrix-tracing",
-              "title": "Matrix Tracing"
+              "title": "Matrix Tracing",
+              "name": "matrix-tracing"
             },
             {
-              "name": "die-hard-3",
-              "title": "Die Hard 3"
+              "title": "Die Hard 3",
+              "name": "die-hard-3"
             },
             {
-              "name": "halloween-party",
-              "title": "Halloween party"
+              "title": "Halloween party",
+              "name": "halloween-party"
             },
             {
-              "name": "filling-jars",
-              "title": "Filling Jars"
+              "title": "Filling Jars",
+              "name": "filling-jars"
             },
             {
-              "name": "is-fibo",
-              "title": "Is Fibo"
+              "title": "Is Fibo",
+              "name": "is-fibo"
             },
             {
-              "name": "k-candy-store",
-              "title": "K Candy Store"
+              "title": "K Candy Store",
+              "name": "k-candy-store"
             },
             {
-              "name": "harry-potter-and-the-floating-rocks",
-              "title": "Sumar and the Floating Rocks"
+              "title": "Sumar and the Floating Rocks",
+              "name": "harry-potter-and-the-floating-rocks"
             },
             {
-              "name": "russian-peasant-exponentiation",
-              "title": "Russian Peasant Exponentiation"
+              "title": "Russian Peasant Exponentiation",
+              "name": "russian-peasant-exponentiation"
             },
             {
-              "name": "bus-station",
-              "title": "Bus Station"
+              "title": "Bus Station",
+              "name": "bus-station"
             },
             {
-              "name": "most-distant",
-              "title": "Most Distant"
+              "title": "Most Distant",
+              "name": "most-distant"
             },
             {
-              "name": "jim-and-the-jokes",
-              "title": "Jim and the Jokes"
+              "title": "Jim and the Jokes",
+              "name": "jim-and-the-jokes"
             },
             {
-              "name": "possible-path",
-              "title": "Possible Path"
+              "title": "Possible Path",
+              "name": "possible-path"
             },
             {
-              "name": "mutual-recurrences",
-              "title": "Mutual Recurrences"
+              "title": "Mutual Recurrences",
+              "name": "mutual-recurrences"
             }
           ],
-          "name": "fundamentals",
-          "title": "Fundamentals"
+          "title": "Fundamentals",
+          "name": "fundamentals"
         },
         {
           "challenges": [
             {
-              "name": "closest-number",
-              "title": "Closest Number"
+              "title": "Closest Number",
+              "name": "closest-number"
             },
             {
-              "name": "sherlock-and-gcd",
-              "title": "Sherlock and GCD"
+              "title": "Sherlock and GCD",
+              "name": "sherlock-and-gcd"
             },
             {
-              "name": "identify-smith-numbers",
-              "title": "Identify Smith Numbers"
+              "title": "Identify Smith Numbers",
+              "name": "identify-smith-numbers"
             },
             {
-              "name": "eulers-criterion",
-              "title": "Euler's Criterion"
+              "title": "Euler's Criterion",
+              "name": "eulers-criterion"
             },
             {
-              "name": "fibonacci-finding-easy",
-              "title": "Fibonacci Finding (easy)"
+              "title": "Fibonacci Finding (easy)",
+              "name": "fibonacci-finding-easy"
             },
             {
-              "name": "littlepandapower",
-              "title": "Little Panda Power"
+              "title": "Little Panda Power",
+              "name": "littlepandapower"
             },
             {
-              "name": "mehta-and-his-laziness",
-              "title": "Mehta and his Laziness"
+              "title": "Mehta and his Laziness",
+              "name": "mehta-and-his-laziness"
             },
             {
-              "name": "minimal-distance-to-pi",
-              "title": "Minimal Distance to Pi"
+              "title": "Minimal Distance to Pi",
+              "name": "minimal-distance-to-pi"
             },
             {
-              "name": "help-mike",
-              "title": "Help Mike"
+              "title": "Help Mike",
+              "name": "help-mike"
             },
             {
-              "name": "dance-class",
-              "title": "Dancing in Pairs"
+              "title": "Dancing in Pairs",
+              "name": "dance-class"
             },
             {
-              "name": "the-chosen-one",
-              "title": "The Chosen One"
+              "title": "The Chosen One",
+              "name": "the-chosen-one"
             },
             {
-              "name": "power-of-large-numbers",
-              "title": "Power of large numbers"
+              "title": "Power of large numbers",
+              "name": "power-of-large-numbers"
             },
             {
-              "name": "salary-blues",
-              "title": "Salary Blues"
+              "title": "Salary Blues",
+              "name": "salary-blues"
             },
             {
-              "name": "akhil-and-gf",
-              "title": "Akhil and GF"
+              "title": "Akhil and GF",
+              "name": "akhil-and-gf"
             },
             {
-              "name": "little-chammys-huge-donation",
-              "title": "Little Ashish's Huge Donation"
+              "title": "Little Ashish's Huge Donation",
+              "name": "little-chammys-huge-donation"
             },
             {
-              "name": "manasa-and-factorials",
-              "title": "Manasa and Factorials"
+              "title": "Manasa and Factorials",
+              "name": "manasa-and-factorials"
             },
             {
-              "name": "number-of-subsets",
-              "title": "Number of zero-xor subsets"
+              "title": "Number of zero-xor subsets",
+              "name": "number-of-subsets"
             },
             {
-              "name": "cheese-and-random-toppings",
-              "title": "Cheese and Random Toppings"
+              "title": "Cheese and Random Toppings",
+              "name": "cheese-and-random-toppings"
             },
             {
-              "name": "easy-gcd-1",
-              "title": "Easy GCD"
+              "title": "Easy GCD",
+              "name": "easy-gcd-1"
             },
             {
-              "name": "manasa-loves-maths",
-              "title": "Manasa loves Maths"
+              "title": "Manasa loves Maths",
+              "name": "manasa-loves-maths"
             },
             {
-              "name": "largest-coprime-submatrix",
-              "title": "Largest Non-Coprime Submatrix"
+              "title": "Largest Non-Coprime Submatrix",
+              "name": "largest-coprime-submatrix"
             },
             {
-              "name": "john-and-gcd-list",
-              "title": "John and GCD list"
+              "title": "John and GCD list",
+              "name": "john-and-gcd-list"
             },
             {
-              "name": "strange-numbers",
-              "title": "Strange numbers"
+              "title": "Strange numbers",
+              "name": "strange-numbers"
             },
             {
-              "name": "easy-math",
-              "title": "Easy math"
+              "title": "Easy math",
+              "name": "easy-math"
             },
             {
-              "name": "equations",
-              "title": "Equations"
+              "title": "Equations",
+              "name": "equations"
             },
             {
-              "name": "binomial-coefficients",
-              "title": "Binomial Coefficients"
+              "title": "Binomial Coefficients",
+              "name": "binomial-coefficients"
             },
             {
-              "name": "lucy-and-flowers",
-              "title": "Lucy and Flowers"
+              "title": "Lucy and Flowers",
+              "name": "lucy-and-flowers"
             },
             {
-              "name": "superpowers",
-              "title": "Superpowers of 2"
+              "title": "Superpowers of 2",
+              "name": "superpowers"
             },
             {
-              "name": "sherlock-puzzle",
-              "title": "Sherlock Puzzle"
+              "title": "Sherlock Puzzle",
+              "name": "sherlock-puzzle"
             },
             {
-              "name": "divisibility-of-power",
-              "title": "Divisibility of Power"
+              "title": "Divisibility of Power",
+              "name": "divisibility-of-power"
             },
             {
-              "name": "devu-police",
-              "title": "Devu Vs Police"
+              "title": "Devu Vs Police",
+              "name": "devu-police"
             },
             {
-              "name": "a-weird-function",
-              "title": "A Weird Function"
+              "title": "A Weird Function",
+              "name": "a-weird-function"
             },
             {
-              "name": "arthur-and-coprimes",
-              "title": "Coprime Conundrum"
+              "title": "Coprime Conundrum",
+              "name": "arthur-and-coprimes"
             },
             {
-              "name": "long-permutation",
-              "title": "Long Permutation"
+              "title": "Long Permutation",
+              "name": "long-permutation"
             },
             {
-              "name": "divisor-exploration",
-              "title": "Divisor Exploration"
+              "title": "Divisor Exploration",
+              "name": "divisor-exploration"
             },
             {
-              "name": "ants",
-              "title": "Ants"
+              "title": "Ants",
+              "name": "ants"
             },
             {
-              "name": "ichigo-and-cubes",
-              "title": "Ichigo and Cubes"
+              "title": "Ichigo and Cubes",
+              "name": "ichigo-and-cubes"
             },
             {
-              "name": "scalar-products",
-              "title": "Scalar Products"
+              "title": "Scalar Products",
+              "name": "scalar-products"
             },
             {
-              "name": "prime-sum",
-              "title": "Prime Sum"
+              "title": "Prime Sum",
+              "name": "prime-sum"
             },
             {
-              "name": "hyperrectangle-gcd",
-              "title": "Hyperrectangle GCD"
+              "title": "Hyperrectangle GCD",
+              "name": "hyperrectangle-gcd"
             },
             {
-              "name": "ncr",
-              "title": "nCr"
+              "title": "nCr",
+              "name": "ncr"
             },
             {
-              "name": "chandrima-and-xor",
-              "title": "Chandrima and XOR"
+              "title": "Chandrima and XOR",
+              "name": "chandrima-and-xor"
             },
             {
-              "name": "flip",
-              "title": "Find The Operations"
+              "title": "Find The Operations",
+              "name": "flip"
             },
             {
-              "name": "fibonacci-gcd",
-              "title": "Fibonacci GCD"
+              "title": "Fibonacci GCD",
+              "name": "fibonacci-gcd"
             },
             {
-              "name": "ichigo-and-rooms",
-              "title": "Ichigo and Rooms"
+              "title": "Ichigo and Rooms",
+              "name": "ichigo-and-rooms"
             },
             {
-              "name": "a-very-special-multiple",
-              "title": "A Very Special Multiple"
+              "title": "A Very Special Multiple",
+              "name": "a-very-special-multiple"
             },
             {
-              "name": "fibonacci-lcm",
-              "title": "Fibonacci LCM"
+              "title": "Fibonacci LCM",
+              "name": "fibonacci-lcm"
             },
             {
-              "name": "unfriendly-numbers",
-              "title": "Unfriendly Numbers"
+              "title": "Unfriendly Numbers",
+              "name": "unfriendly-numbers"
             },
             {
-              "name": "hackerrank-number",
-              "title": "HackerRank Number"
+              "title": "HackerRank Number",
+              "name": "hackerrank-number"
             },
             {
-              "name": "ajob-subsequence",
-              "title": "Ajob Subsequence"
+              "title": "Ajob Subsequence",
+              "name": "ajob-subsequence"
             },
             {
-              "name": "gcd-product",
-              "title": "GCD Product"
+              "title": "GCD Product",
+              "name": "gcd-product"
             },
             {
-              "name": "the-bouncing-flying-ball",
-              "title": "The Bouncing Flying Ball"
+              "title": "The Bouncing Flying Ball",
+              "name": "the-bouncing-flying-ball"
             },
             {
-              "name": "eugene-and-big-number",
-              "title": "Eugene and Big Number"
+              "title": "Eugene and Big Number",
+              "name": "eugene-and-big-number"
             },
             {
-              "name": "matrix-tree",
-              "title": "Matrix Tree"
+              "title": "Matrix Tree",
+              "name": "matrix-tree"
             },
             {
-              "name": "period",
-              "title": "Period"
+              "title": "Period",
+              "name": "period"
             },
             {
-              "name": "niceclique",
-              "title": "Nice Clique"
+              "title": "Nice Clique",
+              "name": "niceclique"
             },
             {
-              "name": "order-of-prime-in-factorial",
-              "title": "Order of Prime in Factorial"
+              "title": "Order of Prime in Factorial",
+              "name": "order-of-prime-in-factorial"
             },
             {
-              "name": "degree-of-an-algebraic-number",
-              "title": "Degree of an algebraic number"
+              "title": "Degree of an algebraic number",
+              "name": "degree-of-an-algebraic-number"
             },
             {
-              "name": "demidenko-computer-virus",
-              "title": "Computer Virus"
+              "title": "Computer Virus",
+              "name": "demidenko-computer-virus"
             },
             {
-              "name": "gcd-sequence",
-              "title": "GCD Sequence"
+              "title": "GCD Sequence",
+              "name": "gcd-sequence"
             },
             {
-              "name": "coprime-power-sum",
-              "title": "Coprime Power Sum"
+              "title": "Coprime Power Sum",
+              "name": "coprime-power-sum"
             },
             {
-              "name": "fun-with-1010",
-              "title": "Fun with 1010"
+              "title": "Fun with 1010",
+              "name": "fun-with-1010"
             },
             {
-              "name": "gcd-mocktail",
-              "title": "GCD mocktail"
+              "title": "GCD mocktail",
+              "name": "gcd-mocktail"
             },
             {
-              "name": "laser-beam",
-              "title": "Laser Beam"
+              "title": "Laser Beam",
+              "name": "laser-beam"
             },
             {
-              "name": "down-the-rabbit-hole",
-              "title": "Down the Rabbit Hole"
+              "title": "Down the Rabbit Hole",
+              "name": "down-the-rabbit-hole"
             },
             {
-              "name": "minion-of-the-year",
-              "title": "Minion of the Year"
+              "title": "Minion of the Year",
+              "name": "minion-of-the-year"
             },
             {
-              "name": "bear-and-cryptography",
-              "title": "Bear And Cryptography"
+              "title": "Bear And Cryptography",
+              "name": "bear-and-cryptography"
             }
           ],
-          "name": "number-theory",
-          "title": "Number Theory"
+          "title": "Number Theory",
+          "name": "number-theory"
         },
         {
           "challenges": [
             {
-              "name": "ncr-table",
-              "title": "nCr table"
+              "title": "nCr table",
+              "name": "ncr-table"
             },
             {
-              "name": "coinage",
-              "title": "Coinage"
+              "title": "Coinage",
+              "name": "coinage"
             },
             {
-              "name": "building-a-list",
-              "title": "Building a List"
+              "title": "Building a List",
+              "name": "building-a-list"
             },
             {
-              "name": "merge-list",
-              "title": "Merge List"
+              "title": "Merge List",
+              "name": "merge-list"
             },
             {
-              "name": "a-chocolate-fiesta",
-              "title": "A Chocolate Fiesta"
+              "title": "A Chocolate Fiesta",
+              "name": "a-chocolate-fiesta"
             },
             {
-              "name": "mehta-and-the-typical-supermarket",
-              "title": "Mehta and the Typical Supermarket"
+              "title": "Mehta and the Typical Supermarket",
+              "name": "mehta-and-the-typical-supermarket"
             },
             {
-              "name": "choose-and-calculate",
-              "title": "Choose and Calculate"
+              "title": "Choose and Calculate",
+              "name": "choose-and-calculate"
             },
             {
-              "name": "sherlock-and-pairs",
-              "title": "Sherlock and Pairs"
+              "title": "Sherlock and Pairs",
+              "name": "sherlock-and-pairs"
             },
             {
-              "name": "consecutive-subsequences",
-              "title": "Consecutive Subsequences"
+              "title": "Consecutive Subsequences",
+              "name": "consecutive-subsequences"
             },
             {
-              "name": "antipalindromic-strings",
-              "title": "Anti-Palindromic Strings"
+              "title": "Anti-Palindromic Strings",
+              "name": "antipalindromic-strings"
             },
             {
-              "name": "lexicographic-steps",
-              "title": "Lexicographic paths"
+              "title": "Lexicographic paths",
+              "name": "lexicographic-steps"
             },
             {
-              "name": "number-list",
-              "title": "Number List"
+              "title": "Number List",
+              "name": "number-list"
             },
             {
-              "name": "game-of-throne-ii",
-              "title": "Game Of Thrones - II"
+              "title": "Game Of Thrones - II",
+              "name": "game-of-throne-ii"
             },
             {
-              "name": "ajourney",
-              "title": "Journey to Mars"
+              "title": "Journey to Mars",
+              "name": "ajourney"
             },
             {
-              "name": "super-humble-matrix",
-              "title": "Super Humble Matrix"
+              "title": "Super Humble Matrix",
+              "name": "super-humble-matrix"
             },
             {
-              "name": "volleyball-match",
-              "title": "Volleyball Match"
+              "title": "Volleyball Match",
+              "name": "volleyball-match"
             },
             {
-              "name": "picking-cards",
-              "title": "Picking Cards"
+              "title": "Picking Cards",
+              "name": "picking-cards"
             },
             {
-              "name": "cyclicquadruples",
-              "title": "Cyclic Quadruples"
+              "title": "Cyclic Quadruples",
+              "name": "cyclicquadruples"
             },
             {
-              "name": "permutation-problem",
-              "title": "Permutation Problem"
+              "title": "Permutation Problem",
+              "name": "permutation-problem"
             },
             {
-              "name": "longest-increasing-subsequence-arrays",
-              "title": "Longest Increasing Subsequence Arrays"
+              "title": "Longest Increasing Subsequence Arrays",
+              "name": "longest-increasing-subsequence-arrays"
             },
             {
-              "name": "digit-products",
-              "title": "Digit Products"
+              "title": "Digit Products",
+              "name": "digit-products"
             },
             {
-              "name": "towers",
-              "title": "Towers"
+              "title": "Towers",
+              "name": "towers"
             },
             {
-              "name": "introduction-to-representation-theory",
-              "title": "Introduction to Representation Theory"
+              "title": "Introduction to Representation Theory",
+              "name": "introduction-to-representation-theory"
             },
             {
-              "name": "tile-painting-revisited",
-              "title": "Tile Painting: Revisited!"
+              "title": "Tile Painting: Revisited!",
+              "name": "tile-painting-revisited"
             },
             {
-              "name": "alien-flowers",
-              "title": "Alien Flowers"
+              "title": "Alien Flowers",
+              "name": "alien-flowers"
             },
             {
-              "name": "count-fox-sequences",
-              "title": "Count Fox Sequences"
+              "title": "Count Fox Sequences",
+              "name": "count-fox-sequences"
             },
             {
-              "name": "manasa-and-combinatorics",
-              "title": "Manasa and Combinatorics"
+              "title": "Manasa and Combinatorics",
+              "name": "manasa-and-combinatorics"
             },
             {
-              "name": "coloring-grid",
-              "title": "Coloring Grid"
+              "title": "Coloring Grid",
+              "name": "coloring-grid"
             },
             {
-              "name": "grid-lines",
-              "title": "Grid Lines"
+              "title": "Grid Lines",
+              "name": "grid-lines"
             },
             {
-              "name": "div-and-span",
-              "title": "Div and Span"
+              "title": "Div and Span",
+              "name": "div-and-span"
             },
             {
-              "name": "value-of-all-permutations",
-              "title": "Value of all Permutations"
+              "title": "Value of all Permutations",
+              "name": "value-of-all-permutations"
             },
             {
-              "name": "demidenko-farmer",
-              "title": "Farmer"
+              "title": "Farmer",
+              "name": "demidenko-farmer"
             },
             {
-              "name": "irresponsible-numbers",
-              "title": "Irresponsible Numbers"
+              "title": "Irresponsible Numbers",
+              "name": "irresponsible-numbers"
             },
             {
-              "name": "surveillance",
-              "title": "Academy Surveillance"
+              "title": "Academy Surveillance",
+              "name": "surveillance"
             },
             {
-              "name": "ichigo-and-revenge",
-              "title": "Ichigo and Revenge"
+              "title": "Ichigo and Revenge",
+              "name": "ichigo-and-revenge"
             },
             {
-              "name": "string-modification",
-              "title": "String Modification"
+              "title": "String Modification",
+              "name": "string-modification"
             },
             {
-              "name": "bincoefrevenge",
-              "title": "Binomial Coefficients Revenge"
+              "title": "Binomial Coefficients Revenge",
+              "name": "bincoefrevenge"
             },
             {
-              "name": "circles-math",
-              "title": "Circles Math"
+              "title": "Circles Math",
+              "name": "circles-math"
             },
             {
-              "name": "to-heap-or-not-to-heap",
-              "title": "To Heap or Not to Heap"
+              "title": "To Heap or Not to Heap",
+              "name": "to-heap-or-not-to-heap"
             },
             {
-              "name": "sasha-and-swaps",
-              "title": "Sasha and Swaps"
+              "title": "Sasha and Swaps",
+              "name": "sasha-and-swaps"
             },
             {
-              "name": "k-balance",
-              "title": "k-balance number"
+              "title": "k-balance number",
+              "name": "k-balance"
             },
             {
-              "name": "powercode",
-              "title": "Powercode"
+              "title": "Powercode",
+              "name": "powercode"
             },
             {
-              "name": "insane-dfs",
-              "title": "Insane DFS"
+              "title": "Insane DFS",
+              "name": "insane-dfs"
             },
             {
-              "name": "how-many-trees",
-              "title": "How Many Trees?"
+              "title": "How Many Trees?",
+              "name": "how-many-trees"
             },
             {
-              "name": "strongly-connected-digraphs",
-              "title": "Strongly Connected Digraphs"
+              "title": "Strongly Connected Digraphs",
+              "name": "strongly-connected-digraphs"
             },
             {
-              "name": "r-tree-decoration",
-              "title": "Robanukkah Tree"
+              "title": "Robanukkah Tree",
+              "name": "r-tree-decoration"
             },
             {
-              "name": "teleporters",
-              "title": "Teleporters"
+              "title": "Teleporters",
+              "name": "teleporters"
             },
             {
-              "name": "costly-graphs",
-              "title": "Costly Graphs"
+              "title": "Costly Graphs",
+              "name": "costly-graphs"
             },
             {
-              "name": "bridges-and-harbors",
-              "title": "Bridges and Harbors"
+              "title": "Bridges and Harbors",
+              "name": "bridges-and-harbors"
             },
             {
-              "name": "count-palindromes",
-              "title": "Count Palindromes"
+              "title": "Count Palindromes",
+              "name": "count-palindromes"
             },
             {
-              "name": "cycle-representation",
-              "title": "Cycle Representation"
+              "title": "Cycle Representation",
+              "name": "cycle-representation"
             },
             {
-              "name": "to-infinity-and-beyond",
-              "title": "To Infinity and Beyond"
+              "title": "To Infinity and Beyond",
+              "name": "to-infinity-and-beyond"
             },
             {
-              "name": "byteland-itinerary",
-              "title": "Byteland Itinerary"
+              "title": "Byteland Itinerary",
+              "name": "byteland-itinerary"
             }
           ],
-          "name": "combinatorics",
-          "title": "Combinatorics"
+          "title": "Combinatorics",
+          "name": "combinatorics"
         },
         {
           "challenges": [
             {
-              "name": "stepping-stones-game",
-              "title": "Stepping Stones Game"
+              "title": "Stepping Stones Game",
+              "name": "stepping-stones-game"
             },
             {
-              "name": "shashank-and-list",
-              "title": "Shashank and List"
+              "title": "Shashank and List",
+              "name": "shashank-and-list"
             },
             {
-              "name": "triangle-numbers",
-              "title": "Triangle Numbers"
+              "title": "Triangle Numbers",
+              "name": "triangle-numbers"
             },
             {
-              "name": "little-gaurav-and-sequence",
-              "title": "Little Gaurav and Sequence"
+              "title": "Little Gaurav and Sequence",
+              "name": "little-gaurav-and-sequence"
             },
             {
-              "name": "easy-sum",
-              "title": "Easy sum"
+              "title": "Easy sum",
+              "name": "easy-sum"
             },
             {
-              "name": "difference-and-product",
-              "title": "Difference and Product"
+              "title": "Difference and Product",
+              "name": "difference-and-product"
             },
             {
-              "name": "pairwise-sum-and-divide",
-              "title": "Pairwise Sum and Divide"
+              "title": "Pairwise Sum and Divide",
+              "name": "pairwise-sum-and-divide"
             },
             {
-              "name": "tell-the-average",
-              "title": "Tell the Average"
+              "title": "Tell the Average",
+              "name": "tell-the-average"
             },
             {
-              "name": "game-of-rotation",
-              "title": "Game Of Rotation"
+              "title": "Game Of Rotation",
+              "name": "game-of-rotation"
             },
             {
-              "name": "hackonacci-matrix-rotations",
-              "title": "Hackonacci Matrix Rotations"
+              "title": "Hackonacci Matrix Rotations",
+              "name": "hackonacci-matrix-rotations"
             },
             {
-              "name": "power-calculation",
-              "title": "Power Calculation"
+              "title": "Power Calculation",
+              "name": "power-calculation"
             },
             {
-              "name": "sherlock-and-square",
-              "title": "Sherlock and Square"
+              "title": "Sherlock and Square",
+              "name": "sherlock-and-square"
             },
             {
-              "name": "wet-shark-and-42",
-              "title": "Wet Shark and 42"
+              "title": "Wet Shark and 42",
+              "name": "wet-shark-and-42"
             },
             {
-              "name": "sherlock-and-queries",
-              "title": "Sherlock and Queries"
+              "title": "Sherlock and Queries",
+              "name": "sherlock-and-queries"
             },
             {
-              "name": "manasa-and-sub-sequences",
-              "title": "Manasa and Sub-sequences "
+              "title": "Manasa and Sub-sequences ",
+              "name": "manasa-and-sub-sequences"
             },
             {
-              "name": "summing-the-k-n-series",
-              "title": "Summing the K-N series "
+              "title": "Summing the K-N series ",
+              "name": "summing-the-k-n-series"
             },
             {
-              "name": "xor-love",
-              "title": "XOR love"
+              "title": "XOR love",
+              "name": "xor-love"
             },
             {
-              "name": "manasa-and-calculations",
-              "title": "Manasa and Calculations "
+              "title": "Manasa and Calculations ",
+              "name": "manasa-and-calculations"
             },
             {
-              "name": "simple-one",
-              "title": "Simple One"
+              "title": "Simple One",
+              "name": "simple-one"
             },
             {
-              "name": "circle-summation",
-              "title": "Circle Summation"
+              "title": "Circle Summation",
+              "name": "circle-summation"
             },
             {
-              "name": "gneck",
-              "title": "Girlfriend & Necklace"
+              "title": "Girlfriend & Necklace",
+              "name": "gneck"
             },
             {
-              "name": "manasa-and-pizza",
-              "title": "Manasa and Pizza"
+              "title": "Manasa and Pizza",
+              "name": "manasa-and-pizza"
             },
             {
-              "name": "signal-tower",
-              "title": "Signal Tower"
+              "title": "Signal Tower",
+              "name": "signal-tower"
             },
             {
-              "name": "summing-the-k-n-r-series",
-              "title": "Summing the K-N-R Series "
+              "title": "Summing the K-N-R Series ",
+              "name": "summing-the-k-n-r-series"
             },
             {
-              "name": "emma-and-sum-of-products",
-              "title": "Emma and sum of products"
+              "title": "Emma and sum of products",
+              "name": "emma-and-sum-of-products"
             },
             {
-              "name": "fun-with-series",
-              "title": "Fun With Series"
+              "title": "Fun With Series",
+              "name": "fun-with-series"
             },
             {
-              "name": "permutation-equations",
-              "title": "Permutation Equations"
+              "title": "Permutation Equations",
+              "name": "permutation-equations"
             },
             {
-              "name": "counting-equations",
-              "title": "Counting Equations"
+              "title": "Counting Equations",
+              "name": "counting-equations"
             },
             {
-              "name": "calculate-it",
-              "title": "Calculate It"
+              "title": "Calculate It",
+              "name": "calculate-it"
             },
             {
-              "name": "introduction-to-algebra",
-              "title": "Introduction to Algebra"
+              "title": "Introduction to Algebra",
+              "name": "introduction-to-algebra"
             },
             {
-              "name": "cross-matrix",
-              "title": "Cross Matrix"
+              "title": "Cross Matrix",
+              "name": "cross-matrix"
             },
             {
-              "name": "introduction-to-algebra-2",
-              "title": "Introduction to Algebra 2"
+              "title": "Introduction to Algebra 2",
+              "name": "introduction-to-algebra-2"
             },
             {
-              "name": "black-box-1",
-              "title": "The Black Box"
+              "title": "The Black Box",
+              "name": "black-box-1"
             },
             {
-              "name": "demidenko-black-hole",
-              "title": "Black Hole"
+              "title": "Black Hole",
+              "name": "demidenko-black-hole"
             },
             {
-              "name": "minimal-cyclic-shift",
-              "title": "Minimal Cyclic Shift"
+              "title": "Minimal Cyclic Shift",
+              "name": "minimal-cyclic-shift"
             }
           ],
-          "name": "algebra",
-          "title": "Algebra"
+          "title": "Algebra",
+          "name": "algebra"
         },
         {
           "challenges": [
             {
-              "name": "points-on-a-line",
-              "title": "Points On a Line"
+              "title": "Points On a Line",
+              "name": "points-on-a-line"
             },
             {
-              "name": "rectangular-game",
-              "title": "Rectangular Game"
+              "title": "Rectangular Game",
+              "name": "rectangular-game"
             },
             {
-              "name": "sherlock-and-counting",
-              "title": "Sherlock and Counting"
+              "title": "Sherlock and Counting",
+              "name": "sherlock-and-counting"
             },
             {
-              "name": "sherlock-and-planes",
-              "title": "Sherlock and Planes"
+              "title": "Sherlock and Planes",
+              "name": "sherlock-and-planes"
             },
             {
-              "name": "circle-city",
-              "title": "Circle City"
+              "title": "Circle City",
+              "name": "circle-city"
             },
             {
-              "name": "xrange-and-pizza",
-              "title": "Xrange's Pancakes"
+              "title": "Xrange's Pancakes",
+              "name": "xrange-and-pizza"
             },
             {
-              "name": "spheres",
-              "title": "Spheres"
+              "title": "Spheres",
+              "name": "spheres"
             },
             {
-              "name": "baby-step-giant-step",
-              "title": "Baby Step, Giant Step"
+              "title": "Baby Step, Giant Step",
+              "name": "baby-step-giant-step"
             },
             {
-              "name": "jim-beam",
-              "title": "Jim Beam"
+              "title": "Jim Beam",
+              "name": "jim-beam"
             },
             {
-              "name": "hyperspace-travel",
-              "title": "Hyperspace Travel "
+              "title": "Hyperspace Travel ",
+              "name": "hyperspace-travel"
             },
             {
-              "name": "solve-equations",
-              "title": "Solve Equations"
+              "title": "Solve Equations",
+              "name": "solve-equations"
             },
             {
-              "name": "stars",
-              "title": "Stars"
+              "title": "Stars",
+              "name": "stars"
             },
             {
-              "name": "polar-angles",
-              "title": "Polar Angles"
+              "title": "Polar Angles",
+              "name": "polar-angles"
             },
             {
-              "name": "sherlock-and-geometry",
-              "title": "Sherlock and Geometry"
+              "title": "Sherlock and Geometry",
+              "name": "sherlock-and-geometry"
             },
             {
-              "name": "good-point",
-              "title": "Good Point"
+              "title": "Good Point",
+              "name": "good-point"
             },
             {
-              "name": "polygons",
-              "title": "Polygons"
+              "title": "Polygons",
+              "name": "polygons"
             },
             {
-              "name": "polygon",
-              "title": "Polygon"
+              "title": "Polygon",
+              "name": "polygon"
             },
             {
-              "name": "meeting-point",
-              "title": "Meeting Point"
+              "title": "Meeting Point",
+              "name": "meeting-point"
             },
             {
-              "name": "house-location",
-              "title": "House Location"
+              "title": "House Location",
+              "name": "house-location"
             },
             {
-              "name": "jim-and-the-challenge",
-              "title": "Jim and the Challenge"
+              "title": "Jim and the Challenge",
+              "name": "jim-and-the-challenge"
             },
             {
-              "name": "n-letter",
-              "title": "The Letter N"
+              "title": "The Letter N",
+              "name": "n-letter"
             },
             {
-              "name": "best-sum",
-              "title": "Best Sum"
+              "title": "Best Sum",
+              "name": "best-sum"
             },
             {
-              "name": "geometry-queries",
-              "title": "Geometry Queries"
+              "title": "Geometry Queries",
+              "name": "geometry-queries"
             },
             {
-              "name": "count-triangles",
-              "title": "Count Triangles"
+              "title": "Count Triangles",
+              "name": "count-triangles"
             },
             {
-              "name": "isosceles-triangles",
-              "title": "Isosceles Triangles"
+              "title": "Isosceles Triangles",
+              "name": "isosceles-triangles"
             },
             {
-              "name": "elastic-rope",
-              "title": "Elastic rope"
+              "title": "Elastic rope",
+              "name": "elastic-rope"
             }
           ],
-          "name": "geometry",
-          "title": "Geometry"
+          "title": "Geometry",
+          "name": "geometry"
         },
         {
           "challenges": [
             {
-              "name": "random-number-generator",
-              "title": "Random number generator"
+              "title": "Random number generator",
+              "name": "random-number-generator"
             },
             {
-              "name": "sherlock-and-probability",
-              "title": "Sherlock and Probability"
+              "title": "Sherlock and Probability",
+              "name": "sherlock-and-probability"
             },
             {
-              "name": "normal-distribution-1",
-              "title": "Day 4: Normal Distribution #1"
+              "title": "Day 4: Normal Distribution #1",
+              "name": "normal-distribution-1"
             },
             {
-              "name": "normal-distribution-2",
-              "title": "Day 4: Normal Distribution #2"
+              "title": "Day 4: Normal Distribution #2",
+              "name": "normal-distribution-2"
             },
             {
-              "name": "bday-gift",
-              "title": "B'day Gift"
+              "title": "B'day Gift",
+              "name": "bday-gift"
             },
             {
-              "name": "normal-distribution-3",
-              "title": "Normal Distribution #3"
+              "title": "Normal Distribution #3",
+              "name": "normal-distribution-3"
             },
             {
-              "name": "palindromes",
-              "title": "Palindromes"
+              "title": "Palindromes",
+              "name": "palindromes"
             },
             {
-              "name": "lazy-sorting",
-              "title": "Lazy Sorting"
+              "title": "Lazy Sorting",
+              "name": "lazy-sorting"
             },
             {
-              "name": "binomial-distribution-1",
-              "title": "Binomial Distribution #1"
+              "title": "Binomial Distribution #1",
+              "name": "binomial-distribution-1"
             },
             {
-              "name": "kevin-and-expected-value",
-              "title": "Kevin and Expected Value "
+              "title": "Kevin and Expected Value ",
+              "name": "kevin-and-expected-value"
             },
             {
-              "name": "binomial-distribution-2",
-              "title": "Binomial Distribution #2"
+              "title": "Binomial Distribution #2",
+              "name": "binomial-distribution-2"
             },
             {
-              "name": "the-white-lotus-and-caterpillar-game",
-              "title": "The White Lotus and Caterpillar game"
+              "title": "The White Lotus and Caterpillar game",
+              "name": "the-white-lotus-and-caterpillar-game"
             },
             {
-              "name": "binomial-distribution-3",
-              "title": "Binomial Distribution #3"
+              "title": "Binomial Distribution #3",
+              "name": "binomial-distribution-3"
             },
             {
-              "name": "assignment",
-              "title": "Assignment Problem"
+              "title": "Assignment Problem",
+              "name": "assignment"
             },
             {
-              "name": "connect-the-country",
-              "title": "Connect the country"
+              "title": "Connect the country",
+              "name": "connect-the-country"
             },
             {
-              "name": "rirb",
-              "title": "Random Integers Random Bits"
+              "title": "Random Integers Random Bits",
+              "name": "rirb"
             },
             {
-              "name": "dice-stats",
-              "title": "Dice Stats"
+              "title": "Dice Stats",
+              "name": "dice-stats"
             },
             {
-              "name": "random-number-generator-1",
-              "title": "Random Number Generator"
+              "title": "Random Number Generator",
+              "name": "random-number-generator-1"
             },
             {
-              "name": "zombie-march",
-              "title": "Zombie March***"
+              "title": "Zombie March***",
+              "name": "zombie-march"
             },
             {
-              "name": "bear-and-dancing",
-              "title": "Bear and Dancing"
+              "title": "Bear and Dancing",
+              "name": "bear-and-dancing"
             },
             {
-              "name": "randomness",
-              "title": "Randomness"
+              "title": "Randomness",
+              "name": "randomness"
             },
             {
-              "name": "random",
-              "title": "Random"
+              "title": "Random",
+              "name": "random"
             },
             {
-              "name": "mathematical-expectation",
-              "title": "Mathematical Expectation"
+              "title": "Mathematical Expectation",
+              "name": "mathematical-expectation"
             },
             {
-              "name": "colorful-polygon",
-              "title": "Colorful Polygon"
+              "title": "Colorful Polygon",
+              "name": "colorful-polygon"
             }
           ],
-          "name": "probability",
-          "title": "Probability"
+          "title": "Probability",
+          "name": "probability"
         },
         {
           "challenges": [
             {
-              "name": "linear-algebra-foundations-1",
-              "title": "Linear Algebra Foundations #1 - Matrix Addition"
+              "title": "Linear Algebra Foundations #1 - Matrix Addition",
+              "name": "linear-algebra-foundations-1"
             },
             {
-              "name": "linear-algebra-foundations-1-matrix-subtraction",
-              "title": "Linear Algebra Foundations #2 - Matrix Subtraction"
+              "title": "Linear Algebra Foundations #2 - Matrix Subtraction",
+              "name": "linear-algebra-foundations-1-matrix-subtraction"
             },
             {
-              "name": "linear-algebra-foundations-3-matrix-multiplication",
-              "title": "Linear Algebra Foundations #3- Matrix Multiplication"
+              "title": "Linear Algebra Foundations #3- Matrix Multiplication",
+              "name": "linear-algebra-foundations-3-matrix-multiplication"
             },
             {
-              "name": "linear-algebra-foundations-4-matrix-multiplication",
-              "title": "Linear Algebra Foundations #4- Matrix Multiplication"
+              "title": "Linear Algebra Foundations #4- Matrix Multiplication",
+              "name": "linear-algebra-foundations-4-matrix-multiplication"
             },
             {
-              "name": "linear-algebra-foundations-5-the-100th-power-of-a-matrix",
-              "title": "Linear Algebra Foundations #5 - The 100th Power of a Matrix"
+              "title": "Linear Algebra Foundations #5 - The 100th Power of a Matrix",
+              "name": "linear-algebra-foundations-5-the-100th-power-of-a-matrix"
             },
             {
-              "name": "linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix",
-              "title": "Linear Algebra Foundations #6 - An Equation involving Matrices"
+              "title": "Linear Algebra Foundations #6 - An Equation involving Matrices",
+              "name": "linear-algebra-foundations-6-the-nsupthsup-power-of-a-matrix"
             },
             {
-              "name": "linear-algebra-foundations-7-the-1000th-power-of-a-matrix",
-              "title": "Linear Algebra Foundations #7 - The 1000th Power of a Matrix"
+              "title": "Linear Algebra Foundations #7 - The 1000th Power of a Matrix",
+              "name": "linear-algebra-foundations-7-the-1000th-power-of-a-matrix"
             },
             {
-              "name": "linear-algebra-fundamentals-8-systems-of-equations",
-              "title": "Linear Algebra Foundations #8 - Systems of Equations"
+              "title": "Linear Algebra Foundations #8 - Systems of Equations",
+              "name": "linear-algebra-fundamentals-8-systems-of-equations"
             },
             {
-              "name": "linear-algebra-fundamentals-9-eigenvalues",
-              "title": "Linear Algebra Foundations #9 - Eigenvalues"
+              "title": "Linear Algebra Foundations #9 - Eigenvalues",
+              "name": "linear-algebra-fundamentals-9-eigenvalues"
             },
             {
-              "name": "linear-algebra-fundamentals-10-eigenvectors",
-              "title": "Linear Algebra Foundations #10 - Eigenvectors"
+              "title": "Linear Algebra Foundations #10 - Eigenvectors",
+              "name": "linear-algebra-fundamentals-10-eigenvectors"
             },
             {
-              "name": "determinant-of-the-matrix-1",
-              "title": "Determinant of the matrix #1"
+              "title": "Determinant of the matrix #1",
+              "name": "determinant-of-the-matrix-1"
             },
             {
-              "name": "determinant-of-the-matrix-2",
-              "title": "Determinant of the matrix #2"
+              "title": "Determinant of the matrix #2",
+              "name": "determinant-of-the-matrix-2"
             },
             {
-              "name": "determinant-of-the-matrix-3",
-              "title": "Determinant of the matrix #3"
+              "title": "Determinant of the matrix #3",
+              "name": "determinant-of-the-matrix-3"
             },
             {
-              "name": "eigenvalue-of-matrix-1",
-              "title": "Eigenvalue of a Matrix I"
+              "title": "Eigenvalue of a Matrix I",
+              "name": "eigenvalue-of-matrix-1"
             },
             {
-              "name": "eigenvalue-of-matrix-2",
-              "title": "Eigenvalue of matrix #2"
+              "title": "Eigenvalue of matrix #2",
+              "name": "eigenvalue-of-matrix-2"
             },
             {
-              "name": "eigenvalues-of-matrix-3",
-              "title": "Eigenvalue of matrix #3"
+              "title": "Eigenvalue of matrix #3",
+              "name": "eigenvalues-of-matrix-3"
             },
             {
-              "name": "eigenvalues-of-matrix-4",
-              "title": "Eigenvalue of matrix #4"
+              "title": "Eigenvalue of matrix #4",
+              "name": "eigenvalues-of-matrix-4"
             }
           ],
-          "name": "linear-algebra-foundations",
-          "title": "Linear Algebra Foundations"
+          "title": "Linear Algebra Foundations",
+          "name": "linear-algebra-foundations"
         }
       ],
-      "title": "Mathematics"
+      "title": "Mathematics",
+      "name": "mathematics"
     }
   ]
 }
