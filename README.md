@@ -9,7 +9,7 @@ Index
 ======
 
 * [Algorithms](#algorithms) (44/409)
-* [Data Structures](#data-structures) (8/114)
+* [Data Structures](#data-structures) (11/114)
 * [Mathematics](#mathematics) (0/250)
 
 Algorithms
@@ -493,7 +493,7 @@ Algorithms
 Data Structures
 ------
 
-* [Arrays](#arrays) (4/6)
+* [Arrays](#arrays) (6/6)
 * [Linked Lists](#linked-lists) (0/15)
 * [Trees](#trees) (0/15)
 * [Balanced Trees](#balanced-trees) (0/3)
@@ -503,7 +503,7 @@ Data Structures
 * [Disjoint Set](#disjoint-set) (4/4)
 * [Multiple Choice](#multiple-choice) (0/3)
 * [Trie](#trie) (0/2)
-* [Advanced](#advanced) (0/48)
+* [Advanced](#advanced) (1/48)
 
 ### Arrays
 \# | Challenge | Solution
@@ -511,8 +511,8 @@ Data Structures
 1 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [Solution & Comment](solution/practice/data-structures/arrays/arrays-ds/solution.py)
 2 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | [Solution & Comment](solution/practice/data-structures/arrays/2d-array/solution.py)
 3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [Solution & Comment](solution/practice/data-structures/arrays/dynamic-array/solution.py)
-4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | WIP
-5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | WIP
+4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | [Solution & Comment](solution/practice/data-structures/arrays/array-left-rotation/solution.py)
+5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | [Solution & Comment](solution/practice/data-structures/arrays/sparse-arrays/solution.py)
 6 | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush) | [Solution & Comment](solution/practice/data-structures/arrays/crush/solution.py)
 
 ### Linked Lists
@@ -614,7 +614,7 @@ Data Structures
 ### Advanced
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures) | WIP
+1 | [Kindergarten Adventures](https://www.hackerrank.com/challenges/kindergarten-adventures) | [Solution & Comment](solution/practice/data-structures/data-structures/kindergarten-adventures/solution.py)
 2 | [Cube Summation](https://www.hackerrank.com/challenges/cube-summation) | WIP
 3 | [Mr. X and His Shots](https://www.hackerrank.com/challenges/x-and-his-shots) | WIP
 4 | [Direct Connections](https://www.hackerrank.com/challenges/direct-connections) | WIP
