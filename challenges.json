@@ -1,8 +1,10 @@
 {
   "tracks": [
     {
+      "title": "Algorithms",
       "chapters": [
         {
+          "title": "Warmup",
           "challenges": [
             {
               "title": "Solve Me First",
@@ -41,10 +43,10 @@
               "name": "time-conversion"
             }
           ],
-          "title": "Warmup",
           "name": "warmup"
         },
         {
+          "title": "Implementation",
           "challenges": [
             {
               "title": "Grading Students",
@@ -283,10 +285,10 @@
               "name": "matrix-rotation-algo"
             }
           ],
-          "title": "Implementation",
           "name": "implementation"
         },
         {
+          "title": "Strings",
           "challenges": [
             {
               "title": "Super Reduced String",
@@ -469,10 +471,10 @@
               "name": "how-many-substrings"
             }
           ],
-          "title": "Strings",
           "name": "strings"
         },
         {
+          "title": "Sorting",
           "challenges": [
             {
               "title": "Intro to Tutorial Challenges",
@@ -547,10 +549,10 @@
               "name": "lilys-homework"
             }
           ],
-          "title": "Sorting",
           "name": "arrays-and-sorting"
         },
         {
+          "title": "Search",
           "challenges": [
             {
               "title": "Hackerland Radio Transmitters",
@@ -645,10 +647,10 @@
               "name": "king-richards-knights"
             }
           ],
-          "title": "Search",
           "name": "search"
         },
         {
+          "title": "Graph Theory",
           "challenges": [
             {
               "title": "Roads and Libraries",
@@ -883,10 +885,10 @@
               "name": "dfs-edges"
             }
           ],
-          "title": "Graph Theory",
           "name": "graph-theory"
         },
         {
+          "title": "Greedy",
           "challenges": [
             {
               "title": "Minimum Absolute Difference in an Array",
@@ -977,10 +979,10 @@
               "name": "fighting-pits"
             }
           ],
-          "title": "Greedy",
           "name": "greedy"
         },
         {
+          "title": "Dynamic Programming",
           "challenges": [
             {
               "title": "The Coin Change Problem",
@@ -1359,10 +1361,10 @@
               "name": "separate-the-chocolate"
             }
           ],
-          "title": "Dynamic Programming",
           "name": "dynamic-programming"
         },
         {
+          "title": "Constructive Algorithms",
           "challenges": [
             {
               "title": "Lena Sort",
@@ -1409,10 +1411,10 @@
               "name": "array-construction"
             }
           ],
-          "title": "Constructive Algorithms",
           "name": "constructive-algorithms"
         },
         {
+          "title": "Bit Manipulation",
           "challenges": [
             {
               "title": "Lonely Integer",
@@ -1515,10 +1517,10 @@
               "name": "pmix"
             }
           ],
-          "title": "Bit Manipulation",
           "name": "bit-manipulation"
         },
         {
+          "title": "Recursion",
           "challenges": [
             {
               "title": "The Power Sum",
@@ -1561,10 +1563,10 @@
               "name": "repeat-k-sums"
             }
           ],
-          "title": "Recursion",
           "name": "recursion"
         },
         {
+          "title": "Game Theory",
           "challenges": [
             {
               "title": "Game of Stones",
@@ -1691,10 +1693,10 @@
               "name": "half"
             }
           ],
-          "title": "Game Theory",
           "name": "game-theory"
         },
         {
+          "title": "NP Complete",
           "challenges": [
             {
               "title": "Walking the Approximate Longest Path",
@@ -1713,16 +1715,16 @@
               "name": "tbsp"
             }
           ],
-          "title": "NP Complete",
           "name": "np-complete-problems"
         }
       ],
-      "title": "Algorithms",
       "name": "algorithms"
     },
     {
+      "title": "Data Structures",
       "chapters": [
         {
+          "title": "Arrays",
           "challenges": [
             {
               "title": "Arrays - DS",
@@ -1749,10 +1751,10 @@
               "name": "crush"
             }
           ],
-          "title": "Arrays",
           "name": "arrays"
         },
         {
+          "title": "Linked Lists",
           "challenges": [
             {
               "title": "Print the Elements of a Linked List",
@@ -1815,10 +1817,10 @@
               "name": "reverse-a-doubly-linked-list"
             }
           ],
-          "title": "Linked Lists",
           "name": "linked-lists"
         },
         {
+          "title": "Trees",
           "challenges": [
             {
               "title": "Tree: Preorder Traversal",
@@ -1881,10 +1883,10 @@
               "name": "tree-coordinates"
             }
           ],
-          "title": "Trees",
           "name": "trees"
         },
         {
+          "title": "Balanced Trees",
           "challenges": [
             {
               "title": "Self Balancing Tree",
@@ -1899,10 +1901,10 @@
               "name": "median"
             }
           ],
-          "title": "Balanced Trees",
           "name": "balanced-trees"
         },
         {
+          "title": "Stacks",
           "challenges": [
             {
               "title": "Maximum Element",
@@ -1941,10 +1943,10 @@
               "name": "waiter"
             }
           ],
-          "title": "Stacks",
           "name": "stacks"
         },
         {
+          "title": "Queues",
           "challenges": [
             {
               "title": "Queue using Two Stacks",
@@ -1967,10 +1969,10 @@
               "name": "queries-with-fixed-length"
             }
           ],
-          "title": "Queues",
           "name": "queues"
         },
         {
+          "title": "Heap",
           "challenges": [
             {
               "title": "QHEAP1",
@@ -1989,10 +1991,10 @@
               "name": "minimum-average-waiting-time"
             }
           ],
-          "title": "Heap",
           "name": "heap"
         },
         {
+          "title": "Disjoint Set",
           "challenges": [
             {
               "title": "Merging Communities ",
@@ -2011,10 +2013,10 @@
               "name": "maximum-cost-queries"
             }
           ],
-          "title": "Disjoint Set",
           "name": "disjoint-set"
         },
         {
+          "title": "Multiple Choice",
           "challenges": [
             {
               "title": " Data Structures MCQ 1",
@@ -2029,10 +2031,10 @@
               "name": "are-you-an-expert-on-data-structures-1"
             }
           ],
-          "title": "Multiple Choice",
           "name": "multiple-choice"
         },
         {
+          "title": "Trie",
           "challenges": [
             {
               "title": "Contacts",
@@ -2043,10 +2045,10 @@
               "name": "no-prefix-set"
             }
           ],
-          "title": "Trie",
           "name": "trie"
         },
         {
+          "title": "Advanced",
           "challenges": [
             {
               "title": "Kindergarten Adventures",
@@ -2241,16 +2243,16 @@
               "name": "box-operations"
             }
           ],
-          "title": "Advanced",
           "name": "data-structures"
         }
       ],
-      "title": "Data Structures",
       "name": "data-structures"
     },
     {
+      "title": "Mathematics",
       "chapters": [
         {
+          "title": "Fundamentals",
           "challenges": [
             {
               "title": "Find the Point",
@@ -2365,10 +2367,10 @@
               "name": "mutual-recurrences"
             }
           ],
-          "title": "Fundamentals",
           "name": "fundamentals"
         },
         {
+          "title": "Number Theory",
           "challenges": [
             {
               "title": "Closest Number",
@@ -2639,10 +2641,10 @@
               "name": "bear-and-cryptography"
             }
           ],
-          "title": "Number Theory",
           "name": "number-theory"
         },
         {
+          "title": "Combinatorics",
           "challenges": [
             {
               "title": "nCr table",
@@ -2857,10 +2859,10 @@
               "name": "byteland-itinerary"
             }
           ],
-          "title": "Combinatorics",
           "name": "combinatorics"
         },
         {
+          "title": "Algebra",
           "challenges": [
             {
               "title": "Stepping Stones Game",
@@ -3003,10 +3005,10 @@
               "name": "minimal-cyclic-shift"
             }
           ],
-          "title": "Algebra",
           "name": "algebra"
         },
         {
+          "title": "Geometry",
           "challenges": [
             {
               "title": "Points On a Line",
@@ -3113,10 +3115,10 @@
               "name": "elastic-rope"
             }
           ],
-          "title": "Geometry",
           "name": "geometry"
         },
         {
+          "title": "Probability",
           "challenges": [
             {
               "title": "Random number generator",
@@ -3215,10 +3217,10 @@
               "name": "colorful-polygon"
             }
           ],
-          "title": "Probability",
           "name": "probability"
         },
         {
+          "title": "Linear Algebra Foundations",
           "challenges": [
             {
               "title": "Linear Algebra Foundations #1 - Matrix Addition",
@@ -3289,11 +3291,9 @@
               "name": "eigenvalues-of-matrix-4"
             }
           ],
-          "title": "Linear Algebra Foundations",
           "name": "linear-algebra-foundations"
         }
       ],
-      "title": "Mathematics",
       "name": "mathematics"
     }
   ]

@@ -9,7 +9,7 @@ Index
 ======
 
 * [Algorithms](#algorithms) (44/409)
-* [Data Structures](#data-structures) (0/114)
+* [Data Structures](#data-structures) (8/114)
 * [Mathematics](#mathematics) (0/250)
 
 Algorithms
@@ -493,14 +493,14 @@ Algorithms
 Data Structures
 ------
 
-* [Arrays](#arrays) (0/6)
+* [Arrays](#arrays) (4/6)
 * [Linked Lists](#linked-lists) (0/15)
 * [Trees](#trees) (0/15)
 * [Balanced Trees](#balanced-trees) (0/3)
 * [Stacks](#stacks) (0/9)
 * [Queues](#queues) (0/5)
 * [Heap](#heap) (0/4)
-* [Disjoint Set](#disjoint-set) (0/4)
+* [Disjoint Set](#disjoint-set) (4/4)
 * [Multiple Choice](#multiple-choice) (0/3)
 * [Trie](#trie) (0/2)
 * [Advanced](#advanced) (0/48)
@@ -508,12 +508,12 @@ Data Structures
 ### Arrays
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | WIP
-2 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | WIP
-3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | WIP
+1 | [Arrays - DS](https://www.hackerrank.com/challenges/arrays-ds) | [Solution & Comment](solution/practice/data-structures/arrays/arrays-ds/solution.py)
+2 | [2D Array - DS](https://www.hackerrank.com/challenges/2d-array) | [Solution & Comment](solution/practice/data-structures/arrays/2d-array/solution.py)
+3 | [Dynamic Array](https://www.hackerrank.com/challenges/dynamic-array) | [Solution & Comment](solution/practice/data-structures/arrays/dynamic-array/solution.py)
 4 | [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation) | WIP
 5 | [Sparse Arrays](https://www.hackerrank.com/challenges/sparse-arrays) | WIP
-6 | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush) | WIP
+6 | [Algorithmic Crush](https://www.hackerrank.com/challenges/crush) | [Solution & Comment](solution/practice/data-structures/arrays/crush/solution.py)
 
 ### Linked Lists
 \# | Challenge | Solution
@@ -593,10 +593,10 @@ Data Structures
 ### Disjoint Set
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Merging Communities ](https://www.hackerrank.com/challenges/merging-communities) | WIP
-2 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph) | WIP
-3 | [Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree) | WIP
-4 | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries) | WIP
+1 | [Merging Communities ](https://www.hackerrank.com/challenges/merging-communities) | [Solution & Comment](solution/practice/data-structures/disjoint-set/merging-communities/solution.py)
+2 | [Components in a graph](https://www.hackerrank.com/challenges/components-in-graph) | [Solution & Comment](solution/practice/data-structures/disjoint-set/components-in-graph/solution.py)
+3 | [Kundu and Tree](https://www.hackerrank.com/challenges/kundu-and-tree) | [Solution & Comment](solution/practice/data-structures/disjoint-set/kundu-and-tree/solution.py)
+4 | [Super Maximum Cost Queries](https://www.hackerrank.com/challenges/maximum-cost-queries) | [Solution & Comment](solution/practice/data-structures/disjoint-set/maximum-cost-queries/solution.py)
 
 ### Multiple Choice
 \# | Challenge | Solution
