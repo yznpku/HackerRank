@@ -8,7 +8,7 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (48/409)
+* [Algorithms](#algorithms) (50/409)
 * [Data Structures](#data-structures) (11/114)
 * [Mathematics](#mathematics) (0/250)
 
@@ -25,7 +25,7 @@ Algorithms
 * [Dynamic Programming](#dynamic-programming) (5/94)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
-* [Recursion](#recursion) (1/10)
+* [Recursion](#recursion) (3/10)
 * [Game Theory](#game-theory) (0/31)
 * [NP Complete](#np-complete) (0/4)
 
@@ -437,11 +437,11 @@ Algorithms
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum) | [Solution & Comment](solution/practice/algorithms/recursion/the-power-sum/solution.py)
-2 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | WIP
+2 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | [Solution & Comment](solution/practice/algorithms/recursion/crossword-puzzle/solution.py)
 3 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | WIP
 4 | [Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine) | WIP
 5 | [Password Cracker](https://www.hackerrank.com/challenges/password-cracker) | WIP
-6 | [Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions) | WIP
+6 | [Arithmetic Expressions](https://www.hackerrank.com/challenges/arithmetic-expressions) | [Solution & Comment](solution/practice/algorithms/recursion/arithmetic-expressions/solution.py)
 7 | [K Factorization](https://www.hackerrank.com/challenges/k-factorization) | WIP
 8 | [Bowling Pins](https://www.hackerrank.com/challenges/bowling-pins) | WIP
 9 | [Simplified Chess Engine II](https://www.hackerrank.com/challenges/simplified-chess-engine-ii) | WIP
