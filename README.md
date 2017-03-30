@@ -8,7 +8,7 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (44/409)
+* [Algorithms](#algorithms) (48/409)
 * [Data Structures](#data-structures) (11/114)
 * [Mathematics](#mathematics) (0/250)
 
@@ -19,13 +19,13 @@ Algorithms
 * [Implementation](#implementation) (8/59)
 * [Strings](#strings) (11/45)
 * [Sorting](#sorting) (5/18)
-* [Search](#search) (2/23)
+* [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (4/22)
-* [Dynamic Programming](#dynamic-programming) (3/94)
+* [Dynamic Programming](#dynamic-programming) (5/94)
 * [Constructive Algorithms](#constructive-algorithms) (0/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
-* [Recursion](#recursion) (0/10)
+* [Recursion](#recursion) (1/10)
 * [Game Theory](#game-theory) (0/31)
 * [NP Complete](#np-complete) (0/4)
 
@@ -52,7 +52,7 @@ Algorithms
 5 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs) | [Solution & Comment](solution/practice/algorithms/implementation/divisible-sum-pairs/solution.py)
 6 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records) | WIP
 7 | [Migratory Birds](https://www.hackerrank.com/challenges/migratory-birds) | WIP
-8 | [Bon App√©tit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
+8 | [Bon App®¶tit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
 9 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
 10 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
 11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
@@ -183,7 +183,7 @@ Algorithms
 2 | [Ice Cream Parlor](https://www.hackerrank.com/challenges/icecream-parlor) | [Solution & Comment](solution/practice/algorithms/search/icecream-parlor/solution.py)
 3 | [Gridland Metro](https://www.hackerrank.com/challenges/gridland-metro) | WIP
 4 | [Missing Numbers](https://www.hackerrank.com/challenges/missing-numbers) | WIP
-5 | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard) | WIP
+5 | [KnightL on a Chessboard](https://www.hackerrank.com/challenges/knightl-on-chessboard) | [Solution & Comment](solution/practice/algorithms/search/knightl-on-chessboard/solution.py)
 6 | [Pairs](https://www.hackerrank.com/challenges/pairs) | WIP
 7 | [Sherlock and Array](https://www.hackerrank.com/challenges/sherlock-and-array) | WIP
 8 | [Maximum Subarray Sum](https://www.hackerrank.com/challenges/maximum-subarray-sum) | WIP
@@ -298,8 +298,8 @@ Algorithms
 2 | [Equal](https://www.hackerrank.com/challenges/equal) | WIP
 3 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | WIP
 4 | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | WIP
-5 | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | WIP
-6 | [Candies](https://www.hackerrank.com/challenges/candies) | WIP
+5 | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/vertical-sticks/solution.py)
+6 | [Candies](https://www.hackerrank.com/challenges/candies) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/candies/solution.py)
 7 | [Sam and sub-strings](https://www.hackerrank.com/challenges/sam-and-substrings) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/sam-and-substrings/solution.py)
 8 | [Fibonacci Modified](https://www.hackerrank.com/challenges/fibonacci-modified) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/fibonacci-modified/solution.py)
 9 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/abbr/solution.py)
@@ -436,7 +436,7 @@ Algorithms
 ### Recursion
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum) | WIP
+1 | [The Power Sum](https://www.hackerrank.com/challenges/the-power-sum) | [Solution & Comment](solution/practice/algorithms/recursion/the-power-sum/solution.py)
 2 | [Crossword Puzzle](https://www.hackerrank.com/challenges/crossword-puzzle) | WIP
 3 | [Recursive Digit Sum](https://www.hackerrank.com/challenges/recursive-digit-sum) | WIP
 4 | [Simplified Chess Engine](https://www.hackerrank.com/challenges/simplified-chess-engine) | WIP
@@ -454,7 +454,7 @@ Algorithms
 2 | [Tower Breakers ](https://www.hackerrank.com/challenges/tower-breakers-1) | WIP
 3 | [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1) | WIP
 4 | [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1) | WIP
-5 | [Mis√®re Nim](https://www.hackerrank.com/challenges/misere-nim-1) | WIP
+5 | [Mis®®re Nim](https://www.hackerrank.com/challenges/misere-nim-1) | WIP
 6 | [Nimble Game](https://www.hackerrank.com/challenges/nimble-game-1) | WIP
 7 | [Alice and Bob's Silly Game](https://www.hackerrank.com/challenges/alice-and-bobs-silly-game) | WIP
 8 | [Poker Nim](https://www.hackerrank.com/challenges/poker-nim-1) | WIP
