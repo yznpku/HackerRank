@@ -8,9 +8,9 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (50/409)
+* [Algorithms](#algorithms) (56/409)
 * [Data Structures](#data-structures) (11/114)
-* [Mathematics](#mathematics) (0/250)
+* [Mathematics](#mathematics) (1/250)
 
 Algorithms
 ------
@@ -21,9 +21,9 @@ Algorithms
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
-* [Greedy](#greedy) (4/22)
+* [Greedy](#greedy) (8/22)
 * [Dynamic Programming](#dynamic-programming) (5/94)
-* [Constructive Algorithms](#constructive-algorithms) (0/11)
+* [Constructive Algorithms](#constructive-algorithms) (2/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (3/10)
 * [Game Theory](#game-theory) (0/31)
@@ -271,13 +271,13 @@ Algorithms
 1 | [Minimum Absolute Difference in an Array](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array) | [Solution & Comment](solution/practice/algorithms/greedy/minimum-absolute-difference-in-an-array/solution.py)
 2 | [Marc's Cakewalk](https://www.hackerrank.com/challenges/marcs-cakewalk) | WIP
 3 | [Grid Challenge](https://www.hackerrank.com/challenges/grid-challenge) | WIP
-4 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | WIP
+4 | [Luck Balance](https://www.hackerrank.com/challenges/luck-balance) | [Solution & Comment](solution/practice/algorithms/greedy/luck-balance/solution.py)
 5 | [Maximum Perimeter Triangle](https://www.hackerrank.com/challenges/maximum-perimeter-triangle) | WIP
-6 | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | WIP
+6 | [Beautiful Pairs](https://www.hackerrank.com/challenges/beautiful-pairs) | [Solution & Comment](solution/practice/algorithms/greedy/beautiful-pairs/solution.py)
 7 | [Sherlock and The Beast](https://www.hackerrank.com/challenges/sherlock-and-the-beast) | [Solution & Comment](solution/practice/algorithms/greedy/sherlock-and-the-beast/solution.py)
 8 | [Priyanka and Toys](https://www.hackerrank.com/challenges/priyanka-and-toys) | WIP
-9 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation) | WIP
-10 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) | WIP
+9 | [Largest Permutation](https://www.hackerrank.com/challenges/largest-permutation) | [Solution & Comment](solution/practice/algorithms/greedy/largest-permutation/solution.py)
+10 | [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys) | [Solution & Comment](solution/practice/algorithms/greedy/mark-and-toys/solution.py)
 11 | [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist) | WIP
 12 | [Max Min](https://www.hackerrank.com/challenges/angry-children) | WIP
 13 | [Jim and the Orders](https://www.hackerrank.com/challenges/jim-and-the-orders) | WIP
@@ -394,9 +394,9 @@ Algorithms
 :---:|:---:|:---:
 1 | [Lena Sort](https://www.hackerrank.com/challenges/lena-sort) | WIP
 2 | [Flipping the Matrix](https://www.hackerrank.com/challenges/flipping-the-matrix) | WIP
-3 | [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1) | WIP
+3 | [Gaming Array](https://www.hackerrank.com/challenges/an-interesting-game-1) | [Solution & Comment](solution/practice/algorithms/constructive-algorithms/an-interesting-game-1/solution.py)
 4 | [New Year Chaos](https://www.hackerrank.com/challenges/new-year-chaos) | WIP
-5 | [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle) | WIP
+5 | [Bonetrousle](https://www.hackerrank.com/challenges/bonetrousle) | [Solution & Comment](solution/practice/algorithms/constructive-algorithms/bonetrousle/solution.py)
 6 | [Yet Another KMP Problem](https://www.hackerrank.com/challenges/kmp-problem) | WIP
 7 | [Beautiful 3 Set](https://www.hackerrank.com/challenges/beautiful-3-set) | WIP
 8 | [Inverse RMQ](https://www.hackerrank.com/challenges/inverse-rmq) | WIP
@@ -670,7 +670,7 @@ Mathematics
 * [Number Theory](#number-theory) (0/67)
 * [Combinatorics](#combinatorics) (0/53)
 * [Algebra](#algebra) (0/35)
-* [Geometry](#geometry) (0/26)
+* [Geometry](#geometry) (1/26)
 * [Probability](#probability) (0/24)
 * [Linear Algebra Foundations](#linear-algebra-foundations) (0/17)
 
@@ -877,7 +877,7 @@ Mathematics
 \# | Challenge | Solution
 :---:|:---:|:---:
 1 | [Points On a Line](https://www.hackerrank.com/challenges/points-on-a-line) | WIP
-2 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | WIP
+2 | [Rectangular Game](https://www.hackerrank.com/challenges/rectangular-game) | [Solution & Comment](solution/practice/mathematics/geometry/rectangular-game/solution.py)
 3 | [Sherlock and Counting](https://www.hackerrank.com/challenges/sherlock-and-counting) | WIP
 4 | [Sherlock and Planes](https://www.hackerrank.com/challenges/sherlock-and-planes) | WIP
 5 | [Circle City](https://www.hackerrank.com/challenges/circle-city) | WIP
