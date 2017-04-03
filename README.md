@@ -8,7 +8,7 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (56/409)
+* [Algorithms](#algorithms) (60/409)
 * [Data Structures](#data-structures) (11/114)
 * [Mathematics](#mathematics) (1/250)
 
@@ -22,11 +22,11 @@ Algorithms
 * [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (8/22)
-* [Dynamic Programming](#dynamic-programming) (5/94)
+* [Dynamic Programming](#dynamic-programming) (8/94)
 * [Constructive Algorithms](#constructive-algorithms) (2/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (3/10)
-* [Game Theory](#game-theory) (0/31)
+* [Game Theory](#game-theory) (1/31)
 * [NP Complete](#np-complete) (0/4)
 
 ### Warmup
@@ -296,7 +296,7 @@ Algorithms
 :---:|:---:|:---:
 1 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | WIP
 2 | [Equal](https://www.hackerrank.com/challenges/equal) | WIP
-3 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | WIP
+3 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/sherlock-and-cost/solution.py)
 4 | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | WIP
 5 | [Vertical Sticks](https://www.hackerrank.com/challenges/vertical-sticks) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/vertical-sticks/solution.py)
 6 | [Candies](https://www.hackerrank.com/challenges/candies) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/candies/solution.py)
@@ -344,13 +344,13 @@ Algorithms
 48 | [Queens on Board](https://www.hackerrank.com/challenges/queens-on-board) | WIP
 49 | [Shashank and the Palindromic Strings](https://www.hackerrank.com/challenges/shashank-and-palindromic-strings) | WIP
 50 | [Points in a Plane](https://www.hackerrank.com/challenges/points-in-a-plane) | WIP
-51 | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job) | WIP
+51 | [The Indian Job](https://www.hackerrank.com/challenges/the-indian-job) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/the-indian-job/solution.py)
 52 | [Requirement](https://www.hackerrank.com/challenges/requirement) | WIP
 53 | [A Super Hero](https://www.hackerrank.com/challenges/a-super-hero) | WIP
 54 | [Clues on a Binary Path](https://www.hackerrank.com/challenges/clues-on-a-binary-path) | WIP
 55 | [Road Maintenance](https://www.hackerrank.com/challenges/road-maintenance) | WIP
 56 | [Billboards](https://www.hackerrank.com/challenges/billboards) | WIP
-57 | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string) | WIP
+57 | [Beautiful Strings](https://www.hackerrank.com/challenges/beautiful-string) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/beautiful-string/solution.py)
 58 | [Covering the stains](https://www.hackerrank.com/challenges/covering-the-stains) | WIP
 59 | [GCD Matrix](https://www.hackerrank.com/challenges/gcd-matrix) | WIP
 60 | [Fairy Chess](https://www.hackerrank.com/challenges/fairy-chess) | WIP
@@ -450,7 +450,7 @@ Algorithms
 ### Game Theory
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1) | WIP
+1 | [Game of Stones](https://www.hackerrank.com/challenges/game-of-stones-1) | [Solution & Comment](solution/practice/algorithms/game-theory/game-of-stones-1/solution.py)
 2 | [Tower Breakers ](https://www.hackerrank.com/challenges/tower-breakers-1) | WIP
 3 | [A Chessboard Game](https://www.hackerrank.com/challenges/a-chessboard-game-1) | WIP
 4 | [Introduction to Nim Game](https://www.hackerrank.com/challenges/nim-game-1) | WIP
