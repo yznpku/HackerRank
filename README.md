@@ -8,7 +8,7 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (60/409)
+* [Algorithms](#algorithms) (61/409)
 * [Data Structures](#data-structures) (11/114)
 * [Mathematics](#mathematics) (1/250)
 
