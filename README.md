@@ -22,7 +22,7 @@ Algorithms
 * [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (8/22)
-* [Dynamic Programming](#dynamic-programming) (8/94)
+* [Dynamic Programming](#dynamic-programming) (9/94)
 * [Constructive Algorithms](#constructive-algorithms) (2/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (3/10)
@@ -294,7 +294,7 @@ Algorithms
 ### Dynamic Programming
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | WIP
+1 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/Coin-Change-Problem/solution.py)
 2 | [Equal](https://www.hackerrank.com/challenges/equal) | WIP
 3 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/sherlock-and-cost/solution.py)
 4 | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | WIP
