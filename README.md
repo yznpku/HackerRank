@@ -16,7 +16,7 @@ Algorithms
 ------
 
 * [Warmup](#warmup) (9/9)
-* [Implementation](#implementation) (8/59)
+* [Implementation](#implementation) (9/59)
 * [Strings](#strings) (11/45)
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (3/23)
@@ -61,7 +61,7 @@ Algorithms
 14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
 15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
 16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
-17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | WIP
+17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [Solution & Comment](solution/practice/algorithms/implementation/AngryProfessor/solution.py)
 18 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
 19 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
 20 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
