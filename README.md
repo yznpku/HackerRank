@@ -22,7 +22,7 @@ Algorithms
 * [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (8/22)
-* [Dynamic Programming](#dynamic-programming) (9/94)
+* [Dynamic Programming](#dynamic-programming) (10/94)
 * [Constructive Algorithms](#constructive-algorithms) (2/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (3/10)
@@ -305,7 +305,7 @@ Algorithms
 9 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/abbr/solution.py)
 10 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) | WIP
 11 | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut) | WIP
-12 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | WIP
+12 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/TheMaximumSubarray/solution.py)
 13 | [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) | WIP
 14 | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) | WIP
 15 | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums) | WIP
