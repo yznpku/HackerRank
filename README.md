@@ -16,7 +16,7 @@ Algorithms
 ------
 
 * [Warmup](#warmup) (9/9)
-* [Implementation](#implementation) (9/59)
+* [Implementation](#implementation) (10/59)
 * [Strings](#strings) (11/45)
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (3/23)
@@ -58,7 +58,7 @@ Algorithms
 11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
 12 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
 13 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
-14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
+14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution & Comment](solution/practice/algorithms/implementation/TheHurdleRace/solution.py)
 15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
 16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
 17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [Solution & Comment](solution/practice/algorithms/implementation/AngryProfessor/solution.py)
