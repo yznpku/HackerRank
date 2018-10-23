@@ -494,8 +494,8 @@ Data Structures
 ------
 
 * [Arrays](#arrays) (6/6)
-* [Linked Lists](#linked-lists) (0/15)
-* [Trees](#trees) (0/15)
+* [Linked Lists](#linked-lists) (1/15)
+* [Trees](#trees) (1/15)
 * [Balanced Trees](#balanced-trees) (0/3)
 * [Stacks](#stacks) (0/9)
 * [Queues](#queues) (0/5)
@@ -518,7 +518,7 @@ Data Structures
 ### Linked Lists
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | WIP
+1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-list/print-the-elements-of-a-linked-list/solution.py)
 2 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | WIP
 3 | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | WIP
 4 | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | WIP
@@ -537,7 +537,7 @@ Data Structures
 ### Trees
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | WIP
+1 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | [Solution & Comment](solution/practice/data-structures/trees/TreePreorderTraversal/solution.py)
 2 | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | WIP
 3 | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | WIP
 4 | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | WIP
