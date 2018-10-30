@@ -55,12 +55,12 @@ Algorithms
 8 | [Bon App¨¦tit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
 9 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
 10 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
-11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
+11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution & Comment](solution/practice/algorithms/implementation/Cats-and-a-mouse/solution.py) 
 12 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
 13 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
 14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution & Comment](solution/practice/algorithms/implementation/TheHurdleRace/solution.py)
-15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
-16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
+15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution & Comment](solution/practice/algorithms/implementation/Designer-PDF-Viewer/solution.py)
+16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | [Solution & Comment](solution/practice/algorithms/implementation/Utopian-Tree/solution.py)
 17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [Solution & Comment](solution/practice/algorithms/implementation/AngryProfessor/solution.py)
 18 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
 19 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
@@ -70,8 +70,8 @@ Algorithms
 23 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
 24 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | WIP
 25 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | WIP
-26 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
-27 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | WIP
+26 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | [Solution & Comment](solution/practice/algorithms/implementation/Append-and-Delete/solution.py)
+27 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution & Comment](solution/practice/algorithms/implementation/Sherlock-And-Squares/solution.py)
 28 | [Library Fine](https://www.hackerrank.com/challenges/library-fine) | WIP
 29 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | WIP
 30 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | WIP
