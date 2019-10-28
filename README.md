@@ -601,7 +601,7 @@ Data Structures
 ### Multiple Choice
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | WIP
+1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | [Solution & Comment](solution/practice/data-structures/multiple-choice/how-well-do-you-know-trees/solution.py) 
 2 | [ Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | WIP
 3 | [ Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | WIP
 
