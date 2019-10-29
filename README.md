@@ -501,7 +501,7 @@ Data Structures
 * [Queues](#queues) (0/5)
 * [Heap](#heap) (0/4)
 * [Disjoint Set](#disjoint-set) (4/4)
-* [Multiple Choice](#multiple-choice) (0/3)
+* [Multiple Choice](#multiple-choice) (2/3)
 * [Trie](#trie) (0/2)
 * [Advanced](#advanced) (1/48)
 
@@ -601,8 +601,8 @@ Data Structures
 ### Multiple Choice
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | WIP
-2 | [ Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | WIP
+1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | [Solution & Comment](solution/practice/data-structures/multiple-choice/how-well-do-you-know-trees/solution.py) 
+2 | [ Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | [Solution & Comment](solution/practice/data-structures/multiple-choice/are-you-an-expert-on-data-structures/solution.py)
 3 | [ Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | WIP
 
 ### Trie
