@@ -9,7 +9,7 @@ Index
 ======
 
 * [Algorithms](#algorithms) (61/409)
-* [Data Structures](#data-structures) (11/114)
+* [Data Structures](#data-structures) (17/114)
 * [Mathematics](#mathematics) (1/250)
 
 Algorithms
@@ -501,7 +501,7 @@ Data Structures
 * [Queues](#queues) (0/5)
 * [Heap](#heap) (0/4)
 * [Disjoint Set](#disjoint-set) (4/4)
-* [Multiple Choice](#multiple-choice) (2/3)
+* [Multiple Choice](#multiple-choice) (3/3)
 * [Trie](#trie) (0/2)
 * [Advanced](#advanced) (1/48)
 
