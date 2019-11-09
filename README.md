@@ -8,21 +8,21 @@ The index below is auto-generated. See [update-challenge-list.py](util/update-ch
 Index
 ======
 
-* [Algorithms](#algorithms) (60/409)
-* [Data Structures](#data-structures) (11/114)
+* [Algorithms](#algorithms) (61/409)
+* [Data Structures](#data-structures) (17/114)
 * [Mathematics](#mathematics) (1/250)
 
 Algorithms
 ------
 
 * [Warmup](#warmup) (9/9)
-* [Implementation](#implementation) (8/59)
+* [Implementation](#implementation) (10/59)
 * [Strings](#strings) (11/45)
 * [Sorting](#sorting) (5/18)
 * [Search](#search) (3/23)
 * [Graph Theory](#graph-theory) (2/58)
 * [Greedy](#greedy) (8/22)
-* [Dynamic Programming](#dynamic-programming) (8/94)
+* [Dynamic Programming](#dynamic-programming) (10/94)
 * [Constructive Algorithms](#constructive-algorithms) (2/11)
 * [Bit Manipulation](#bit-manipulation) (0/25)
 * [Recursion](#recursion) (3/10)
@@ -55,13 +55,13 @@ Algorithms
 8 | [Bon App¨¦tit](https://www.hackerrank.com/challenges/bon-appetit) | [Solution & Comment](solution/practice/algorithms/implementation/bon-appetit/solution.py)
 9 | [Sock Merchant](https://www.hackerrank.com/challenges/sock-merchant) | [Solution & Comment](solution/practice/algorithms/implementation/sock-merchant/solution.py)
 10 | [Drawing Book ](https://www.hackerrank.com/challenges/drawing-book) | WIP
-11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | WIP
+11 | [Cats and a Mouse](https://www.hackerrank.com/challenges/cats-and-a-mouse) | [Solution & Comment](solution/practice/algorithms/implementation/Cats-and-a-mouse/solution.py) 
 12 | [Picking Numbers](https://www.hackerrank.com/challenges/picking-numbers) | WIP
 13 | [Climbing the Leaderboard](https://www.hackerrank.com/challenges/climbing-the-leaderboard) | WIP
-14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | WIP
-15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | WIP
-16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | WIP
-17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | WIP
+14 | [The Hurdle Race](https://www.hackerrank.com/challenges/the-hurdle-race) | [Solution & Comment](solution/practice/algorithms/implementation/TheHurdleRace/solution.py)
+15 | [Designer PDF Viewer](https://www.hackerrank.com/challenges/designer-pdf-viewer) | [Solution & Comment](solution/practice/algorithms/implementation/Designer-PDF-Viewer/solution.py)
+16 | [Utopian Tree](https://www.hackerrank.com/challenges/utopian-tree) | [Solution & Comment](solution/practice/algorithms/implementation/Utopian-Tree/solution.py)
+17 | [Angry Professor](https://www.hackerrank.com/challenges/angry-professor) | [Solution & Comment](solution/practice/algorithms/implementation/AngryProfessor/solution.py)
 18 | [Beautiful Days at the Movies](https://www.hackerrank.com/challenges/beautiful-days-at-the-movies) | WIP
 19 | [Viral Advertising](https://www.hackerrank.com/challenges/strange-advertising) | WIP
 20 | [Save the Prisoner!](https://www.hackerrank.com/challenges/save-the-prisoner) | WIP
@@ -70,8 +70,8 @@ Algorithms
 23 | [Jumping on the Clouds: Revisited](https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited) | WIP
 24 | [Find Digits](https://www.hackerrank.com/challenges/find-digits) | WIP
 25 | [Extra Long Factorials](https://www.hackerrank.com/challenges/extra-long-factorials) | WIP
-26 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | WIP
-27 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | WIP
+26 | [Append and Delete](https://www.hackerrank.com/challenges/append-and-delete) | [Solution & Comment](solution/practice/algorithms/implementation/Append-and-Delete/solution.py)
+27 | [Sherlock and Squares](https://www.hackerrank.com/challenges/sherlock-and-squares) | [Solution & Comment](solution/practice/algorithms/implementation/Sherlock-And-Squares/solution.py)
 28 | [Library Fine](https://www.hackerrank.com/challenges/library-fine) | WIP
 29 | [Cut the sticks](https://www.hackerrank.com/challenges/cut-the-sticks) | WIP
 30 | [Non-Divisible Subset](https://www.hackerrank.com/challenges/non-divisible-subset) | WIP
@@ -294,7 +294,7 @@ Algorithms
 ### Dynamic Programming
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | WIP
+1 | [The Coin Change Problem](https://www.hackerrank.com/challenges/coin-change) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/Coin-Change-Problem/solution.py)
 2 | [Equal](https://www.hackerrank.com/challenges/equal) | WIP
 3 | [Sherlock and Cost](https://www.hackerrank.com/challenges/sherlock-and-cost) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/sherlock-and-cost/solution.py)
 4 | [Kingdom Division](https://www.hackerrank.com/challenges/kingdom-division) | WIP
@@ -305,7 +305,7 @@ Algorithms
 9 | [Abbreviation](https://www.hackerrank.com/challenges/abbr) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/abbr/solution.py)
 10 | [Decibinary Numbers](https://www.hackerrank.com/challenges/decibinary-numbers) | WIP
 11 | [Fair Cut](https://www.hackerrank.com/challenges/fair-cut) | WIP
-12 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | WIP
+12 | [The Maximum Subarray](https://www.hackerrank.com/challenges/maxsubarray) | [Solution & Comment](solution/practice/algorithms/dynamic-programming/TheMaximumSubarray/solution.py)
 13 | [Angry Children 2](https://www.hackerrank.com/challenges/angry-children-2) | WIP
 14 | [Sherlock's Array Merging Algorithm](https://www.hackerrank.com/challenges/sherlocks-array-merging-algorithm) | WIP
 15 | [Prime Digit Sums](https://www.hackerrank.com/challenges/prime-digit-sums) | WIP
@@ -494,14 +494,14 @@ Data Structures
 ------
 
 * [Arrays](#arrays) (6/6)
-* [Linked Lists](#linked-lists) (0/15)
-* [Trees](#trees) (0/15)
+* [Linked Lists](#linked-lists) (1/15)
+* [Trees](#trees) (2/15)
 * [Balanced Trees](#balanced-trees) (0/3)
 * [Stacks](#stacks) (0/9)
 * [Queues](#queues) (0/5)
 * [Heap](#heap) (0/4)
 * [Disjoint Set](#disjoint-set) (4/4)
-* [Multiple Choice](#multiple-choice) (0/3)
+* [Multiple Choice](#multiple-choice) (3/3)
 * [Trie](#trie) (0/2)
 * [Advanced](#advanced) (1/48)
 
@@ -518,7 +518,7 @@ Data Structures
 ### Linked Lists
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | WIP
+1 | [Print the Elements of a Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list) | [Solution & Comment](solution/practice/data-structures/linked-list/print-the-elements-of-a-linked-list/solution.py)
 2 | [Insert a Node at the Tail of a Linked List](https://www.hackerrank.com/challenges/insert-a-node-at-the-tail-of-a-linked-list) | WIP
 3 | [Insert a node at the head of a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list) | WIP
 4 | [Insert a node at a specific position in a linked list](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list) | WIP
@@ -537,9 +537,9 @@ Data Structures
 ### Trees
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | WIP
+1 | [Tree: Preorder Traversal](https://www.hackerrank.com/challenges/tree-preorder-traversal) | [Solution & Comment](solution/practice/data-structures/trees/TreePreorderTraversal/solution.py)
 2 | [Tree: Postorder Traversal](https://www.hackerrank.com/challenges/tree-postorder-traversal) | WIP
-3 | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | WIP
+3 | [Tree: Inorder Traversal](https://www.hackerrank.com/challenges/tree-inorder-traversal) | [Solution & Comment](solution/practice/data-structures/trees/TreeInorderTraversal/solution.py)
 4 | [Tree: Height of a Binary Tree](https://www.hackerrank.com/challenges/tree-height-of-a-binary-tree) | WIP
 5 | [Tree : Top View](https://www.hackerrank.com/challenges/tree-top-view) | WIP
 6 | [Tree: Level Order Traversal](https://www.hackerrank.com/challenges/tree-level-order-traversal) | WIP
@@ -601,9 +601,9 @@ Data Structures
 ### Multiple Choice
 \# | Challenge | Solution
 :---:|:---:|:---:
-1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | WIP
-2 | [ Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | WIP
-3 | [ Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | WIP
+1 | [ Data Structures MCQ 1](https://www.hackerrank.com/challenges/how-well-do-you-know-trees) | [Solution & Comment](solution/practice/data-structures/multiple-choice/how-well-do-you-know-trees/solution.py) 
+2 | [ Data Structures MCQ 2](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures) | [Solution & Comment](solution/practice/data-structures/multiple-choice/are-you-an-expert-on-data-structures/solution.py)
+3 | [ Data Structures MCQ 3](https://www.hackerrank.com/challenges/are-you-an-expert-on-data-structures-1) | [Solution & Comment](solution/practice/data-structures/multiple-choice/are-you-an-expert-on-data-structures-1/solution.py)
 
 ### Trie
 \# | Challenge | Solution
